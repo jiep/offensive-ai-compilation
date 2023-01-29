@@ -170,6 +170,16 @@ ART supports the most popular frameworks: Tensorflow, Keras, PyTorch, MxNet, Sci
 
 It is not limited to the use of models that use images as input, but also supports other types of data, such as audio, video, tabular data, etc.
 
+###### Cleverhans
+
+[Cleverhans](https://github.com/cleverhans-lab/cleverhans) is a library for performing evasion attacks and testing the robustness of a deep learning model on image models.
+
+![Cleverhans logo](/assets/cleverhans.png)
+
+It is developed in Python and integrates with the Tensorflow, Torch and JAX frameworks.
+
+It implements numerous attacks such as L-BFGS, FGSM, JSMA, C&W, among others.
+
 ## Use
 
 ### Audio
