@@ -10,108 +10,110 @@ Exploiting the vulnerabilities of AI models.
 
 Adversarial Machine Learning is responsible for assessing their weaknesses and providing countermeasures.
 
+#### Attacks
+
 It is organized in four types of attacks: extraction, inversion, poisoning and evasion.
 
 ![Adversarial Machine Learning attacks](/assets/attacks.png)
 
-##### Attacks
+##### Extraction
 
-* **Extraction**: It tries to steal the parameters and hyperparameters of a model by making requests that maximize the extraction of information.
+It tries to steal the parameters and hyperparameters of a model by making requests that maximize the extraction of information.
 
-  ![Extraction attack](/assets/extraction.png)
+![Extraction attack](/assets/extraction.png)
 
-  Depending on the knowledge of the adversary's model, white-box and black-box attacks can be performed.
+Depending on the knowledge of the adversary's model, white-box and black-box attacks can be performed.
 
-  In the simplest white-box case (when the adversary has full knowledge of the model, e.g., a sigmoid function), one can create a system of linear equations that can be easily solved.
+In the simplest white-box case (when the adversary has full knowledge of the model, e.g., a sigmoid function), one can create a system of linear equations that can be easily solved.
 
-  In the generic case, where there is insufficient knowledge of the model, the substitute model is used. This model is trained with the requests made to the original model in order to imitate the same functionality as the original one.
+In the generic case, where there is insufficient knowledge of the model, the substitute model is used. This model is trained with the requests made to the original model in order to imitate the same functionality as the original one.
 
-  ![White-box and black-box extraction attacks](/assets/extraction-white-black-box.png)
+![White-box and black-box extraction attacks](/assets/extraction-white-black-box.png)
 
-  **Limitations**
+###### Limitations
 
-    * Training a substitute model is equivalent (in many cases) to training a model from scratch.
+  * Training a substitute model is equivalent (in many cases) to training a model from scratch.
 
-    * Very computationally intensive.
+  * Very computationally intensive.
 
-    * The adversary has limitations on the number of requests before being detected.
+  * The adversary has limitations on the number of requests before being detected.
 
-  **Defensive actions**
+###### Defensive actions
 
-    * Rounding of output values.
+  * Rounding of output values.
 
-    * Use of [differential privacy](https://en.wikipedia.org/wiki/Differential_privacy).
+  * Use of [differential privacy](https://en.wikipedia.org/wiki/Differential_privacy).
 
-    * Use of ensembles.
+  * Use of ensembles.
 
-    * Use of specific defenses
-      * [Specific architectures](https://arxiv.org/abs/1711.07221)
-      * [PRADA](https://arxiv.org/abs/1805.02628)
-      * [Adaptive Misinformation](https://arxiv.org/abs/1911.07100)
-      * ...
+  * Use of specific defenses
+    * [Specific architectures](https://arxiv.org/abs/1711.07221)
+    * [PRADA](https://arxiv.org/abs/1805.02628)
+    * [Adaptive Misinformation](https://arxiv.org/abs/1911.07100)
+    * ...
 
-* **Inversion (or inference)**
+##### Inversion (or inference)
   
-  They are intended to reverse the information flow of a machine learning model.
+They are intended to reverse the information flow of a machine learning model.
 
-  ![Inference attack](/assets/inference.png)
+![Inference attack](/assets/inference.png)
 
-  They enable an adversary to have knowledge of the model that was not explicitly intended to be shared.
+They enable an adversary to have knowledge of the model that was not explicitly intended to be shared.
 
-  They allow to know the training data or information as statistical properties of the model.
+They allow to know the training data or information as statistical properties of the model.
 
-  Three types are possible:
+Three types are possible:
 
-    * **Membership Inference Attack (MIA)**: An adversary attempts to determine whether a sample was employed as part of the training. 
+  * **Membership Inference Attack (MIA)**: An adversary attempts to determine whether a sample was employed as part of the training. 
 
-    * **Property Inference Attack (PIA)**: An adversary aims to extract statistical properties that were not explicitly encoded as features during the training phase.
+  * **Property Inference Attack (PIA)**: An adversary aims to extract statistical properties that were not explicitly encoded as features during the training phase.
 
-    * **Reconstruction**: An adversary tries to reconstruct one or more samples from the training set and/or their corresponding labels. Also called inversion.
+  * **Reconstruction**: An adversary tries to reconstruct one or more samples from the training set and/or their corresponding labels. Also called inversion.
 
-  
-  **Defensive actions**
 
-    * Use of advanced cryptography. Countermeasures include differential privacy, homomorphic cryptography and secure multiparty computation.
+###### Defensive actions
 
-    * Use of regularization techniques such as Dropout due to the relationship between overtraining and privacy.
+  * Use of advanced cryptography. Countermeasures include differential privacy, homomorphic cryptography and secure multiparty computation.
 
-    * Model compression has been proposed as a defense against reconstruction attacks.
+  * Use of regularization techniques such as Dropout due to the relationship between overtraining and privacy.
 
-* **Poisoning**
+  * Model compression has been proposed as a defense against reconstruction attacks.
 
-  They aim to corrupt the training set by causing a machine learning model to reduce its accuracy.
+##### Poisoning
 
-  ![Poisoning attack](/assets/poisoning.png)
+They aim to corrupt the training set by causing a machine learning model to reduce its accuracy.
 
-  This attack is difficult to detect when performed on the training data, since the attack can propagate among different models using the same training data.
+![Poisoning attack](/assets/poisoning.png)
 
-  The adversary seeks to destroy the availability of the model by modifying the decision boundary and, as a result, producing incorrect predictions or, create a backdoor in a model. In the latter,  the model behaves correctly (returning the desired predictions) in most cases, except for certain inputs specially created by the adversary that produce undesired results. The adversary can manipulate the results of the predictions and launch future attacks.
+This attack is difficult to detect when performed on the training data, since the attack can propagate among different models using the same training data.
 
-  **Backdoors**
+The adversary seeks to destroy the availability of the model by modifying the decision boundary and, as a result, producing incorrect predictions or, create a backdoor in a model. In the latter,  the model behaves correctly (returning the desired predictions) in most cases, except for certain inputs specially created by the adversary that produce undesired results. The adversary can manipulate the results of the predictions and launch future attacks.
 
-  [BadNets](https://arxiv.org/abs/1708.06733) are the simplest type of backdoor in a machine learning model. Moreover, BadNets are able to be preserved in a model, even if they are retrained again for a different task than the original model (transfer learning).
+###### Backdoors
 
-  It is important to note that **public pre-trained models may contain backdoors**.
+[BadNets](https://arxiv.org/abs/1708.06733) are the simplest type of backdoor in a machine learning model. Moreover, BadNets are able to be preserved in a model, even if they are retrained again for a different task than the original model (transfer learning).
 
-  **Defensive actions**
+It is important to note that **public pre-trained models may contain backdoors**.
 
-    * Detection of poisoned data, along with the use of data sanitization.
+###### Defensive actions
 
-    * Robust training methods.
+  * Detection of poisoned data, along with the use of data sanitization.
 
-    * Specific defenses.
+  * Robust training methods.
 
-* **Evasion**
+  * Specific defenses.
 
-  An adversary adds a small perturbation (in the form of noise) to the input of a machine learning model to make it classify incorrectly (example adversary).
+##### Evasion
 
-  ![Evasion attack](/assets/evasion.png)
+An adversary adds a small perturbation (in the form of noise) to the input of a machine learning model to make it classify incorrectly (example adversary).
 
-  They are similar to poisoning attacks, but their main difference is that evasion attacks try to exploit weaknesses of the model in the inference phase. 
+![Evasion attack](/assets/evasion.png)
 
-  The goal of the adversary is for adversarial examples to be imperceptible to a human.
+They are similar to poisoning attacks, but their main difference is that evasion attacks try to exploit weaknesses of the model in the inference phase. 
 
-  Two types of attack can be performed depending on the output desired by the opponent:
+The goal of the adversary is for adversarial examples to be imperceptible to a human.
+
+Two types of attack can be performed depending on the output desired by the opponent:
 
   * **Targeted**: the adversary aims to obtain a prediction of his choice.
 
@@ -121,28 +123,28 @@ It is organized in four types of attacks: extraction, inversion, poisoning and e
 
     ![Untargeted attack](/assets/untargeted.png)
 
-  The most common attacks are **white-box attacks**:
+The most common attacks are **white-box attacks**:
 
-    * L-BFGS
-    * FGSM
-    * BIM
-    * JSMA
-    * Carlini & Wagner (C&W)
-    * NewtonFool
-    * EAD
-    * BIM
-    * UAP
-    * ...
+  * L-BFGS
+  * FGSM
+  * BIM
+  * JSMA
+  * Carlini & Wagner (C&W)
+  * NewtonFool
+  * EAD
+  * BIM
+  * UAP
+  * ...
 
-  **Defensive actions**
+###### Defensive actions
 
-    * Adversarial training, which consists of crafting adversarial examples during training so as to allow the model to learn features of the adversarial examples, making the model more robust to this type of attack.
+  * Adversarial training, which consists of crafting adversarial examples during training so as to allow the model to learn features of the adversarial examples, making the model more robust to this type of attack.
 
-    * Transformations on inputs.
+  * Transformations on inputs.
 
-    * Gradient masking/regularization. Not very effective.
+  * Gradient masking/regularization. Not very effective.
 
-    * Weak defenses.
+  * Weak defenses.
 
 #### Tools 
 
