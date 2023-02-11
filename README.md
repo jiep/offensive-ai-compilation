@@ -204,9 +204,20 @@ It implements numerous attacks such as L-BFGS, FGSM, JSMA, C&W, among others.
 
 #### Tools
 
+  * [StyleGAN](https://github.com/NVlabs/stylegan): StyleGAN - Official TensorFlow Implementation. [![stars](https://badgen.net/github/stars/NVlabs/stylegan)](https://github.com/NVlabs/stylegan)
+  * [StyleGAN2](https://github.com/NVlabs/stylegan2): StyleGAN2 - Official TensorFlow Implementation. [![stars](https://badgen.net/github/stars/NVlabs/stylegan2)](https://github.com/NVlabs/stylegan2)
+  * [stylegan2-ada-pytorch](https://github.com/NVlabs/stylegan2-ada-pytorch): StyleGAN2-ADA - Official PyTorch implementation. [![stars](https://badgen.net/github/stars/NVlabs/stylegan2-ada-pytorch)](https://github.com/NVlabs/stylegan2-ada-pytorch) 
+  * [StyleGAN3](https://github.com/NVlabs/stylegan3): Official PyTorch implementation of StyleGAN3. [![stars](https://badgen.net/github/stars/NVlabs/stylegan3)](https://github.com/NVlabs/stylegan3)
+  * [Imaginaire](https://github.com/NVlabs/imaginaire): Imaginaire is a pytorch library that contains optimized implementation of several image and video synthesis methods developed at NVIDIA. [![stars](https://badgen.net/github/stars/NVlabs/imaginaire)](https://github.com/NVlabs/imaginaire)
+  * [eg3d](https://github.com/NVlabs/eg3d): Efficient Geometry-aware 3D Generative Adversarial Networks. [![stars](https://badgen.net/github/stars/NVlabs/eg3d)](https://github.com/NVlabs/eg3d)
+  * [ffhq-dataset](https://github.com/NVlabs/ffhq-dataset): Flickr-Faces-HQ Dataset (FFHQ). [![stars](https://badgen.net/github/stars/NVlabs/ffhq-dataset)](https://github.com/NVlabs/ffhq-dataset)
+
+
 #### Applications
 
 #### Detection
+
+  * [stylegan3-detector](https://github.com/NVlabs/stylegan3-detector): StyleGAN3 Synthetic Image Detection. [![stars](https://badgen.net/github/stars/NVlabs/stylegan3-detector)](https://github.com/NVlabs/stylegan3-detector)
 
 ### Video
 
