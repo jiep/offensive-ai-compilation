@@ -196,6 +196,9 @@ It implements numerous attacks such as L-BFGS, FGSM, JSMA, C&W, among others.
   * [DiffSinger](https://github.com/MoonInTheRiver/DiffSinger): Singing Voice Synthesis via Shallow Diffusion Mechanism (SVS & TTS). [![stars](https://badgen.net/github/stars/MoonInTheRiver/DiffSinger)](https://github.com/MoonInTheRiver/DiffSinger)
   * [Vall-E](https://github.com/enhuiz/vall-e): An unofficial PyTorch implementation of the audio LM VALL-E. [![stars](https://badgen.net/github/stars/enhuiz/vall-e)](https://github.com/enhuiz/vall-e)
   * [TorToiSe](https://github.com/neonbjb/tortoise-tts): A multi-voice TTS system trained with an emphasis on quality. [![stars](https://badgen.net/github/stars/neonbjb/tortoise-tts)](https://github.com/neonbjb/tortoise-tts)
+  * [🎸 Riffusion](https://github.com/riffusion/riffusion): Stable diffusion for real-time music generation. [![stars](https://badgen.net/github/stars/riffusion/riffusion)](https://github.com/riffusion/riffusion)
+  * [whisper.cpp](https://github.com/ggerganov/whisper.cpp): Port of OpenAI's Whisper model in C/C++. [![stars](https://badgen.net/github/stars/ggerganov/whisper.cpp)](https://github.com/ggerganov/whisper.cpp)
+  * 
 
 #### Applications
 
@@ -222,6 +225,19 @@ It implements numerous attacks such as L-BFGS, FGSM, JSMA, C&W, among others.
   * [DifFace](https://github.com/zsyOAOA/DifFace): Blind Face Restoration with Diffused Error Contraction (PyTorch). [![stars](https://badgen.net/github/stars/zsyOAOA/DifFace)](https://github.com/zsyOAOA/DifFace)
   * [CodeFormer](https://github.com/sczhou/CodeFormer): Towards Robust Blind Face Restoration with Codebook Lookup Transformer. [![stars](https://badgen.net/github/stars/sczhou/CodeFormer)](https://github.com/sczhou/CodeFormer)
   * [Custom Diffusion](https://github.com/adobe-research/custom-diffusion): Multi-Concept Customization of Text-to-Image Diffusion. [![stars](https://badgen.net/github/stars/adobe-research/custom-diffusion)](https://github.com/adobe-research/custom-diffusion)
+  * [Diffusers](https://github.com/huggingface/diffusers): 🤗 Diffusers: State-of-the-art diffusion models for image and audio generation in PyTorch. [![stars](https://badgen.net/github/stars/huggingface/diffusers)](https://github.com/huggingface/diffusers)
+  * [Stable Diffusion](https://github.com/Stability-AI/stablediffusion): High-Resolution Image Synthesis with Latent Diffusion Models. [![stars](https://badgen.net/github/stars/Stability-AI/stablediffusion)](https://github.com/Stability-AI/stablediffusion)
+  * [InvokeAI](https://github.com/invoke-ai/InvokeAI): InvokeAI is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The solution offers an industry leading WebUI, supports terminal use through a CLI, and serves as the foundation for multiple commercial products. [![stars](https://badgen.net/github/stars/invoke-ai/InvokeAI)](https://github.com/invoke-ai/InvokeAI)
+  * [Stable Diffusion web UI](https://github.com/AUTOMATIC1111/stable-diffusion-webui): Stable Diffusion web UI. [![stars](https://badgen.net/github/stars/AUTOMATIC1111/stable-diffusion-webui)](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
+  * [Stable Diffusion Infinity](https://github.com/lkwq007/stablediffusion-infinity): Outpainting with Stable Diffusion on an infinite canvas. [![stars](https://badgen.net/github/stars/lkwq007/stablediffusion-infinity)](https://github.com/lkwq007/stablediffusion-infinity)
+  * [Fast Stable Diffusion](https://github.com/TheLastBen/fast-stable-diffusion): fast-stable-diffusion + DreamBooth. [![stars](https://badgen.net/github/stars/TheLastBen/fast-stable-diffusion)](https://github.com/TheLastBen/fast-stable-diffusion)
+  * [GET3D](https://github.com/nv-tlabs/GET3D): A Generative Model of High Quality 3D Textured Shapes Learned from Images. [![stars](https://badgen.net/github/stars/nv-tlabs/GET3D)](https://github.com/nv-tlabs/GET3D)
+  * [Awesome AI Art Image Synthesis](https://github.com/altryne/awesome-ai-art-image-synthesis): A list of awesome tools, ideas, prompt engineering tools, colabs, models, and helpers for the prompt designer playing with aiArt and image synthesis. Covers Dalle2, MidJourney, StableDiffusion, and open source tools. [![stars](https://badgen.net/github/stars/altryne/awesome-ai-art-image-synthesis)](https://github.com/altryne/awesome-ai-art-image-synthesis)
+  * [Stable Diffusion](https://github.com/CompVis/stable-diffusion): A latent text-to-image diffusion model. [![stars](https://badgen.net/github/stars/CompVis/stable-diffusion)](https://github.com/CompVis/stable-diffusion)
+  * [Weather Diffusion](https://github.com/IGITUGraz/WeatherDiffusion): Code for "Restoring Vision in Adverse Weather Conditions with Patch-Based Denoising Diffusion Models". [![stars](https://badgen.net/github/stars/IGITUGraz/WeatherDiffusion)](https://github.com/IGITUGraz/WeatherDiffusion)
+  * [DF-GAN](https://github.com/tobran/DF-GAN): A Simple and Effective Baseline for Text-to-Image Synthesis. [![stars](https://badgen.net/github/stars/tobran/DF-GAN)](https://github.com/tobran/DF-GAN)
+  * [Dall-E Playground](https://github.com/saharmor/dalle-playground): A playground to generate images from any text prompt using Stable Diffusion (past: using DALL-E Mini). [![stars](https://badgen.net/github/stars/saharmor/dalle-playground)](https://github.com/saharmor/dalle-playground)
+  * [StyleNeRF](https://github.com/facebookresearch/StyleNeRF): This is the open source implementation of the ICLR2022 paper "StyleNeRF: A Style-based 3D-Aware Generator for High-resolution Image Synthesis". [![stars](https://badgen.net/github/stars/facebookresearch/StyleNeRF)](https://github.com/facebookresearch/StyleNeRF)
 
 
 #### Applications
@@ -249,6 +265,8 @@ It implements numerous attacks such as L-BFGS, FGSM, JSMA, C&W, among others.
   * [DeepFake-Detection](https://github.com/dessa-oss/DeepFake-Detection): Towards deepfake detection that actually works. [![stars](https://badgen.net/github/stars/dessa-oss/DeepFake-Detection)](https://github.com/dessa-oss/DeepFake-Detection)
   * [fakeVideoForensics](https://github.com/bbvanexttechnologies/fakeVideoForensics): Detect deep fakes videos. [![stars](https://badgen.net/github/stars/bbvanexttechnologies/fakeVideoForensics)](https://github.com/bbvanexttechnologies/fakeVideoForensics)
   * [Deepfake-Detection](https://github.com/HongguLiu/Deepfake-Detection): The Pytorch implemention of Deepfake Detection based on Faceforensics++. [![stars](https://badgen.net/github/stars/HongguLiu/Deepfake-Detection)](https://github.com/HongguLiu/Deepfake-Detection)
+  * [SeqDeepFake](https://github.com/rshaojimmy/SeqDeepFake): PyTorch code for SeqDeepFake: Detecting and Recovering Sequential DeepFake Manipulation. [![stars](https://badgen.net/github/stars/rshaojimmy/SeqDeepFake)](https://github.com/rshaojimmy/SeqDeepFake)
+  * [PCL-I2G](https://github.com/jtchen0528/PCL-I2G): Unofficial Implementation: Learning Self-Consistency for Deepfake Detection. [![stars](https://badgen.net/github/stars/jtchen0528/PCL-I2G)](https://github.com/jtchen0528/PCL-I2G)
 
 ### Text
 
@@ -267,10 +285,20 @@ It implements numerous attacks such as L-BFGS, FGSM, JSMA, C&W, among others.
   * [minGPT](https://github.com/karpathy/minGPT): A minimal PyTorch re-implementation of the OpenAI GPT (Generative Pretrained Transformer) training. [![stars](https://badgen.net/github/stars/karpathy/minGPT)](https://github.com/karpathy/minGPT)
   * [CodeGeeX](https://github.com/THUDM/CodeGeeX): An Open Multilingual Code Generation Model. [![stars](https://badgen.net/github/stars/THUDM/CodeGeeX)](https://github.com/THUDM/CodeGeeX)
   * [OpenAI Cookbook](https://github.com/openai/openai-cookbook): Examples and guides for using the OpenAI API. [![stars](https://badgen.net/github/stars/openai/openai-cookbook)](https://github.com/openai/openai-cookbook)
+  * [🧠 Awesome ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts): This repo includes ChatGPT prompt curation to use ChatGPT better. [![stars](https://badgen.net/github/stars/f/awesome-chatgpt-prompts)](https://github.com/f/awesome-chatgpt-prompts)
+  * [Alice](https://github.com/greshake/Alice): Giving ChatGPT access to a real terminal. [![stars](https://badgen.net/github/stars/greshake/Alice)](https://github.com/greshake/Alice)
+  * 
 
 #### Detection
 
 #### Applications
+
+### Misc
+
+  * [🚀 Awesome Reinforcement Learning for Cyber Security](https://github.com/Limmen/awesome-rl-for-cybersecurity): A curated list of resources dedicated to reinforcement learning applied to cyber security. [![stars](https://badgen.net/github/stars/Limmen/awesome-rl-for-cybersecurity)](https://github.com/Limmen/awesome-rl-for-cybersecurity)
+  * [Awesome Machine Learning for Cyber Security](https://github.com/jivoi/awesome-ml-for-cybersecurity): A curated list of amazingly awesome tools and resources related to the use of machine learning for cyber security. [![stars](https://badgen.net/github/stars/jivoi/awesome-ml-for-cybersecurity)](https://github.com/jivoi/awesome-ml-for-cybersecurity)
+  * [Hugging Face Diffusion Models Course](https://github.com/huggingface/diffusion-models-class): Materials for the Hugging Face Diffusion Models Course. [![stars](https://badgen.net/github/stars/huggingface/diffusion-models-class)](https://github.com/huggingface/diffusion-models-class)
+
 
 ## Contributors
 
