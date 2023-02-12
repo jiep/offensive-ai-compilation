@@ -14,13 +14,13 @@ Adversarial Machine Learning is responsible for assessing their weaknesses and p
 
 It is organized in four types of attacks: extraction, inversion, poisoning and evasion.
 
-![Adversarial Machine Learning attacks](/assets/attacks.png)
+![Adversarial Machine Learning attacks](/assets/images/attacks.png)
 
 ##### 🔒 Extraction 🔒
 
 It tries to steal the parameters and hyperparameters of a model by making requests that maximize the extraction of information.
 
-![Extraction attack](/assets/extraction.png)
+![Extraction attack](/assets/images/extraction.png)
 
 Depending on the knowledge of the adversary's model, white-box and black-box attacks can be performed.
 
@@ -28,7 +28,7 @@ In the simplest white-box case (when the adversary has full knowledge of the mod
 
 In the generic case, where there is insufficient knowledge of the model, the substitute model is used. This model is trained with the requests made to the original model in order to imitate the same functionality as the original one.
 
-![White-box and black-box extraction attacks](/assets/extraction-white-black-box.png)
+![White-box and black-box extraction attacks](/assets/images/extraction-white-black-box.png)
 
 ###### ⚠️ Limitations ⚠️
 
@@ -56,7 +56,7 @@ In the generic case, where there is insufficient knowledge of the model, the sub
   
 They are intended to reverse the information flow of a machine learning model.
 
-![Inference attack](/assets/inference.png)
+![Inference attack](/assets/images/inference.png)
 
 They enable an adversary to have knowledge of the model that was not explicitly intended to be shared.
 
@@ -83,7 +83,7 @@ Three types are possible:
 
 They aim to corrupt the training set by causing a machine learning model to reduce its accuracy.
 
-![Poisoning attack](/assets/poisoning.png)
+![Poisoning attack](/assets/images/poisoning.png)
 
 This attack is difficult to detect when performed on the training data, since the attack can propagate among different models using the same training data.
 
@@ -107,7 +107,7 @@ It is important to note that **public pre-trained models may contain backdoors**
 
 An adversary adds a small perturbation (in the form of noise) to the input of a machine learning model to make it classify incorrectly (example adversary).
 
-![Evasion attack](/assets/evasion.png)
+![Evasion attack](/assets/images/evasion.png)
 
 They are similar to poisoning attacks, but their main difference is that evasion attacks try to exploit weaknesses of the model in the inference phase. 
 
@@ -117,11 +117,11 @@ Two types of attack can be performed depending on the output desired by the oppo
 
   * **Targeted**: the adversary aims to obtain a prediction of his choice.
 
-    ![Targeted attack](/assets/targeted.png)
+    ![Targeted attack](/assets/images/targeted.png)
 
   * **Untargeted**: the adversary intends to achieve a misclassification.
 
-    ![Untargeted attack](/assets/untargeted.png)
+    ![Untargeted attack](/assets/images/untargeted.png)
 
 The most common attacks are **white-box attacks**:
 
@@ -164,7 +164,7 @@ The most common attacks are **white-box attacks**:
 
 [Adversarial Robustness Toolbox](https://github.com/Trusted-AI/adversarial-robustness-toolbox), abbreviated as ART, is an open-source Adversarial Machine Learning library for testing the robustness of machine learning models.
 
-![ART logo](/assets/art.png)
+![ART logo](/assets/images/art.png)
 
 It is developed in Python and implements extraction, inversion, poisoning and evasion attacks and defenses.
 
@@ -178,7 +178,7 @@ It is not limited to the use of models that use images as input, but also suppor
 
 [Cleverhans](https://github.com/cleverhans-lab/cleverhans) is a library for performing evasion attacks and testing the robustness of a deep learning model on image models.
 
-![Cleverhans logo](/assets/cleverhans.png)
+![Cleverhans logo](/assets/images/cleverhans.png)
 
 It is developed in Python and integrates with the Tensorflow, Torch and JAX frameworks.
 
