@@ -202,9 +202,10 @@ It implements numerous attacks such as L-BFGS, FGSM, JSMA, C&W, among others.
   * [whisper.cpp](https://github.com/ggerganov/whisper.cpp): Port of OpenAI's Whisper model in C/C++. [![stars](https://badgen.net/github/stars/ggerganov/whisper.cpp)](https://github.com/ggerganov/whisper.cpp)
   * [TTS](https://github.com/coqui-ai/TTS): 🐸💬 - a deep learning toolkit for Text-to-Speech, battle-tested in research and production. [![stars](https://badgen.net/github/stars/coqui-ai/TTS)](https://github.com/coqui-ai/TTS)
   * [YourTTS](https://github.com/Edresson/YourTTS): Towards Zero-Shot Multi-Speaker TTS and Zero-Shot Voice Conversion for everyone. [![stars](https://badgen.net/github/stars/Edresson/YourTTS)](https://github.com/Edresson/YourTTS)
-  * 
 
 #### Applications
+
+  * [Lip2Wav](https://github.com/Rudrabha/Lip2Wav): Generate high quality speech from only lip movements. [![stars](https://badgen.net/github/stars/Rudrabha/Lip2Wav)](https://github.com/Rudrabha/Lip2Wav)
 
 #### Detection
   * [fake-voice-detection](https://github.com/dessa-oss/fake-voice-detection): Using temporal convolution to detect Audio Deepfakes. [![stars](https://badgen.net/github/stars/dessa-oss/fake-voice-detection)](https://github.com/dessa-oss/fake-voice-detection)
@@ -250,10 +251,16 @@ It implements numerous attacks such as L-BFGS, FGSM, JSMA, C&W, among others.
   * [Person_reID_baseline_pytorch](https://github.com/layumi/Person_reID_baseline_pytorch): Pytorch ReID: A tiny, friendly, strong pytorch implement of object re-identification baseline. [![stars](https://badgen.net/github/stars/layumi/Person_reID_baseline_pytorch)](https://github.com/layumi/Person_reID_baseline_pytorch)
   * [GFPGAN](https://github.com/TencentARC/GFPGAN): GFPGAN aims at developing Practical Algorithms for Real-world Face Restoration. [![stars](https://badgen.net/github/stars/TencentARC/GFPGAN)](https://github.com/TencentARC/GFPGAN)
   * [DeepVecFont](https://github.com/yizhiwang96/deepvecfont): Synthesizing High-quality Vector Fonts via Dual-modality Learning. [![stars](https://badgen.net/github/stars/yizhiwang96/deepvecfont)](https://github.com/yizhiwang96/deepvecfont)
-
-
+  * [MM-CelebA-HQ-Dataset](https://github.com/IIGROUP/MM-CelebA-HQ-Dataset): A large-scale face image dataset that allows text-to-image generation, text-guided image manipulation, sketch-to-image generation, GANs for face generation and editing, image caption, and VQA. [![stars](https://badgen.net/github/stars/IIGROUP/MM-CelebA-HQ-Dataset)](https://github.com/IIGROUP/MM-CelebA-HQ-Dataset)
+  * [TediGAN](https://github.com/IIGROUP/TediGAN): Pytorch implementation for TediGAN: Text-Guided Diverse Face Image Generation and Manipulation. [![stars](https://badgen.net/github/stars/IIGROUP/TediGAN)](https://github.com/IIGROUP/TediGAN)
+  * [Deep Daze](https://github.com/lucidrains/deep-daze): Simple command line tool for text to image generation using OpenAI's CLIP and Siren (Implicit neural representation network). [![stars](https://badgen.net/github/stars/lucidrains/deep-daze)](https://github.com/lucidrains/deep-daze)
+  * [DALLE-pytorch](https://github.com/lucidrains/DALLE-pytorch): Implementation / replication of DALL-E, OpenAI's Text to Image Transformer, in Pytorch. [![stars](https://badgen.net/github/stars/lucidrains/DALLE-pytorch)](https://github.com/lucidrains/DALLE-pytorch)
 
 #### Applications
+
+  * [ArtLine](https://github.com/vijishmadhavan/ArtLine): A Deep Learning based project for creating line art portraits. [![stars](https://badgen.net/github/stars/vijishmadhavan/ArtLine)](https://github.com/vijishmadhavan/ArtLine)
+  * [Depix](https://github.com/beurtschipper/Depix): Recovers passwords from pixelized screenshots. [![stars](https://badgen.net/github/stars/beurtschipper/Depix)](https://github.com/beurtschipper/Depix)
+  * [Bringing Old Photos Back to Life](https://github.com/microsoft/Bringing-Old-Photos-Back-to-Life): Old Photo Restoration (Official PyTorch Implementation). [![stars](https://badgen.net/github/stars/microsoft/Bringing-Old-Photos-Back-to-Life)](https://github.com/microsoft/Bringing-Old-Photos-Back-to-Life)
 
 #### Detection
 
@@ -273,8 +280,13 @@ It implements numerous attacks such as L-BFGS, FGSM, JSMA, C&W, among others.
   * [Point-E](https://github.com/openai/point-e): Point cloud diffusion for 3D model synthesis. [![stars](https://badgen.net/github/stars/openai/point-e)](https://github.com/openai/point-e)
   * [STIT](https://github.com/rotemtzaban/STIT): Stitch it in Time: GAN-Based Facial Editing of Real Videos. [![stars](https://badgen.net/github/stars/rotemtzaban/STIT)](https://github.com/rotemtzaban/STIT)
   * [EGVSR](https://github.com/Thmen/EGVSR): Efficient & Generic Video Super-Resolution. [![stars](https://badgen.net/github/stars/Thmen/EGVSR)](https://github.com/Thmen/EGVSR)
+  * [Celeb DeepFakeForensics](https://github.com/yuezunli/celeb-deepfakeforensics): A Large-scale Challenging Dataset for DeepFake Forensics. [![stars](https://badgen.net/github/stars/yuezunli/celeb-deepfakeforensics)](https://github.com/yuezunli/celeb-deepfakeforensics)
+  * [Awesome-Image-Colorization](https://github.com/MarkMoHR/Awesome-Image-Colorization): 📚 A collection of Deep Learning based Image Colorization and Video Colorization papers. [![stars](https://badgen.net/github/stars/MarkMoHR/Awesome-Image-Colorization)](https://github.com/MarkMoHR/Awesome-Image-Colorization)
 
 #### Applications
+
+  * [BackgroundMattingV2](https://github.com/PeterL1n/BackgroundMattingV2): Real-Time High-Resolution Background Matting. [![stars](https://badgen.net/github/stars/PeterL1n/BackgroundMattingV2)](https://github.com/PeterL1n/BackgroundMattingV2)
+  * [MODNet](https://github.com/ZHKKKe/MODNet): A Trimap-Free Portrait Matting Solution in Real Time. [![stars](https://badgen.net/github/stars/ZHKKKe/MODNet)](https://github.com/ZHKKKe/MODNet)
 
 #### Detection
   * [FaceForensics++](https://github.com/ondyari/FaceForensics): FaceForensics dataset. [![stars](https://badgen.net/github/stars/ondyari/FaceForensics)](https://github.com/ondyari/FaceForensics)
@@ -284,6 +296,7 @@ It implements numerous attacks such as L-BFGS, FGSM, JSMA, C&W, among others.
   * [SeqDeepFake](https://github.com/rshaojimmy/SeqDeepFake): PyTorch code for SeqDeepFake: Detecting and Recovering Sequential DeepFake Manipulation. [![stars](https://badgen.net/github/stars/rshaojimmy/SeqDeepFake)](https://github.com/rshaojimmy/SeqDeepFake)
   * [PCL-I2G](https://github.com/jtchen0528/PCL-I2G): Unofficial Implementation: Learning Self-Consistency for Deepfake Detection. [![stars](https://badgen.net/github/stars/jtchen0528/PCL-I2G)](https://github.com/jtchen0528/PCL-I2G)
   * [Deepfake Scanner](https://github.com/deepware/deepfake-scanner): Deepfake Scanner by Deepware. [![stars](https://badgen.net/github/stars/deepware/deepfake-scanner)](https://github.com/deepware/deepfake-scanner)
+  * [DFDC DeepFake Challenge](https://github.com/selimsef/dfdc_deepfake_challenge): A prize winning solution for DFDC challenge. [![stars](https://badgen.net/github/stars/selimsef/dfdc_deepfake_challenge)](https://github.com/selimsef/dfdc_deepfake_challenge) 
 
 ### Text
 
@@ -311,6 +324,8 @@ It implements numerous attacks such as L-BFGS, FGSM, JSMA, C&W, among others.
 #### Detection
 
 #### Applications
+
+  * [handwrite](https://github.com/builtree/handwrite): Handwrite generates a custom font based on your handwriting sample. [![stars](https://badgen.net/github/stars/builtree/handwrite)](https://github.com/builtree/handwrite)
 
 ### Misc
 
