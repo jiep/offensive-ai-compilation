@@ -2,21 +2,21 @@
 
 A curated list of useful resources that cover Offensive AI.
 
-## Abuse
+## 🚫 Abuse 🚫
 
 Exploiting the vulnerabilities of AI models. 
 
-### Adversarial Machine Learning
+### 🧠 Adversarial Machine Learning 🧠
 
 Adversarial Machine Learning is responsible for assessing their weaknesses and providing countermeasures.
 
-#### Attacks
+#### ⚡ Attacks ⚡
 
 It is organized in four types of attacks: extraction, inversion, poisoning and evasion.
 
 ![Adversarial Machine Learning attacks](/assets/attacks.png)
 
-##### Extraction
+##### 🔒 Extraction 🔒
 
 It tries to steal the parameters and hyperparameters of a model by making requests that maximize the extraction of information.
 
@@ -30,7 +30,7 @@ In the generic case, where there is insufficient knowledge of the model, the sub
 
 ![White-box and black-box extraction attacks](/assets/extraction-white-black-box.png)
 
-###### Limitations
+###### ⚠️ Limitations ⚠️
 
   * Training a substitute model is equivalent (in many cases) to training a model from scratch.
 
@@ -38,7 +38,7 @@ In the generic case, where there is insufficient knowledge of the model, the sub
 
   * The adversary has limitations on the number of requests before being detected.
 
-###### Defensive actions
+###### 🛡️ Defensive actions 🛡️
 
   * Rounding of output values.
 
@@ -52,7 +52,7 @@ In the generic case, where there is insufficient knowledge of the model, the sub
     * [Adaptive Misinformation](https://arxiv.org/abs/1911.07100)
     * ...
 
-##### Inversion (or inference)
+##### ⬅️ Inversion (or inference) ⬅️
   
 They are intended to reverse the information flow of a machine learning model.
 
@@ -71,7 +71,7 @@ Three types are possible:
   * **Reconstruction**: An adversary tries to reconstruct one or more samples from the training set and/or their corresponding labels. Also called inversion.
 
 
-###### Defensive actions
+###### 🛡️ Defensive actions 🛡️
 
   * Use of advanced cryptography. Countermeasures include differential privacy, homomorphic cryptography and secure multiparty computation.
 
@@ -79,7 +79,7 @@ Three types are possible:
 
   * Model compression has been proposed as a defense against reconstruction attacks.
 
-##### Poisoning
+##### 💉 Poisoning 💉
 
 They aim to corrupt the training set by causing a machine learning model to reduce its accuracy.
 
@@ -89,13 +89,13 @@ This attack is difficult to detect when performed on the training data, since th
 
 The adversary seeks to destroy the availability of the model by modifying the decision boundary and, as a result, producing incorrect predictions or, create a backdoor in a model. In the latter,  the model behaves correctly (returning the desired predictions) in most cases, except for certain inputs specially created by the adversary that produce undesired results. The adversary can manipulate the results of the predictions and launch future attacks.
 
-###### Backdoors
+###### 🔓 Backdoors 🔓
 
 [BadNets](https://arxiv.org/abs/1708.06733) are the simplest type of backdoor in a machine learning model. Moreover, BadNets are able to be preserved in a model, even if they are retrained again for a different task than the original model (transfer learning).
 
 It is important to note that **public pre-trained models may contain backdoors**.
 
-###### Defensive actions
+###### 🛡️ Defensive actions 🛡️
 
   * Detection of poisoned data, along with the use of data sanitization.
 
@@ -103,7 +103,7 @@ It is important to note that **public pre-trained models may contain backdoors**
 
   * Specific defenses.
 
-##### Evasion
+##### 🏃‍♂️ Evasion 🏃‍♂️
 
 An adversary adds a small perturbation (in the form of noise) to the input of a machine learning model to make it classify incorrectly (example adversary).
 
@@ -136,7 +136,7 @@ The most common attacks are **white-box attacks**:
   * UAP
   * ...
 
-###### Defensive actions
+###### 🛡️ Defensive actions 🛡️
 
   * Adversarial training, which consists of crafting adversarial examples during training so as to allow the model to learn features of the adversarial examples, making the model more robust to this type of attack.
 
@@ -146,7 +146,7 @@ The most common attacks are **white-box attacks**:
 
   * Weak defenses.
 
-#### Tools 
+#### 🛠️ Tools 🛠️
 
 | Name | Type | Supported algorithms | Supported attack types | Attack/Defence | Supported frameworks | Popularity |
 | ---------- | :----------: | :----------: | :----------: | :----------: | :----------: | :----------: |
@@ -184,13 +184,13 @@ It is developed in Python and integrates with the Tensorflow, Torch and JAX fram
 
 It implements numerous attacks such as L-BFGS, FGSM, JSMA, C&W, among others.
 
-## Use
+## 🔧 Use 🔧
 
 Improving classic techniques with AI
 
-### Audio
+### 🔊 Audio 🔊
 
-#### Tools
+#### 🛠️ Tools 🛠️
   * [deep-voice-conversion](https://github.com/andabi/deep-voice-conversion): Deep neural networks for voice conversion (voice style transfer) in Tensorflow. [![stars](https://badgen.net/github/stars/andabi/deep-voice-conversion)](https://github.com/andabi/deep-voice-conversion)
   * [tacotron](https://github.com/keithito/tacotron): A TensorFlow implementation of Google's Tacotron speech synthesis with pre-trained model (unofficial). [![stars](https://badgen.net/github/stars/keithito/tacotron)](https://github.com/keithito/tacotron)
   * [Real-Time-Voice-Cloning](https://github.com/CorentinJ/Real-Time-Voice-Cloning): Clone a voice in 5 seconds to generate arbitrary speech in real-time. [![stars](https://badgen.net/github/stars/CorentinJ/Real-Time-Voice-Cloning)](https://github.com/CorentinJ/Real-Time-Voice-Cloning)
@@ -198,7 +198,7 @@ Improving classic techniques with AI
   * [Neural-Voice-Cloning-with-Few-Samples](https://github.com/Sharad24/Neural-Voice-Cloning-with-Few-Samples): Implementation of Neural Voice Cloning with Few Samples Research Paper by Baidu. [![stars](https://badgen.net/github/stars/Sharad24/Neural-Voice-Cloning-with-Few-Samples)](https://github.com/Sharad24/Neural-Voice-Cloning-with-Few-Samples)
   * [Vall-E](https://github.com/enhuiz/vall-e): An unofficial PyTorch implementation of the audio LM VALL-E. [![stars](https://badgen.net/github/stars/enhuiz/vall-e)](https://github.com/enhuiz/vall-e)
 
-#### Applications
+#### 💡 Applications 💡
 
   * [Lip2Wav](https://github.com/Rudrabha/Lip2Wav): Generate high quality speech from only lip movements. [![stars](https://badgen.net/github/stars/Rudrabha/Lip2Wav)](https://github.com/Rudrabha/Lip2Wav)
   * [AudioLDM: Text-to-Audio Generation with Latent Diffusion Models](https://huggingface.co/spaces/haoheliu/audioldm-text-to-audio-generation)
@@ -210,13 +210,13 @@ Improving classic techniques with AI
   * [TorToiSe](https://github.com/neonbjb/tortoise-tts): A multi-voice TTS system trained with an emphasis on quality. [![stars](https://badgen.net/github/stars/neonbjb/tortoise-tts)](https://github.com/neonbjb/tortoise-tts)
   * [DiffSinger](https://github.com/MoonInTheRiver/DiffSinger): Singing Voice Synthesis via Shallow Diffusion Mechanism (SVS & TTS). [![stars](https://badgen.net/github/stars/MoonInTheRiver/DiffSinger)](https://github.com/MoonInTheRiver/DiffSinger)
 
-#### Detection
+#### 🔎 Detection 🔎
   * [fake-voice-detection](https://github.com/dessa-oss/fake-voice-detection): Using temporal convolution to detect Audio Deepfakes. [![stars](https://badgen.net/github/stars/dessa-oss/fake-voice-detection)](https://github.com/dessa-oss/fake-voice-detection)
 
 
-### Image
+### 📷 Image 📷
 
-#### Tools
+#### 🛠️ Tools 🛠️
 
   * [StyleGAN](https://github.com/NVlabs/stylegan): StyleGAN - Official TensorFlow Implementation. [![stars](https://badgen.net/github/stars/NVlabs/stylegan)](https://github.com/NVlabs/stylegan)
   * [StyleGAN2](https://github.com/NVlabs/stylegan2): StyleGAN2 - Official TensorFlow Implementation. [![stars](https://badgen.net/github/stars/NVlabs/stylegan2)](https://github.com/NVlabs/stylegan2)
@@ -247,7 +247,7 @@ Improving classic techniques with AI
   * [MM-CelebA-HQ-Dataset](https://github.com/IIGROUP/MM-CelebA-HQ-Dataset): A large-scale face image dataset that allows text-to-image generation, text-guided image manipulation, sketch-to-image generation, GANs for face generation and editing, image caption, and VQA. [![stars](https://badgen.net/github/stars/IIGROUP/MM-CelebA-HQ-Dataset)](https://github.com/IIGROUP/MM-CelebA-HQ-Dataset)
   * [Deep Daze](https://github.com/lucidrains/deep-daze): Simple command line tool for text to image generation using OpenAI's CLIP and Siren (Implicit neural representation network). [![stars](https://badgen.net/github/stars/lucidrains/deep-daze)](https://github.com/lucidrains/deep-daze)
 
-#### Applications
+#### 💡 Applications 💡
 
   * [ArtLine](https://github.com/vijishmadhavan/ArtLine): A Deep Learning based project for creating line art portraits. [![stars](https://badgen.net/github/stars/vijishmadhavan/ArtLine)](https://github.com/vijishmadhavan/ArtLine)
   * [Depix](https://github.com/beurtschipper/Depix): Recovers passwords from pixelized screenshots. [![stars](https://badgen.net/github/stars/beurtschipper/Depix)](https://github.com/beurtschipper/Depix)
@@ -278,15 +278,15 @@ Improving classic techniques with AI
   * [Mann-E - Mann-E (Persian: مانی) is an art generator model based on the weights of Stable Diffusion 1.5 and data gathered from artistic material available on Pinterest](https://opencognitives.com/mann-e)
   * [This Voice Does Not Exist: On Voice Synthesis, Audio Deepfakes and Their Detection](https://this-voice-does-not-exist.com)
 
-#### Detection
+#### 🔎 Detection 🔎
 
   * [stylegan3-detector](https://github.com/NVlabs/stylegan3-detector): StyleGAN3 Synthetic Image Detection. [![stars](https://badgen.net/github/stars/NVlabs/stylegan3-detector)](https://github.com/NVlabs/stylegan3-detector)
   * [stylegan2-projecting-images](https://github.com/woctezuma/stylegan2-projecting-images): Projecting images to latent space with StyleGAN2. [![stars](https://badgen.net/github/stars/woctezuma/stylegan2-projecting-images)](https://github.com/woctezuma/stylegan2-projecting-images)
   * [FALdetector](https://github.com/PeterWang512/FALdetector): Detecting Photoshopped Faces by Scripting Photoshop. [![stars](https://badgen.net/github/stars/PeterWang512/FALdetector)](https://github.com/PeterWang512/FALdetector)
 
-### Video
+### 🎥 Video 🎥
 
-#### Tools
+#### 🛠️ Tools 🛠️
 
   * [DeepFaceLab](https://github.com/iperov/DeepFaceLab): DeepFaceLab is the leading software for creating deepfakes. [![stars](https://badgen.net/github/stars/iperov/DeepFaceLab)](https://github.com/iperov/DeepFaceLab)
   * [faceswap](https://github.com/deepfakes/faceswap): Deepfakes Software For All. [![stars](https://badgen.net/github/stars/deepfakes/faceswap)](https://github.com/deepfakes/faceswap)
@@ -295,7 +295,7 @@ Improving classic techniques with AI
   * [faceswap-GAN](https://github.com/shaoanlu/faceswap-GAN): A denoising autoencoder + adversarial losses and attention mechanisms for face swapping. [![stars](https://badgen.net/github/stars/shaoanlu/faceswap-GAN)](https://github.com/shaoanlu/faceswap-GAN)
   * [Celeb DeepFakeForensics](https://github.com/yuezunli/celeb-deepfakeforensics): A Large-scale Challenging Dataset for DeepFake Forensics. [![stars](https://badgen.net/github/stars/yuezunli/celeb-deepfakeforensics)](https://github.com/yuezunli/celeb-deepfakeforensics)
 
-#### Applications
+#### 💡 Applications 💡
 
   * [face2face-demo](https://github.com/datitran/face2face-demo): pix2pix demo that learns from facial landmarks and translates this into a face. [![stars](https://badgen.net/github/stars/datitran/face2face-demo)](https://github.com/datitran/face2face-demo)
   * [Faceswap-Deepfake-Pytorch](https://github.com/Oldpan/Faceswap-Deepfake-Pytorch): Faceswap with Pytorch or DeepFake with Pytorch. [![stars](https://badgen.net/github/stars/Oldpan/Faceswap-Deepfake-Pytorch)](https://github.com/Oldpan/Faceswap-Deepfake-Pytorch)
@@ -313,7 +313,7 @@ Improving classic techniques with AI
   * [Awesome-Image-Colorization](https://github.com/MarkMoHR/Awesome-Image-Colorization): 📚 A collection of Deep Learning based Image Colorization and Video Colorization papers. [![stars](https://badgen.net/github/stars/MarkMoHR/Awesome-Image-Colorization)](https://github.com/MarkMoHR/Awesome-Image-Colorization)
 
 
-#### Detection
+#### 🔎 Detection 🔎
 
   * [FaceForensics++](https://github.com/ondyari/FaceForensics): FaceForensics dataset. [![stars](https://badgen.net/github/stars/ondyari/FaceForensics)](https://github.com/ondyari/FaceForensics)
   * [DeepFake-Detection](https://github.com/dessa-oss/DeepFake-Detection): Towards deepfake detection that actually works. [![stars](https://badgen.net/github/stars/dessa-oss/DeepFake-Detection)](https://github.com/dessa-oss/DeepFake-Detection)
@@ -324,9 +324,9 @@ Improving classic techniques with AI
   * [Deepfake Scanner](https://github.com/deepware/deepfake-scanner): Deepfake Scanner by Deepware. [![stars](https://badgen.net/github/stars/deepware/deepfake-scanner)](https://github.com/deepware/deepfake-scanner)
   * [DFDC DeepFake Challenge](https://github.com/selimsef/dfdc_deepfake_challenge): A prize winning solution for DFDC challenge. [![stars](https://badgen.net/github/stars/selimsef/dfdc_deepfake_challenge)](https://github.com/selimsef/dfdc_deepfake_challenge) 
 
-### Text
+### 📄 Text 📄
 
-#### Tools
+#### 🛠️ Tools 🛠️
   * [GLM-130B](https://github.com/THUDM/GLM-130B): An Open Bilingual Pre-Trained Model. [![stars](https://badgen.net/github/stars/THUDM/GLM-130B)](https://github.com/THUDM/GLM-130B)
   * [LongtermChatExternalSources](https://github.com/daveshap/LongtermChatExternalSources): GPT-3 chatbot with long-term memory and external sources. [![stars](https://badgen.net/github/stars/daveshap/LongtermChatExternalSources)](https://github.com/daveshap/LongtermChatExternalSources)
   * [sketch](https://github.com/approximatelabs/sketch): AI code-writing assistant that understands data content. [![stars](https://badgen.net/github/stars/approximatelabs/sketch)](https://github.com/approximatelabs/sketch)
@@ -338,13 +338,13 @@ Improving classic techniques with AI
   * [GPT Neo](https://github.com/EleutherAI/gpt-neo): An implementation of model parallel GPT-2 and GPT-3-style models using the mesh-tensorflow library. [![stars](https://badgen.net/github/stars/EleutherAI/gpt-neo)](https://github.com/EleutherAI/gpt-neo)
   * [ctrl](https://github.com/salesforce/ctrl): Conditional Transformer Language Model for Controllable Generation. [![stars](https://badgen.net/github/stars/salesforce/ctrl)](https://github.com/salesforce/ctrl)
 
-#### Detection
+#### 🔎 Detection 🔎
 
   * [Detecting Fake Text](https://github.com/HendrikStrobelt/detecting-fake-text): Giant Language Model Test Room. [![stars](https://badgen.net/github/stars/HendrikStrobelt/detecting-fake-text)](https://github.com/HendrikStrobelt/detecting-fake-text)
   * [Grover](https://github.com/rowanz/grover): Code for Defending Against Neural Fake News. [![stars](https://badgen.net/github/stars/rowanz/grover)](https://github.com/rowanz/grover)
   * [New AI classifier for indicating AI-written text](https://openai.com/blog/new-ai-classifier-for-indicating-ai-written-text/)
 
-#### Applications
+#### 💡 Applications 💡
 
   * [handwrite](https://github.com/builtree/handwrite): Handwrite generates a custom font based on your handwriting sample. [![stars](https://badgen.net/github/stars/builtree/handwrite)](https://github.com/builtree/handwrite)
   * [GPT Sandbox](https://github.com/shreyashankar/gpt3-sandbox): The goal of this project is to enable users to create cool web demos using the newly released OpenAI GPT-3 API with just a few lines of Python. [![stars](https://badgen.net/github/stars/shreyashankar/gpt3-sandbox)](https://github.com/shreyashankar/gpt3-sandbox)
@@ -364,7 +364,7 @@ Improving classic techniques with AI
   * [A Watermark for Large Language Models](https://arxiv.org/abs/2301.10226)
   * [Bypassing Gmail's spam filters with ChatGPT](https://neelc.org/posts/chatgpt-gmail-spam)
 
-### Misc
+### 📚 Misc 📚
 
   * [🚀 Awesome Reinforcement Learning for Cyber Security](https://github.com/Limmen/awesome-rl-for-cybersecurity): A curated list of resources dedicated to reinforcement learning applied to cyber security. [![stars](https://badgen.net/github/stars/Limmen/awesome-rl-for-cybersecurity)](https://github.com/Limmen/awesome-rl-for-cybersecurity)
   * [Awesome Machine Learning for Cyber Security](https://github.com/jivoi/awesome-ml-for-cybersecurity): A curated list of amazingly awesome tools and resources related to the use of machine learning for cyber security. [![stars](https://badgen.net/github/stars/jivoi/awesome-ml-for-cybersecurity)](https://github.com/jivoi/awesome-ml-for-cybersecurity)
@@ -378,12 +378,12 @@ Improving classic techniques with AI
   * [MITRE ATLAS™](https://atlas.mitre.org) (Adversarial Threat Landscape for Artificial-Intelligence Systems)
   * [A Survey on Reinforcement Learning Security with Application to Autonomous Driving](https://arxiv.org/abs/2212.06123)
 
-### Surveys
+### 📊 Surveys 📊
 
   * [The Threat of Offensive AI to Organizations](https://arxiv.org/abs/2106.15764)
   * [Artificial Intelligence in the Cyber Domain: Offense and Defense](https://www.mdpi.com/2073-8994/12/3/410)
 
-## Contributors
+## 🗣 Contributors 🗣
 
 <table>
   <tr>
@@ -392,7 +392,7 @@ Improving classic techniques with AI
   </tr>
 </table>
 
-## License
+## ©️ License ©️
 
 [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
 
