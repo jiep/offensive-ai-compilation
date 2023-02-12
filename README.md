@@ -172,6 +172,8 @@ ART supports the most popular frameworks: Tensorflow, Keras, PyTorch, MxNet, Sci
 
 It is not limited to the use of models that use images as input, but also supports other types of data, such as audio, video, tabular data, etc.
 
+[Workshop to learn Adversarial Machine Learning in Spanish](https://github.com/jiep/adversarial-machine-learning)
+
 ###### Cleverhans
 
 [Cleverhans](https://github.com/cleverhans-lab/cleverhans) is a library for performing evasion attacks and testing the robustness of a deep learning model on image models.
@@ -198,6 +200,8 @@ It implements numerous attacks such as L-BFGS, FGSM, JSMA, C&W, among others.
   * [TorToiSe](https://github.com/neonbjb/tortoise-tts): A multi-voice TTS system trained with an emphasis on quality. [![stars](https://badgen.net/github/stars/neonbjb/tortoise-tts)](https://github.com/neonbjb/tortoise-tts)
   * [🎸 Riffusion](https://github.com/riffusion/riffusion): Stable diffusion for real-time music generation. [![stars](https://badgen.net/github/stars/riffusion/riffusion)](https://github.com/riffusion/riffusion)
   * [whisper.cpp](https://github.com/ggerganov/whisper.cpp): Port of OpenAI's Whisper model in C/C++. [![stars](https://badgen.net/github/stars/ggerganov/whisper.cpp)](https://github.com/ggerganov/whisper.cpp)
+  * [TTS](https://github.com/coqui-ai/TTS): 🐸💬 - a deep learning toolkit for Text-to-Speech, battle-tested in research and production. [![stars](https://badgen.net/github/stars/coqui-ai/TTS)](https://github.com/coqui-ai/TTS)
+  * [YourTTS](https://github.com/Edresson/YourTTS): Towards Zero-Shot Multi-Speaker TTS and Zero-Shot Voice Conversion for everyone. [![stars](https://badgen.net/github/stars/Edresson/YourTTS)](https://github.com/Edresson/YourTTS)
   * 
 
 #### Applications
@@ -213,6 +217,7 @@ It implements numerous attacks such as L-BFGS, FGSM, JSMA, C&W, among others.
   * [StyleGAN](https://github.com/NVlabs/stylegan): StyleGAN - Official TensorFlow Implementation. [![stars](https://badgen.net/github/stars/NVlabs/stylegan)](https://github.com/NVlabs/stylegan)
   * [StyleGAN2](https://github.com/NVlabs/stylegan2): StyleGAN2 - Official TensorFlow Implementation. [![stars](https://badgen.net/github/stars/NVlabs/stylegan2)](https://github.com/NVlabs/stylegan2)
   * [stylegan2-ada-pytorch](https://github.com/NVlabs/stylegan2-ada-pytorch): StyleGAN2-ADA - Official PyTorch implementation. [![stars](https://badgen.net/github/stars/NVlabs/stylegan2-ada-pytorch)](https://github.com/NVlabs/stylegan2-ada-pytorch) 
+  * [StyleGAN-nada] (https://github.com/rinongal/StyleGAN-nada): CLIP-Guided Domain Adaptation of Image Generators. [![stars](https://badgen.net/github/stars/rinongal/StyleGAN-nada)](https://github.com/rinongal/StyleGAN-nada)
   * [StyleGAN3](https://github.com/NVlabs/stylegan3): Official PyTorch implementation of StyleGAN3. [![stars](https://badgen.net/github/stars/NVlabs/stylegan3)](https://github.com/NVlabs/stylegan3)
   * [Imaginaire](https://github.com/NVlabs/imaginaire): Imaginaire is a pytorch library that contains optimized implementation of several image and video synthesis methods developed at NVIDIA. [![stars](https://badgen.net/github/stars/NVlabs/imaginaire)](https://github.com/NVlabs/imaginaire)
   * [eg3d](https://github.com/NVlabs/eg3d): Efficient Geometry-aware 3D Generative Adversarial Networks. [![stars](https://badgen.net/github/stars/NVlabs/eg3d)](https://github.com/NVlabs/eg3d)
@@ -238,6 +243,14 @@ It implements numerous attacks such as L-BFGS, FGSM, JSMA, C&W, among others.
   * [DF-GAN](https://github.com/tobran/DF-GAN): A Simple and Effective Baseline for Text-to-Image Synthesis. [![stars](https://badgen.net/github/stars/tobran/DF-GAN)](https://github.com/tobran/DF-GAN)
   * [Dall-E Playground](https://github.com/saharmor/dalle-playground): A playground to generate images from any text prompt using Stable Diffusion (past: using DALL-E Mini). [![stars](https://badgen.net/github/stars/saharmor/dalle-playground)](https://github.com/saharmor/dalle-playground)
   * [StyleNeRF](https://github.com/facebookresearch/StyleNeRF): This is the open source implementation of the ICLR2022 paper "StyleNeRF: A Style-based 3D-Aware Generator for High-resolution Image Synthesis". [![stars](https://badgen.net/github/stars/facebookresearch/StyleNeRF)](https://github.com/facebookresearch/StyleNeRF)
+  * [DeepSVG](https://github.com/alexandre01/deepsvg): Official code for the paper "DeepSVG: A Hierarchical Generative Network for Vector Graphics Animation". Includes a PyTorch library for deep learning with SVG data. [![stars](https://badgen.net/github/stars/alexandre01/deepsvg)](https://github.com/alexandre01/deepsvg)
+  * [NUWA](https://github.com/microsoft/NUWA): A unified 3D Transformer Pipeline for visual synthesis. [![stars](https://badgen.net/github/stars/microsoft/NUWA)](https://github.com/microsoft/NUWA)
+  * [Image-Super-Resolution-via-Iterative-Refinement](https://github.com/Janspiry/Image-Super-Resolution-via-Iterative-Refinement): Unofficial implementation of Image Super-Resolution via Iterative Refinement by Pytorch. [![stars](https://badgen.net/github/stars/Janspiry/Image-Super-Resolution-via-Iterative-Refinement)](https://github.com/Janspiry/Image-Super-Resolution-via-Iterative-Refinement)
+  * [Lama](https://github.com/saic-mdal/lama): 🦙 LaMa Image Inpainting, Resolution-robust Large Mask Inpainting with Fourier Convolutions. [![stars](https://badgen.net/github/stars/saic-mdal/lama)](https://github.com/saic-mdal/lama)
+  * [Person_reID_baseline_pytorch](https://github.com/layumi/Person_reID_baseline_pytorch): Pytorch ReID: A tiny, friendly, strong pytorch implement of object re-identification baseline. [![stars](https://badgen.net/github/stars/layumi/Person_reID_baseline_pytorch)](https://github.com/layumi/Person_reID_baseline_pytorch)
+  * [GFPGAN](https://github.com/TencentARC/GFPGAN): GFPGAN aims at developing Practical Algorithms for Real-world Face Restoration. [![stars](https://badgen.net/github/stars/TencentARC/GFPGAN)](https://github.com/TencentARC/GFPGAN)
+  * [DeepVecFont](https://github.com/yizhiwang96/deepvecfont): Synthesizing High-quality Vector Fonts via Dual-modality Learning. [![stars](https://badgen.net/github/stars/yizhiwang96/deepvecfont)](https://github.com/yizhiwang96/deepvecfont)
+
 
 
 #### Applications
@@ -245,6 +258,7 @@ It implements numerous attacks such as L-BFGS, FGSM, JSMA, C&W, among others.
 #### Detection
 
   * [stylegan3-detector](https://github.com/NVlabs/stylegan3-detector): StyleGAN3 Synthetic Image Detection. [![stars](https://badgen.net/github/stars/NVlabs/stylegan3-detector)](https://github.com/NVlabs/stylegan3-detector)
+  * [stylegan2-projecting-images](https://github.com/woctezuma/stylegan2-projecting-images): Projecting images to latent space with StyleGAN2. [![stars](https://badgen.net/github/stars/woctezuma/stylegan2-projecting-images)](https://github.com/woctezuma/stylegan2-projecting-images)
 
 ### Video
 
@@ -253,10 +267,12 @@ It implements numerous attacks such as L-BFGS, FGSM, JSMA, C&W, among others.
   * [faceswap](https://github.com/deepfakes/faceswap): Deepfakes Software For All. [![stars](https://badgen.net/github/stars/deepfakes/faceswap)](https://github.com/deepfakes/faceswap)
   * [dot](https://github.com/sensity-ai/dot): The Deepfake Offensive Toolkit. [![stars](https://badgen.net/github/stars/sensity-ai/dot)](https://github.com/sensity-ai/dot)
   * [SimSwap](https://github.com/neuralchen/SimSwap): An arbitrary face-swapping framework on images and videos with one single trained model! [![stars](https://badgen.net/github/stars/neuralchen/SimSwap)](https://github.com/neuralchen/SimSwap)
-  *  [faceswap-GAN](https://github.com/shaoanlu/faceswap-GAN): A denoising autoencoder + adversarial losses and attention mechanisms for face swapping. [![stars](https://badgen.net/github/stars/shaoanlu/faceswap-GAN)](https://github.com/shaoanlu/faceswap-GAN)
-  *  [face2face-demo](https://github.com/datitran/face2face-demo): pix2pix demo that learns from facial landmarks and translates this into a face. [![stars](https://badgen.net/github/stars/datitran/face2face-demo)](https://github.com/datitran/face2face-demo)
-  *  [Faceswap-Deepfake-Pytorch](https://github.com/Oldpan/Faceswap-Deepfake-Pytorch): Faceswap with Pytorch or DeepFake with Pytorch. [![stars](https://badgen.net/github/stars/Oldpan/Faceswap-Deepfake-Pytorch)](https://github.com/Oldpan/Faceswap-Deepfake-Pytorch)
-  *  [Point-E](https://github.com/openai/point-e): Point cloud diffusion for 3D model synthesis. [![stars](https://badgen.net/github/stars/openai/point-e)](https://github.com/openai/point-e)
+  * [faceswap-GAN](https://github.com/shaoanlu/faceswap-GAN): A denoising autoencoder + adversarial losses and attention mechanisms for face swapping. [![stars](https://badgen.net/github/stars/shaoanlu/faceswap-GAN)](https://github.com/shaoanlu/faceswap-GAN)
+  * [face2face-demo](https://github.com/datitran/face2face-demo): pix2pix demo that learns from facial landmarks and translates this into a face. [![stars](https://badgen.net/github/stars/datitran/face2face-demo)](https://github.com/datitran/face2face-demo)
+  * [Faceswap-Deepfake-Pytorch](https://github.com/Oldpan/Faceswap-Deepfake-Pytorch): Faceswap with Pytorch or DeepFake with Pytorch. [![stars](https://badgen.net/github/stars/Oldpan/Faceswap-Deepfake-Pytorch)](https://github.com/Oldpan/Faceswap-Deepfake-Pytorch)
+  * [Point-E](https://github.com/openai/point-e): Point cloud diffusion for 3D model synthesis. [![stars](https://badgen.net/github/stars/openai/point-e)](https://github.com/openai/point-e)
+  * [STIT](https://github.com/rotemtzaban/STIT): Stitch it in Time: GAN-Based Facial Editing of Real Videos. [![stars](https://badgen.net/github/stars/rotemtzaban/STIT)](https://github.com/rotemtzaban/STIT)
+  * [EGVSR](https://github.com/Thmen/EGVSR): Efficient & Generic Video Super-Resolution. [![stars](https://badgen.net/github/stars/Thmen/EGVSR)](https://github.com/Thmen/EGVSR)
 
 #### Applications
 
@@ -267,6 +283,7 @@ It implements numerous attacks such as L-BFGS, FGSM, JSMA, C&W, among others.
   * [Deepfake-Detection](https://github.com/HongguLiu/Deepfake-Detection): The Pytorch implemention of Deepfake Detection based on Faceforensics++. [![stars](https://badgen.net/github/stars/HongguLiu/Deepfake-Detection)](https://github.com/HongguLiu/Deepfake-Detection)
   * [SeqDeepFake](https://github.com/rshaojimmy/SeqDeepFake): PyTorch code for SeqDeepFake: Detecting and Recovering Sequential DeepFake Manipulation. [![stars](https://badgen.net/github/stars/rshaojimmy/SeqDeepFake)](https://github.com/rshaojimmy/SeqDeepFake)
   * [PCL-I2G](https://github.com/jtchen0528/PCL-I2G): Unofficial Implementation: Learning Self-Consistency for Deepfake Detection. [![stars](https://badgen.net/github/stars/jtchen0528/PCL-I2G)](https://github.com/jtchen0528/PCL-I2G)
+  * [Deepfake Scanner](https://github.com/deepware/deepfake-scanner): Deepfake Scanner by Deepware. [![stars](https://badgen.net/github/stars/deepware/deepfake-scanner)](https://github.com/deepware/deepfake-scanner)
 
 ### Text
 
@@ -287,7 +304,9 @@ It implements numerous attacks such as L-BFGS, FGSM, JSMA, C&W, among others.
   * [OpenAI Cookbook](https://github.com/openai/openai-cookbook): Examples and guides for using the OpenAI API. [![stars](https://badgen.net/github/stars/openai/openai-cookbook)](https://github.com/openai/openai-cookbook)
   * [🧠 Awesome ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts): This repo includes ChatGPT prompt curation to use ChatGPT better. [![stars](https://badgen.net/github/stars/f/awesome-chatgpt-prompts)](https://github.com/f/awesome-chatgpt-prompts)
   * [Alice](https://github.com/greshake/Alice): Giving ChatGPT access to a real terminal. [![stars](https://badgen.net/github/stars/greshake/Alice)](https://github.com/greshake/Alice)
-  * 
+  * [Beto](https://github.com/dccuchile/beto): Spanish version of the BERT model. [![stars](https://badgen.net/github/stars/dccuchile/beto)](https://github.com/dccuchile/beto)
+  * [GPT-Code-Clippy](https://github.com/CodedotAl/gpt-code-clippy): GPT-Code-Clippy (GPT-CC) is an open source version of GitHub Copilot, a language model -- based on GPT-3, called GPT-Codex. [![stars](https://badgen.net/github/stars/CodedotAl/gpt-code-clippy)](https://github.com/CodedotAl/gpt-code-clippy)
+  * [GPT Neo](https://github.com/EleutherAI/gpt-neo): An implementation of model parallel GPT-2 and GPT-3-style models using the mesh-tensorflow library. [![stars](https://badgen.net/github/stars/EleutherAI/gpt-neo)](https://github.com/EleutherAI/gpt-neo)
 
 #### Detection
 
