@@ -208,6 +208,7 @@ Improving classic techniques with AI
 #### Applications
 
   * [Lip2Wav](https://github.com/Rudrabha/Lip2Wav): Generate high quality speech from only lip movements. [![stars](https://badgen.net/github/stars/Rudrabha/Lip2Wav)](https://github.com/Rudrabha/Lip2Wav)
+  * [AudioLDM: Text-to-Audio Generation with Latent Diffusion Models](https://huggingface.co/spaces/haoheliu/audioldm-text-to-audio-generation)
 
 #### Detection
   * [fake-voice-detection](https://github.com/dessa-oss/fake-voice-detection): Using temporal convolution to detect Audio Deepfakes. [![stars](https://badgen.net/github/stars/dessa-oss/fake-voice-detection)](https://github.com/dessa-oss/fake-voice-detection)
@@ -271,6 +272,11 @@ Improving classic techniques with AI
   * [HiDT](https://github.com/saic-mdal/HiDT): Official repository for the paper "High-Resolution Daytime Translation Without Domain Labels". [![stars](https://badgen.net/github/stars/saic-mdal/HiDT)](https://github.com/saic-mdal/HiDT)
   * [3D Photo Inpainting](https://github.com/vt-vl-lab/3d-photo-inpainting): 3D Photography using Context-aware Layered Depth Inpainting. [![stars](https://badgen.net/github/stars/vt-vl-lab/3d-photo-inpainting)](https://github.com/vt-vl-lab/3d-photo-inpainting)
   * [SteganoGAN](https://github.com/DAI-Lab/SteganoGAN): SteganoGAN is a tool for creating steganographic images using adversarial training. [![stars](https://badgen.net/github/stars/DAI-Lab/SteganoGAN)](https://github.com/DAI-Lab/SteganoGAN)
+  * [Stylegan-T](https://github.com/autonomousvision/stylegan-t): Unlocking the Power of GANs for Fast Large-Scale Text-to-Image Synthesis. [![stars](https://badgen.net/github/stars/autonomousvision/stylegan-t)](https://github.com/autonomousvision/stylegan-t)
+  * [MegaPortraits](https://github.com/SamsungLabs/MegaPortraits): One-shot Megapixel Neural Head Avatars. [![stars](https://badgen.net/github/stars/SamsungLabs/MegaPortraits)](https://github.com/SamsungLabs/MegaPortraits)
+  * [Extracting Training Data from Diffusion Models](https://arxiv.org/abs/2301.13188)
+  * [Mann-E - Mann-E (Persian: مانی) is an art generator model based on the weights of Stable Diffusion 1.5 and data gathered from artistic material available on Pinterest](https://opencognitives.com/mann-e)
+  * [This Voice Does Not Exist: On Voice Synthesis, Audio Deepfakes and Their Detection](https://this-voice-does-not-exist.com/)
 
 #### Detection
 
@@ -281,6 +287,7 @@ Improving classic techniques with AI
 ### Video
 
 #### Tools
+
   * [DeepFaceLab](https://github.com/iperov/DeepFaceLab): DeepFaceLab is the leading software for creating deepfakes. [![stars](https://badgen.net/github/stars/iperov/DeepFaceLab)](https://github.com/iperov/DeepFaceLab)
   * [faceswap](https://github.com/deepfakes/faceswap): Deepfakes Software For All. [![stars](https://badgen.net/github/stars/deepfakes/faceswap)](https://github.com/deepfakes/faceswap)
   * [dot](https://github.com/sensity-ai/dot): The Deepfake Offensive Toolkit. [![stars](https://badgen.net/github/stars/sensity-ai/dot)](https://github.com/sensity-ai/dot)
@@ -303,8 +310,10 @@ Improving classic techniques with AI
   * [Articulated Animation](https://github.com/snap-research/articulated-animation): This repository contains the source code for the CVPR'2021 paper Motion Representations for Articulated Animation. [![stars](https://badgen.net/github/stars/snap-research/articulated-animation)](https://github.com/snap-research/articulated-animation)
   * [Real Time Person Removal](https://github.com/jasonmayes/Real-Time-Person-Removal): Removing people from complex backgrounds in real time using TensorFlow.js in the web browser. [![stars](https://badgen.net/github/stars/jasonmayes/Real-Time-Person-Removal)](https://github.com/jasonmayes/Real-Time-Person-Removal)
   * [AdaIN-style](https://github.com/xunhuang1995/AdaIN-style): Arbitrary Style Transfer in Real-time with Adaptive Instance Normalization. [![stars](https://badgen.net/github/stars/xunhuang1995/AdaIN-style)](https://github.com/xunhuang1995/AdaIN-style)
+  * [Frame Interpolation](https://github.com/google-research/frame-interpolation): Frame Interpolation for Large Motion. [![stars](https://badgen.net/github/stars/google-research/frame-interpolation)](https://github.com/google-research/frame-interpolation)
 
 #### Detection
+
   * [FaceForensics++](https://github.com/ondyari/FaceForensics): FaceForensics dataset. [![stars](https://badgen.net/github/stars/ondyari/FaceForensics)](https://github.com/ondyari/FaceForensics)
   * [DeepFake-Detection](https://github.com/dessa-oss/DeepFake-Detection): Towards deepfake detection that actually works. [![stars](https://badgen.net/github/stars/dessa-oss/DeepFake-Detection)](https://github.com/dessa-oss/DeepFake-Detection)
   * [fakeVideoForensics](https://github.com/bbvanexttechnologies/fakeVideoForensics): Detect deep fakes videos. [![stars](https://badgen.net/github/stars/bbvanexttechnologies/fakeVideoForensics)](https://github.com/bbvanexttechnologies/fakeVideoForensics)
@@ -342,12 +351,17 @@ Improving classic techniques with AI
 
   * [Detecting Fake Text](https://github.com/HendrikStrobelt/detecting-fake-text): Giant Language Model Test Room. [![stars](https://badgen.net/github/stars/HendrikStrobelt/detecting-fake-text)](https://github.com/HendrikStrobelt/detecting-fake-text)
   * [Grover](https://github.com/rowanz/grover): Code for Defending Against Neural Fake News. [![stars](https://badgen.net/github/stars/rowanz/grover)](https://github.com/rowanz/grover)
+  * [New AI classifier for indicating AI-written text](https://openai.com/blog/new-ai-classifier-for-indicating-ai-written-text/)
 
 #### Applications
 
   * [handwrite](https://github.com/builtree/handwrite): Handwrite generates a custom font based on your handwriting sample. [![stars](https://badgen.net/github/stars/builtree/handwrite)](https://github.com/builtree/handwrite)
   * [GPT Sandbox](https://github.com/shreyashankar/gpt3-sandbox): The goal of this project is to enable users to create cool web demos using the newly released OpenAI GPT-3 API with just a few lines of Python. [![stars](https://badgen.net/github/stars/shreyashankar/gpt3-sandbox)](https://github.com/shreyashankar/gpt3-sandbox)
   * [PassGAN](https://github.com/brannondorsey/PassGAN): A Deep Learning Approach for Password Guessing. [![stars](https://badgen.net/github/stars/brannondorsey/PassGAN)](https://github.com/brannondorsey/PassGAN)
+  * [Security Code Review With ChatGPT](https://research.nccgroup.com/2023/02/09/security-code-review-with-chatgpt)
+  * [Do Users Write More Insecure Code with AI Assistants?](https://arxiv.org/abs/2211.03622)
+  * [A Watermark for Large Language Models](https://arxiv.org/abs/2301.10226)
+  * [Bypassing Gmail's spam filters with ChatGPT](https://neelc.org/posts/chatgpt-gmail-spam)
 
 ### Misc
 
@@ -356,7 +370,17 @@ Improving classic techniques with AI
   * [Hugging Face Diffusion Models Course](https://github.com/huggingface/diffusion-models-class): Materials for the Hugging Face Diffusion Models Course. [![stars](https://badgen.net/github/stars/huggingface/diffusion-models-class)](https://github.com/huggingface/diffusion-models-class)
   * [Awesome-AI-Security](https://github.com/DeepSpaceHarbor/Awesome-AI-Security): A curated list of AI security resources. [![stars](https://badgen.net/github/stars/DeepSpaceHarbor/Awesome-AI-Security)](https://github.com/DeepSpaceHarbor/Awesome-AI-Security)
   * [ML for Hackers](https://github.com/johnmyleswhite/ML_for_Hackers): Code accompanying the book "Machine Learning for Hackers". [![stars](https://badgen.net/github/stars/johnmyleswhite/ML_for_Hackers)](https://github.com/johnmyleswhite/ML_for_Hackers)
+  * [NIST AI Risk Management Framework Playbook](https://pages.nist.gov/AIRMF) 
+  * [SoK: Explainable Machine Learning for Computer Security Applications](https://arxiv.org/abs/2208.10605)
+  * [Who Evaluates the Evaluators? On Automatic Metrics for Assessing AI-based Offensive Code Generators](https://arxiv.org/abs/2212.06008)
+  * [Vulnerability Prioritization: An Offensive Security Approach](https://arxiv.org/abs/2206.11182)
+  * [MITRE ATLAS™](https://atlas.mitre.org) (Adversarial Threat Landscape for Artificial-Intelligence Systems)
+  * [A Survey on Reinforcement Learning Security with Application to Autonomous Driving](https://arxiv.org/abs/2212.06123)
 
+### Surveys
+
+  * [The Threat of Offensive AI to Organizations](https://arxiv.org/abs/2106.15764)
+  * [Artificial Intelligence in the Cyber Domain: Offense and Defense](https://www.mdpi.com/2073-8994/12/3/410)
 
 ## Contributors
 
