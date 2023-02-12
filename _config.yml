@@ -9,5 +9,3 @@ jekyll_admin:
     - staticfiles
     - datafiles
     - configuration
-plugins:
-  - jekyll-seo-tag
