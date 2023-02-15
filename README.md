@@ -209,6 +209,9 @@ Improving classic techniques with AI
   * [YourTTS](https://github.com/Edresson/YourTTS): Towards Zero-Shot Multi-Speaker TTS and Zero-Shot Voice Conversion for everyone. [![stars](https://badgen.net/github/stars/Edresson/YourTTS)](https://github.com/Edresson/YourTTS)
   * [TorToiSe](https://github.com/neonbjb/tortoise-tts): A multi-voice TTS system trained with an emphasis on quality. [![stars](https://badgen.net/github/stars/neonbjb/tortoise-tts)](https://github.com/neonbjb/tortoise-tts)
   * [DiffSinger](https://github.com/MoonInTheRiver/DiffSinger): Singing Voice Synthesis via Shallow Diffusion Mechanism (SVS & TTS). [![stars](https://badgen.net/github/stars/MoonInTheRiver/DiffSinger)](https://github.com/MoonInTheRiver/DiffSinger)
+  * [WaveNet vocoder](https://github.com/r9y9/wavenet_vocoder): Implementation of the WaveNet vocoder, which can generate high quality raw speech samples conditioned on linguistic or acoustic features. [![stars](https://badgen.net/github/stars/r9y9/wavenet_vocoder)](https://github.com/r9y9/wavenet_vocoder)
+  * [Deepvoice3_pytorch](https://github.com/r9y9/deepvoice3_pytorch): PyTorch implementation of convolutional neural networks-based text-to-speech synthesis models. [![stars](https://badgen.net/github/stars/r9y9/deepvoice3_pytorch)](https://github.com/r9y9/deepvoice3_pytorch)
+  * [eSpeak NG Text-to-Speech](https://github.com/espeak-ng/espeak-ng): eSpeak NG is an open source speech synthesizer that supports more than hundred languages and accents. [![stars](https://badgen.net/github/stars/espeak-ng/espeak-ng)](https://github.com/espeak-ng/espeak-ng)
 
 #### 🔎 Detection 🔎
   * [fake-voice-detection](https://github.com/dessa-oss/fake-voice-detection): Using temporal convolution to detect Audio Deepfakes. [![stars](https://badgen.net/github/stars/dessa-oss/fake-voice-detection)](https://github.com/dessa-oss/fake-voice-detection)
