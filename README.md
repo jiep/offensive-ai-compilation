@@ -4,9 +4,6 @@ A curated list of useful resources that cover Offensive AI.
 
 ## 📁 Contents 📁
 
-<details>
-  <summary>Click to expand contents!</summary>
-
 - [Offensive AI Compilation](#offensive-ai-compilation)
   - [📁 Contents 📁](#-contents-)
   - [🚫 Abuse 🚫](#-abuse-)
@@ -46,8 +43,6 @@ A curated list of useful resources that cover Offensive AI.
     - [📊 Surveys 📊](#-surveys-)
   - [🗣 Contributors 🗣](#-contributors-)
   - [©️ License ©️](#️-license-️)
-
-</details>
 
 ## 🚫 Abuse 🚫
 
