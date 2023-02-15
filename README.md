@@ -346,6 +346,7 @@ Improving classic techniques with AI
   * [New AI classifier for indicating AI-written text](https://openai.com/blog/new-ai-classifier-for-indicating-ai-written-text/)
   * [Discover the 4 Magical Methods to Detect AI-Generated Text (including ChatGPT)](https://medium.com/@itamargolan/uncover-the-four-enchanted-ways-to-identify-ai-generated-text-including-chatgpts-4764847fd609)
   * [GPTZero](https://gptzero.me)
+  * [A Watermark for Large Language Models](https://arxiv.org/abs/2301.10226)
 
 #### 💡 Applications 💡
 
@@ -364,7 +365,6 @@ Improving classic techniques with AI
   * [Alice](https://github.com/greshake/Alice): Giving ChatGPT access to a real terminal. [![stars](https://badgen.net/github/stars/greshake/Alice)](https://github.com/greshake/Alice)
   * [Security Code Review With ChatGPT](https://research.nccgroup.com/2023/02/09/security-code-review-with-chatgpt)
   * [Do Users Write More Insecure Code with AI Assistants?](https://arxiv.org/abs/2211.03622)
-  * [A Watermark for Large Language Models](https://arxiv.org/abs/2301.10226)
   * [Bypassing Gmail's spam filters with ChatGPT](https://neelc.org/posts/chatgpt-gmail-spam)
 
 ### 📚 Misc 📚
