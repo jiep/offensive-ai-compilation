@@ -254,10 +254,22 @@ Improving classic techniques with AI
   * [WaveNet vocoder](https://github.com/r9y9/wavenet_vocoder): Implementation of the WaveNet vocoder, which can generate high quality raw speech samples conditioned on linguistic or acoustic features. [![stars](https://badgen.net/github/stars/r9y9/wavenet_vocoder)](https://github.com/r9y9/wavenet_vocoder)
   * [Deepvoice3_pytorch](https://github.com/r9y9/deepvoice3_pytorch): PyTorch implementation of convolutional neural networks-based text-to-speech synthesis models. [![stars](https://badgen.net/github/stars/r9y9/deepvoice3_pytorch)](https://github.com/r9y9/deepvoice3_pytorch)
   * [eSpeak NG Text-to-Speech](https://github.com/espeak-ng/espeak-ng): eSpeak NG is an open source speech synthesizer that supports more than hundred languages and accents. [![stars](https://badgen.net/github/stars/espeak-ng/espeak-ng)](https://github.com/espeak-ng/espeak-ng)
+  * [Neural Voice Cloning with a Few Samples](https://proceedings.neurips.cc/paper/2018/hash/4559912e7a94a9c32b09d894f2bc3c82-Abstract.html)
+  * [NAUTILUS: A Versatile Voice Cloning System](https://ieeexplore.ieee.org/abstract/document/9246264)
+  * [Learning to Speak Fluently in a Foreign Language: Multilingual Speech Synthesis and Cross-Language Voice Cloning](https://arxiv.org/abs/1907.04448)
+  * [When Good Becomes Evil: Keystroke Inference with Smartwatch](https://dl.acm.org/doi/10.1145/2810103.2813668)
+  * [KeyListener: Inferring Keystrokes on QWERTY Keyboard of Touch Screen through Acoustic Signals](https://ieeexplore.ieee.org/document/8737591)
+  * 
+
 
 #### 🔎 Detection 🔎
   * [fake-voice-detection](https://github.com/dessa-oss/fake-voice-detection): Using temporal convolution to detect Audio Deepfakes. [![stars](https://badgen.net/github/stars/dessa-oss/fake-voice-detection)](https://github.com/dessa-oss/fake-voice-detection)
-
+  * [A robust voice spoofing detection system using novel CLS-LBP features and LSTM](https://www.sciencedirect.com/science/article/pii/S1319157822000684)
+  * [Voice spoofing detector: A unified anti-spoofing framework](https://www.sciencedirect.com/science/article/abs/pii/S0957417422002330)
+  * [Securing Voice-Driven Interfaces Against Fake (Cloned) Audio Attacks](https://ieeexplore.ieee.org/abstract/document/8695320)
+  * [DeepSonar: Towards Effective and Robust Detection of AI-Synthesized Fake Voices](https://dl.acm.org/doi/abs/10.1145/3394171.3413716)
+  * [Fighting AI with AI: Fake Speech Detection Using Deep Learning](https://www.aes.org/e-lib/online/browse.cfm?elib=20479)
+  * [A Review of Modern Audio Deepfake Detection Methods: Challenges and Future Directions](https://www.mdpi.com/1999-4893/15/5/155)
 
 ### 📷 Image 📷
 
@@ -411,6 +423,7 @@ Improving classic techniques with AI
   * [Security Code Review With ChatGPT](https://research.nccgroup.com/2023/02/09/security-code-review-with-chatgpt)
   * [Do Users Write More Insecure Code with AI Assistants?](https://arxiv.org/abs/2211.03622)
   * [Bypassing Gmail's spam filters with ChatGPT](https://neelc.org/posts/chatgpt-gmail-spam)
+  * [Recurrent GANs Password Cracker For IoT Password Security Enhancement](https://www.mdpi.com/1999-4893/15/5/155
 
 ### 📚 Misc 📚
 
