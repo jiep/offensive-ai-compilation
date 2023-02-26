@@ -83,7 +83,7 @@ In the generic case, where there is insufficient knowledge of the model, the sub
 
   * Use of [differential privacy](https://en.wikipedia.org/wiki/Differential_privacy).
 
-  * Use of ensembles.
+  * Use of [ensembles](https://en.wikipedia.org/wiki/Ensemble_learning).
 
   * Use of specific defenses
     * [Specific architectures](https://arxiv.org/abs/1711.07221)
@@ -112,11 +112,11 @@ Three types are possible:
 
 ###### 🛡️ Defensive actions 🛡️
 
-  * Use of advanced cryptography. Countermeasures include differential privacy, homomorphic cryptography and secure multiparty computation.
+  * Use of advanced cryptography. Countermeasures include [differential privacy](https://en.wikipedia.org/wiki/Differential_privacy), [homomorphic cryptography](https://en.wikipedia.org/wiki/Homomorphic_encryption) and [secure multiparty computation](https://en.wikipedia.org/wiki/Secure_multi-party_computation).
 
-  * Use of regularization techniques such as Dropout due to the relationship between overtraining and privacy.
+  * Use of regularization techniques such as [Dropout](https://en.wikipedia.org/wiki/Dilution_(neural_networks)) due to the relationship between overtraining and privacy.
 
-  * Model compression has been proposed as a defense against reconstruction attacks.
+  * [Model compression](https://medium.com/gsi-technology/an-overview-of-model-compression-techniques-for-deep-learning-in-space-3fd8d4ce84e5) has been proposed as a defense against reconstruction attacks.
 
 ##### 💉 Poisoning 💉
 
@@ -179,7 +179,7 @@ The most common attacks are **white-box attacks**:
 
   * Transformations on inputs.
 
-  * Gradient masking/regularization. Not very effective.
+  * Gradient masking/regularization. [Not very effective](https://arxiv.org/abs/1802.00420).
 
   * Weak defenses.
 
@@ -209,7 +209,7 @@ ART supports the most popular frameworks: Tensorflow, Keras, PyTorch, MxNet, Sci
 
 It is not limited to the use of models that use images as input, but also supports other types of data, such as audio, video, tabular data, etc.
 
-[Workshop to learn Adversarial Machine Learning in Spanish](https://github.com/jiep/adversarial-machine-learning)
+> [Workshop to learn Adversarial Machine Learning with ART 🇪🇸](https://github.com/jiep/adversarial-machine-learning)
 
 ###### Cleverhans
 
