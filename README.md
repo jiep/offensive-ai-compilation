@@ -167,16 +167,14 @@ Two types of attack can be performed depending on the output desired by the oppo
 
 The most common attacks are **white-box attacks**:
 
-  * L-BFGS
-  * FGSM
-  * BIM
-  * JSMA
-  * Carlini & Wagner (C&W)
-  * NewtonFool
-  * EAD
-  * BIM
-  * UAP
-  * ...
+  * [L-BFGS](https://arxiv.org/abs/1312.6199)
+  * [FGSM](https://arxiv.org/abs/1412.6572)
+  * [BIM](https://arxiv.org/abs/1607.02533)
+  * [JSMA](https://arxiv.org/abs/1511.07528)
+  * [Carlini & Wagner (C&W)](https://arxiv.org/abs/1608.04644)
+  * [NewtonFool](https://andrewxiwu.github.io/public/papers/2017/JWJ17-objective-metrics-and-gradient-descent-based-algorithms-for-adversarial-examples-in-machine-learning.pdf)
+  * [EAD](https://arxiv.org/abs/1709.04114)
+  * [UAP](https://arxiv.org/abs/1610.08401)
 
 ###### 🛡️ Defensive actions 🛡️
 
