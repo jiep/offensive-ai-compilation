@@ -259,8 +259,6 @@ Improving classic techniques with AI
   * [Learning to Speak Fluently in a Foreign Language: Multilingual Speech Synthesis and Cross-Language Voice Cloning](https://arxiv.org/abs/1907.04448)
   * [When Good Becomes Evil: Keystroke Inference with Smartwatch](https://dl.acm.org/doi/10.1145/2810103.2813668)
   * [KeyListener: Inferring Keystrokes on QWERTY Keyboard of Touch Screen through Acoustic Signals](https://ieeexplore.ieee.org/document/8737591)
-  * 
-
 
 #### 🔎 Detection 🔎
   * [fake-voice-detection](https://github.com/dessa-oss/fake-voice-detection): Using temporal convolution to detect Audio Deepfakes. [![stars](https://badgen.net/github/stars/dessa-oss/fake-voice-detection)](https://github.com/dessa-oss/fake-voice-detection)
@@ -424,7 +422,7 @@ Improving classic techniques with AI
   * [Security Code Review With ChatGPT](https://research.nccgroup.com/2023/02/09/security-code-review-with-chatgpt)
   * [Do Users Write More Insecure Code with AI Assistants?](https://arxiv.org/abs/2211.03622)
   * [Bypassing Gmail's spam filters with ChatGPT](https://neelc.org/posts/chatgpt-gmail-spam)
-  * [Recurrent GANs Password Cracker For IoT Password Security Enhancement](https://www.mdpi.com/1999-4893/15/5/155
+  * [Recurrent GANs Password Cracker For IoT Password Security Enhancement](https://www.mdpi.com/1999-4893/15/5/155)
 
 ### 📚 Misc 📚
 
