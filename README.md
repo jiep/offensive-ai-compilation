@@ -152,6 +152,7 @@ Three types are possible:
   * [Extracting Training Data from Large Language Models](https://arxiv.org/abs/2012.07805) 
   * [Property Inference Attacks on Fully Connected Neural Networks using Permutation Invariant Representations](https://dl.acm.org/doi/10.1145/3243734.3243834)
   * [Extracting Training Data from Diffusion Models](https://arxiv.org/abs/2301.13188)
+  * [High-resolution image reconstruction with latent diffusion models from human brain activity](https://www.biorxiv.org/content/10.1101/2022.11.18.517004v1)
 
 ##### 💉 Poisoning 💉
 
