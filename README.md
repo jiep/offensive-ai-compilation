@@ -257,6 +257,7 @@ The most common attacks are **white-box attacks**:
   * [Intriguing properties of neural networks](https://arxiv.org/abs/1312.6199)
   * [Explaining and Harnessing Adversarial Examples](https://arxiv.org/abs/1412.6572)
   * [Delving into Transferable Adversarial Examples and Black-box Attacks](https://arxiv.org/abs/1611.02770)
+  * [Adversarial machine learning at scale](https://arxiv.org/abs/1611.01236)
   * [Black-box Adversarial Attacks with Limited Queries and Information](https://arxiv.org/abs/1804.08598)
   * [Feature Squeezing: Detecting Adversarial Examples in Deep Neural Networks](https://arxiv.org/abs/1704.01155)
   * [Decision-Based Adversarial Attacks: Reliable Attacks Against Black-Box Machine Learning Models](https://arxiv.org/abs/1712.04248)
