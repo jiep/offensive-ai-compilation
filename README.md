@@ -114,7 +114,7 @@ In the generic case, where there is insufficient knowledge of the model, the sub
   
 They are intended to reverse the information flow of a machine learning model.
 
-![Inference attack](/assets/images/inference.png)
+![Inference attack](/assets/images/inversion.png)
 
 They enable an adversary to have knowledge of the model that was not explicitly intended to be shared.
 
