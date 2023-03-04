@@ -531,6 +531,7 @@ Improving classic techniques with AI
   * [Vulnerability Prioritization: An Offensive Security Approach](https://arxiv.org/abs/2206.11182)
   * [MITRE ATLAS™](https://atlas.mitre.org) (Adversarial Threat Landscape for Artificial-Intelligence Systems)
   * [A Survey on Reinforcement Learning Security with Application to Autonomous Driving](https://arxiv.org/abs/2212.06123)
+  * [How to avoid machine learning pitfalls: a guide for academic researchers](https://arxiv.org/abs/2108.02497)
   * [A curated list of AI Security & Privacy events](https://github.com/ZhengyuZhao/AI-Security-and-Privacy-Events)
 
 ## 📊 Surveys 📊
