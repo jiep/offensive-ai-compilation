@@ -2,6 +2,7 @@
 
 A curated list of useful resources that cover Offensive AI.
 
+## 📁 Contents 📁
 - [🚫 Abuse 🚫](#-abuse-)
   - [🧠 Adversarial Machine Learning 🧠](#-adversarial-machine-learning-)
     - [⚡ Attacks ⚡](#-attacks-)
