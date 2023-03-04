@@ -183,7 +183,6 @@ It is important to note that **public pre-trained models may contain backdoors**
     * [ABS: Scanning Neural Networks for Back-doors by Artificial Brain Stimulation](https://dl.acm.org/doi/10.1145/3319535.3363216)
     * [DeepInspect: A Black-box Trojan Detection and Mitigation Framework for Deep Neural Networks](https://www.ijcai.org/proceedings/2019/647)
     * [Defending Neural Backdoors via Generative Distribution Modeling](https://arxiv.org/abs/1910.04749)
-    * [Fool the AI!](https://fooltheai.mybluemix.net/): Hackers can use backdoors to poison training data and cause an AI model to misclassify images. Learn how IBM researchers can tell when data has been poisoned, then guess what backdoors have been hidden in these datasets. Can you guess the backdoor?
 
 ###### 🔗 Useful links 🔗
 
@@ -204,6 +203,7 @@ It is important to note that **public pre-trained models may contain backdoors**
   * [Input-Aware Dynamic Backdoor Attack](https://arxiv.org/abs/2010.08138)
   * [How To Backdoor Federated Learning](https://arxiv.org/abs/1807.00459)
   * [Planting Undetectable Backdoors in Machine Learning Models](https://arxiv.org/abs/2204.06974)
+  * [Fool the AI!](https://fooltheai.mybluemix.net/): Hackers can use backdoors to poison training data and cause an AI model to misclassify images. Learn how IBM researchers can tell when data has been poisoned, then guess what backdoors have been hidden in these datasets. Can you guess the backdoor?
 
 ##### 🏃‍♂️ Evasion 🏃‍♂️
 
