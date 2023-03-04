@@ -149,6 +149,7 @@ Three types are possible:
   * [The Secret Sharer: Evaluating and Testing Unintended Memorization in Neural Networks](https://arxiv.org/abs/1802.08232)
   * [Towards the Science of Security and Privacy in Machine Learning](https://arxiv.org/abs/1611.03814)
   * [MemGuard: Defending against Black-Box Membership Inference Attacks via Adversarial Examples](https://arxiv.org/abs/1909.10594)
+  * [Extracting Training Data from Large Language Models](https://arxiv.org/abs/2012.07805) 
   * [Property Inference Attacks on Fully Connected Neural Networks using Permutation Invariant Representations](https://dl.acm.org/doi/10.1145/3243734.3243834)
   * [Extracting Training Data from Diffusion Models](https://arxiv.org/abs/2301.13188)
 
