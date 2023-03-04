@@ -3,43 +3,49 @@
 A curated list of useful resources that cover Offensive AI.
 
 ## 📁 Contents 📁
-- [🚫 Abuse 🚫](#-abuse-)
-  - [🧠 Adversarial Machine Learning 🧠](#-adversarial-machine-learning-)
-    - [⚡ Attacks ⚡](#-attacks-)
-      - [🔒 Extraction 🔒](#-extraction-)
-        - [⚠️ Limitations ⚠️](#️-limitations-️)
-        - [🛡️ Defensive actions 🛡️](#️-defensive-actions-️)
-      - [⬅️ Inversion (or inference) ⬅️](#️-inversion-or-inference-️)
-        - [🛡️ Defensive actions 🛡️](#️-defensive-actions-️-1)
-      - [💉 Poisoning 💉](#-poisoning-)
-        - [🔓 Backdoors 🔓](#-backdoors-)
-        - [🛡️ Defensive actions 🛡️](#️-defensive-actions-️-2)
-      - [🏃‍♂️ Evasion 🏃‍♂️](#️-evasion-️)
-        - [🛡️ Defensive actions 🛡️](#️-defensive-actions-️-3)
-    - [🛠️ Tools 🛠️](#️-tools-️)
-        - [ART](#art)
-        - [Cleverhans](#cleverhans)
-- [🔧 Use 🔧](#-use-)
-  - [🔊 Audio 🔊](#-audio-)
-    - [🛠️ Tools 🛠️](#️-tools-️-1)
-    - [💡 Applications 💡](#-applications-)
-    - [🔎 Detection 🔎](#-detection-)
-  - [📷 Image 📷](#-image-)
-    - [🛠️ Tools 🛠️](#️-tools-️-2)
-    - [💡 Applications 💡](#-applications--1)
-    - [🔎 Detection 🔎](#-detection--1)
-  - [🎥 Video 🎥](#-video-)
-    - [🛠️ Tools 🛠️](#️-tools-️-3)
-    - [💡 Applications 💡](#-applications--2)
-    - [🔎 Detection 🔎](#-detection--2)
-  - [📄 Text 📄](#-text-)
-    - [🛠️ Tools 🛠️](#️-tools-️-4)
-    - [🔎 Detection 🔎](#-detection--3)
-    - [💡 Applications 💡](#-applications--3)
-  - [📚 Misc 📚](#-misc-)
+- [Offensive AI Compilation](#offensive-ai-compilation)
+  - [📁 Contents 📁](#-contents-)
+  - [🚫 Abuse 🚫](#-abuse-)
+    - [🧠 Adversarial Machine Learning 🧠](#-adversarial-machine-learning-)
+      - [⚡ Attacks ⚡](#-attacks-)
+        - [🔒 Extraction 🔒](#-extraction-)
+          - [⚠️ Limitations ⚠️](#️-limitations-️)
+          - [🛡️ Defensive actions 🛡️](#️-defensive-actions-️)
+          - [🔗 Useful links 🔗](#-useful-links-)
+        - [⬅️ Inversion (or inference) ⬅️](#️-inversion-or-inference-️)
+          - [🛡️ Defensive actions 🛡️](#️-defensive-actions-️-1)
+          - [🔗 Useful links 🔗](#-useful-links--1)
+        - [💉 Poisoning 💉](#-poisoning-)
+          - [🔓 Backdoors 🔓](#-backdoors-)
+          - [🛡️ Defensive actions 🛡️](#️-defensive-actions-️-2)
+          - [🔗 Useful links 🔗](#-useful-links--2)
+        - [🏃‍♂️ Evasion 🏃‍♂️](#️-evasion-️)
+          - [🛡️ Defensive actions 🛡️](#️-defensive-actions-️-3)
+          - [🔗 Useful links 🔗](#-useful-links--3)
+      - [🛠️ Tools 🛠️](#️-tools-️)
+          - [ART](#art)
+          - [Cleverhans](#cleverhans)
+  - [🔧 Use 🔧](#-use-)
+    - [🔊 Audio 🔊](#-audio-)
+      - [🛠️ Tools 🛠️](#️-tools-️-1)
+      - [💡 Applications 💡](#-applications-)
+      - [🔎 Detection 🔎](#-detection-)
+    - [📷 Image 📷](#-image-)
+      - [🛠️ Tools 🛠️](#️-tools-️-2)
+      - [💡 Applications 💡](#-applications--1)
+      - [🔎 Detection 🔎](#-detection--1)
+    - [🎥 Video 🎥](#-video-)
+      - [🛠️ Tools 🛠️](#️-tools-️-3)
+      - [💡 Applications 💡](#-applications--2)
+      - [🔎 Detection 🔎](#-detection--2)
+    - [📄 Text 📄](#-text-)
+      - [🛠️ Tools 🛠️](#️-tools-️-4)
+      - [🔎 Detection 🔎](#-detection--3)
+      - [💡 Applications 💡](#-applications--3)
+    - [📚 Misc 📚](#-misc-)
   - [📊 Surveys 📊](#-surveys-)
-- [🗣 Contributors 🗣](#-contributors-)
-- [©️ License ©️](#️-license-️)
+  - [🗣 Contributors 🗣](#-contributors-)
+  - [©️ License ©️](#️-license-️)
 
 ## 🚫 Abuse 🚫
 
@@ -91,6 +97,19 @@ In the generic case, where there is insufficient knowledge of the model, the sub
     * [Adaptive Misinformation](https://arxiv.org/abs/1911.07100)
     * ...
 
+###### 🔗 Useful links 🔗
+  
+  * [Stealing Machine Learning Models via Prediction APIs](https://arxiv.org/abs/1609.02943)
+  * [Stealing Hyperparameters in Machine Learning](https://arxiv.org/abs/1802.05351)
+  * [Knockoff Nets: Stealing Functionality of Black-Box Models](https://arxiv.org/abs/1812.02766)
+  * [Model Extraction Warning in MLaaS Paradigm](https://arxiv.org/abs/1711.07221)
+  * [Copycat CNN: Stealing Knowledge by Persuading Confession with Random Non-Labeled Data](https://arxiv.org/abs/1806.05476)
+  * [Prediction Poisoning: Towards Defenses Against DNN Model Stealing Attacks](https://arxiv.org/abs/1906.10908)
+  * [Stealing Neural Networks via Timing Side Channels](https://arxiv.org/abs/1812.11720)
+  * [Model Stealing Attacks Against Inductive Graph Neural Networks](https://arxiv.org/abs/2112.08331)
+  * [High Accuracy and High Fidelity Extraction of Neural Networks](https://arxiv.org/abs/1909.01838)
+  * [Poisoning Web-Scale Training Datasets is Practical](https://arxiv.org/abs/2302.10149)
+
 ##### ⬅️ Inversion (or inference) ⬅️
   
 They are intended to reverse the information flow of a machine learning model.
@@ -118,6 +137,23 @@ Three types are possible:
 
   * [Model compression](https://medium.com/gsi-technology/an-overview-of-model-compression-techniques-for-deep-learning-in-space-3fd8d4ce84e5) has been proposed as a defense against reconstruction attacks.
 
+###### 🔗 Useful links 🔗
+
+  * [Membership Inference Attacks Against Machine Learning Models](https://arxiv.org/abs/1610.05820)
+  * [Model Inversion Attacks that Exploit Confidence Information and Basic Countermeasures](https://dl.acm.org/doi/10.1145/2810103.2813677)
+  * [Machine Learning Models that Remember Too Much](https://arxiv.org/abs/1709.07886)
+  * [ML-Leaks: Model and Data Independent Membership Inference Attacks and Defenses on Machine Learning Models](https://arxiv.org/abs/1806.01246)
+  * [Deep Models Under the GAN: Information Leakage from Collaborative Deep Learning](https://arxiv.org/abs/1702.07464)
+  * [LOGAN: Membership Inference Attacks Against Generative Models](https://petsymposium.org/popets/2019/popets-2019-0008.php)
+  * [Overfitting, robustness, and malicious algorithms: A study of potential causes of privacy risk in machine learning](https://content.iospress.com/articles/journal-of-computer-security/jcs191362)
+  * [Comprehensive Privacy Analysis of Deep Learning: Stand-alone and Federated Learning under Passive and Active White-box Inference Attacks](https://arxiv.org/abs/1812.00910)
+  * [Inference Attacks Against Collaborative Learning](https://arxiv.org/abs/1805.04049)
+  * [The Secret Sharer: Evaluating and Testing Unintended Memorization in Neural Networks](https://arxiv.org/abs/1802.08232)
+  * [Towards the Science of Security and Privacy in Machine Learning](https://arxiv.org/abs/1611.03814)
+  * [MemGuard: Defending against Black-Box Membership Inference Attacks via Adversarial Examples](https://arxiv.org/abs/1909.10594)
+  * [Property Inference Attacks on Fully Connected Neural Networks using Permutation Invariant Representations](https://dl.acm.org/doi/10.1145/3243734.3243834)
+  * [Extracting Training Data from Diffusion Models](https://arxiv.org/abs/2301.13188)
+
 ##### 💉 Poisoning 💉
 
 They aim to corrupt the training set by causing a machine learning model to reduce its accuracy.
@@ -126,7 +162,7 @@ They aim to corrupt the training set by causing a machine learning model to redu
 
 This attack is difficult to detect when performed on the training data, since the attack can propagate among different models using the same training data.
 
-The adversary seeks to destroy the availability of the model by modifying the decision boundary and, as a result, producing incorrect predictions or, create a backdoor in a model. In the latter,  the model behaves correctly (returning the desired predictions) in most cases, except for certain inputs specially created by the adversary that produce undesired results. The adversary can manipulate the results of the predictions and launch future attacks.
+The adversary seeks to destroy the availability of the model by modifying the decision boundary and, as a result, producing incorrect predictions or, create a backdoor in a model. In the latter, the model behaves correctly (returning the desired predictions) in most cases, except for certain inputs specially created by the adversary that produce undesired results. The adversary can manipulate the results of the predictions and launch future attacks.
 
 ###### 🔓 Backdoors 🔓
 
@@ -141,6 +177,33 @@ It is important to note that **public pre-trained models may contain backdoors**
   * Robust training methods.
 
   * Specific defenses.
+    * [Neural Cleanse: Identifying and Mitigating Backdoor Attacks in Neural Networks](https://ieeexplore.ieee.org/document/8835365) 
+    * [STRIP: A Defence Against Trojan Attacks on Deep Neural Networks](https://arxiv.org/abs/1902.06531)
+    * [Detecting Backdoor Attacks on Deep Neural Networks by Activation Clustering](https://arxiv.org/abs/1811.03728)
+    * [ABS: Scanning Neural Networks for Back-doors by Artificial Brain Stimulation](https://dl.acm.org/doi/10.1145/3319535.3363216)
+    * [DeepInspect: A Black-box Trojan Detection and Mitigation Framework for Deep Neural Networks](https://www.ijcai.org/proceedings/2019/647)
+    * [Defending Neural Backdoors via Generative Distribution Modeling](https://arxiv.org/abs/1910.04749)
+    * [Fool the AI!](https://fooltheai.mybluemix.net/): Hackers can use backdoors to poison training data and cause an AI model to misclassify images. Learn how IBM researchers can tell when data has been poisoned, then guess what backdoors have been hidden in these datasets. Can you guess the backdoor?
+
+###### 🔗 Useful links 🔗
+
+  * [Poisoning Attacks against Support Vector Machines](https://arxiv.org/abs/1206.6389)
+  * [Targeted Backdoor Attacks on Deep Learning Systems Using Data Poisoning](https://arxiv.org/abs/1712.05526)
+  * [Trojaning Attack on Neural Networks](https://www.semanticscholar.org/paper/Trojaning-Attack-on-Neural-Networks-Liu-Ma/08f7ac64b420210aa46fcbbdb0f206215f2e0644)
+  * [Fine-Pruning: Defending Against Backdooring Attacks on Deep Neural Networks](https://arxiv.org/abs/1805.12185)
+  * [Poison Frogs! Targeted Clean-Label Poisoning Attacks on Neural Networks](https://arxiv.org/abs/1804.00792)
+  * [Spectral Signatures in Backdoor Attacks](https://arxiv.org/abs/1811.00636)
+  * [Latent Backdoor Attacks on Deep Neural Networks](https://dl.acm.org/doi/10.1145/3319535.3354209)
+  * [Regula Sub-rosa: Latent Backdoor Attacks on Deep Neural Networks](https://arxiv.org/abs/1905.10447)
+  * [Hidden Trigger Backdoor Attacks](https://arxiv.org/abs/1910.00033)
+  * [Transferable Clean-Label Poisoning Attacks on Deep Neural Nets](https://arxiv.org/abs/1905.05897)
+  * [TABOR: A Highly Accurate Approach to Inspecting and Restoring Trojan Backdoors in AI Systems](https://arxiv.org/abs/1908.01763)
+  * [Towards Poisoning of Deep Learning Algorithms with Back-gradient Optimization](https://arxiv.org/abs/1708.08689)
+  * [When Does Machine Learning FAIL? Generalized Transferability for Evasion and Poisoning Attacks](https://arxiv.org/abs/1803.06975)
+  * [Certified Defenses for Data Poisoning Attacks](https://arxiv.org/abs/1706.03691)
+  * [Input-Aware Dynamic Backdoor Attack](https://arxiv.org/abs/2010.08138)
+  * [How To Backdoor Federated Learning](https://arxiv.org/abs/1807.00459)
+  * [Planting Undetectable Backdoors in Machine Learning Models](https://arxiv.org/abs/2204.06974)
 
 ##### 🏃‍♂️ Evasion 🏃‍♂️
 
@@ -182,6 +245,40 @@ The most common attacks are **white-box attacks**:
   * Gradient masking/regularization. [Not very effective](https://arxiv.org/abs/1802.00420).
 
   * Weak defenses.
+
+###### 🔗 Useful links 🔗
+
+  * [Practical Black-Box Attacks against Machine Learning](https://arxiv.org/abs/1602.02697)
+  * [The Limitations of Deep Learning in Adversarial Settings](https://arxiv.org/abs/1511.07528)
+  * [Towards Evaluating the Robustness of Neural Networks](https://arxiv.org/abs/1608.04644)
+  * [Distillation as a Defense to Adversarial Perturbations Against Deep Neural Networks](https://arxiv.org/abs/1511.04508)
+  * [Adversarial examples in the physical world](https://arxiv.org/abs/1607.02533)
+  * [Ensemble Adversarial Training: Attacks and Defenses](https://arxiv.org/abs/1705.07204)
+  * [Towards Deep Learning Models Resistant to Adversarial Attacks](https://arxiv.org/abs/1706.06083)
+  * [Intriguing properties of neural networks](https://arxiv.org/abs/1312.6199)
+  * [Explaining and Harnessing Adversarial Examples](https://arxiv.org/abs/1412.6572)
+  * [Delving into Transferable Adversarial Examples and Black-box Attacks](https://arxiv.org/abs/1611.02770)
+  * [Black-box Adversarial Attacks with Limited Queries and Information](https://arxiv.org/abs/1804.08598)
+  * [Feature Squeezing: Detecting Adversarial Examples in Deep Neural Networks](https://arxiv.org/abs/1704.01155)
+  * [Decision-Based Adversarial Attacks: Reliable Attacks Against Black-Box Machine Learning Models](https://arxiv.org/abs/1712.04248)
+  * [Boosting Adversarial Attacks with Momentum](https://openaccess.thecvf.com/content_cvpr_2018/papers/Dong_Boosting_Adversarial_Attacks_CVPR_2018_paper.pdf)
+  * [The Space of Transferable Adversarial Examples](https://arxiv.org/abs/1704.03453)
+  * [Countering Adversarial Images using Input Transformations](https://arxiv.org/abs/1711.00117)
+  * [Defense-GAN: Protecting Classifiers Against Adversarial Attacks Using Generative Models](https://arxiv.org/abs/1805.06605)
+  * [Synthesizing Robust Adversarial Examples](https://arxiv.org/abs/1707.07397)
+  * [Mitigating adversarial effects through randomization](https://arxiv.org/abs/1711.01991)
+  * [On Detecting Adversarial Perturbations](https://arxiv.org/abs/1702.04267)
+  * [PixelDefend: Leveraging Generative Models to Understand and Defend against Adversarial Examples](https://arxiv.org/abs/1710.10766)
+  * [One Pixel Attack for Fooling Deep Neural Networks](https://arxiv.org/abs/1710.08864)
+  * [Efficient Defenses Against Adversarial Attacks](https://arxiv.org/abs/1707.06728)
+  * [Robust Physical-World Attacks on Deep Learning Visual Classification](https://ieeexplore.ieee.org/document/8578273)
+  * [Adversarial Perturbations Against Deep Neural Networks for Malware Classification](https://arxiv.org/abs/1606.04435)
+  * [3D Adversarial Attacks Beyond Point Cloud](https://arxiv.org/abs/2104.12146)
+  * [Adversarial Perturbations Fool Deepfake Detectors](https://arxiv.org/abs/2003.10596)
+  * [Adversarial Deepfakes: Evaluating Vulnerability of Deepfake Detectors to Adversarial Examples](https://arxiv.org/abs/2002.12749)
+  * [An Overview of Vulnerabilities of Voice Controlled Systems](https://arxiv.org/abs/1803.09156)
+  * [FastWordBug: A Fast Method To Generate Adversarial Text Against NLP Applications](https://arxiv.org/abs/2002.00760)
+  * [Phantom of the ADAS: Securing Advanced Driver Assistance Systems from Split-Second Phantom Attacks](https://www.nassiben.com/phantoms)
 
 #### 🛠️ Tools 🛠️
 
@@ -435,7 +532,7 @@ Improving classic techniques with AI
   * [MITRE ATLAS™](https://atlas.mitre.org) (Adversarial Threat Landscape for Artificial-Intelligence Systems)
   * [A Survey on Reinforcement Learning Security with Application to Autonomous Driving](https://arxiv.org/abs/2212.06123)
 
-### 📊 Surveys 📊
+## 📊 Surveys 📊
 
   * [The Threat of Offensive AI to Organizations](https://arxiv.org/abs/2106.15764)
   * [Artificial Intelligence in the Cyber Domain: Offense and Defense](https://www.mdpi.com/2073-8994/12/3/410)
@@ -443,6 +540,15 @@ Improving classic techniques with AI
   * [Adversarial Deep Learning: A Survey on Adversarial Attacks and Defense Mechanisms on Image Classification](https://ieeexplore.ieee.org/document/9895425)
   * [A Survey of Privacy Attacks in Machine Learning](https://arxiv.org/abs/2007.07646)
   * [Towards Security Threats of Deep Learning Systems: A Survey](https://arxiv.org/abs/1911.12562)
+  * [A Survey on Security Threats and Defensive Techniques of Machine Learning: A Data Driven View](https://ieeexplore.ieee.org/document/8290925)
+  * [SoK: Security and Privacy in Machine Learning](https://ieeexplore.ieee.org/document/8406613)
+  * [Adversarial Machine Learning: The Rise in AI-Enabled Crime and its Role in Spam Filter Evasion](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4155496)
+  * [Threats, Vulnerabilities, and Controls of Machine Learning Based Systems: A Survey and Taxonomy](https://arxiv.org/abs/2301.07474)
+  * [Adversarial Attacks and Defences: A Survey](https://arxiv.org/pdf/1810.00069.pdf)
+  * [Security Matters: A Survey on Adversarial Machine Learning](https://arxiv.org/abs/1810.07339)
+  * [A Survey on Adversarial Attacks for Malware Analysis](https://arxiv.org/pdf/2111.08223.pdf)
+  * [Adversarial Machine Learning in Image Classification: A Survey Towards the Defender’s Perspective](https://arxiv.org/pdf/2009.03728.pdf)
+  * [A Survey of Robust Adversarial Training in Pattern Recognition: Fundamental, Theory, and Methodologies](https://arxiv.org/abs/2203.14046)
 
 ## 🗣 Contributors 🗣
 
