@@ -3,49 +3,47 @@
 A curated list of useful resources that cover Offensive AI.
 
 ## 📁 Contents 📁
-- [Offensive AI Compilation](#offensive-ai-compilation)
-  - [📁 Contents 📁](#-contents-)
-  - [🚫 Abuse 🚫](#-abuse-)
-    - [🧠 Adversarial Machine Learning 🧠](#-adversarial-machine-learning-)
-      - [⚡ Attacks ⚡](#-attacks-)
-        - [🔒 Extraction 🔒](#-extraction-)
-          - [⚠️ Limitations ⚠️](#️-limitations-️)
-          - [🛡️ Defensive actions 🛡️](#️-defensive-actions-️)
-          - [🔗 Useful links 🔗](#-useful-links-)
-        - [⬅️ Inversion (or inference) ⬅️](#️-inversion-or-inference-️)
-          - [🛡️ Defensive actions 🛡️](#️-defensive-actions-️-1)
-          - [🔗 Useful links 🔗](#-useful-links--1)
-        - [💉 Poisoning 💉](#-poisoning-)
-          - [🔓 Backdoors 🔓](#-backdoors-)
-          - [🛡️ Defensive actions 🛡️](#️-defensive-actions-️-2)
-          - [🔗 Useful links 🔗](#-useful-links--2)
-        - [🏃‍♂️ Evasion 🏃‍♂️](#️-evasion-️)
-          - [🛡️ Defensive actions 🛡️](#️-defensive-actions-️-3)
-          - [🔗 Useful links 🔗](#-useful-links--3)
-      - [🛠️ Tools 🛠️](#️-tools-️)
-          - [ART](#art)
-          - [Cleverhans](#cleverhans)
-  - [🔧 Use 🔧](#-use-)
-    - [🔊 Audio 🔊](#-audio-)
-      - [🛠️ Tools 🛠️](#️-tools-️-1)
-      - [💡 Applications 💡](#-applications-)
-      - [🔎 Detection 🔎](#-detection-)
-    - [📷 Image 📷](#-image-)
-      - [🛠️ Tools 🛠️](#️-tools-️-2)
-      - [💡 Applications 💡](#-applications--1)
-      - [🔎 Detection 🔎](#-detection--1)
-    - [🎥 Video 🎥](#-video-)
-      - [🛠️ Tools 🛠️](#️-tools-️-3)
-      - [💡 Applications 💡](#-applications--2)
-      - [🔎 Detection 🔎](#-detection--2)
-    - [📄 Text 📄](#-text-)
-      - [🛠️ Tools 🛠️](#️-tools-️-4)
-      - [🔎 Detection 🔎](#-detection--3)
-      - [💡 Applications 💡](#-applications--3)
-    - [📚 Misc 📚](#-misc-)
-  - [📊 Surveys 📊](#-surveys-)
-  - [🗣 Contributors 🗣](#-contributors-)
-  - [©️ License ©️](#️-license-️)
+- [🚫 Abuse 🚫](#-abuse-)
+  - [🧠 Adversarial Machine Learning 🧠](#-adversarial-machine-learning-)
+    - [⚡ Attacks ⚡](#-attacks-)
+      - [🔒 Extraction 🔒](#-extraction-)
+        - [⚠️ Limitations ⚠️](#️-limitations-️)
+        - [🛡️ Defensive actions 🛡️](#️-defensive-actions-️)
+        - [🔗 Useful links 🔗](#-useful-links-)
+      - [⬅️ Inversion (or inference) ⬅️](#️-inversion-or-inference-️)
+        - [🛡️ Defensive actions 🛡️](#️-defensive-actions-️-1)
+        - [🔗 Useful links 🔗](#-useful-links--1)
+      - [💉 Poisoning 💉](#-poisoning-)
+        - [🔓 Backdoors 🔓](#-backdoors-)
+        - [🛡️ Defensive actions 🛡️](#️-defensive-actions-️-2)
+        - [🔗 Useful links 🔗](#-useful-links--2)
+      - [🏃‍♂️ Evasion 🏃‍♂️](#️-evasion-️)
+        - [🛡️ Defensive actions 🛡️](#️-defensive-actions-️-3)
+        - [🔗 Useful links 🔗](#-useful-links--3)
+    - [🛠️ Tools 🛠️](#️-tools-️)
+        - [ART](#art)
+        - [Cleverhans](#cleverhans)
+- [🔧 Use 🔧](#-use-)
+  - [🔊 Audio 🔊](#-audio-)
+    - [🛠️ Tools 🛠️](#️-tools-️-1)
+    - [💡 Applications 💡](#-applications-)
+    - [🔎 Detection 🔎](#-detection-)
+  - [📷 Image 📷](#-image-)
+    - [🛠️ Tools 🛠️](#️-tools-️-2)
+    - [💡 Applications 💡](#-applications--1)
+    - [🔎 Detection 🔎](#-detection--1)
+  - [🎥 Video 🎥](#-video-)
+    - [🛠️ Tools 🛠️](#️-tools-️-3)
+    - [💡 Applications 💡](#-applications--2)
+    - [🔎 Detection 🔎](#-detection--2)
+  - [📄 Text 📄](#-text-)
+    - [🛠️ Tools 🛠️](#️-tools-️-4)
+    - [🔎 Detection 🔎](#-detection--3)
+    - [💡 Applications 💡](#-applications--3)
+  - [📚 Misc 📚](#-misc-)
+- [📊 Surveys 📊](#-surveys-)
+- [🗣 Contributors 🗣](#-contributors-)
+- [©️ License ©️](#️-license-️)
 
 ## 🚫 Abuse 🚫
 
@@ -151,8 +149,10 @@ Three types are possible:
   * [The Secret Sharer: Evaluating and Testing Unintended Memorization in Neural Networks](https://arxiv.org/abs/1802.08232)
   * [Towards the Science of Security and Privacy in Machine Learning](https://arxiv.org/abs/1611.03814)
   * [MemGuard: Defending against Black-Box Membership Inference Attacks via Adversarial Examples](https://arxiv.org/abs/1909.10594)
+  * [Extracting Training Data from Large Language Models](https://arxiv.org/abs/2012.07805) 
   * [Property Inference Attacks on Fully Connected Neural Networks using Permutation Invariant Representations](https://dl.acm.org/doi/10.1145/3243734.3243834)
   * [Extracting Training Data from Diffusion Models](https://arxiv.org/abs/2301.13188)
+  * [High-resolution image reconstruction with latent diffusion models from human brain activity](https://www.biorxiv.org/content/10.1101/2022.11.18.517004v1)
 
 ##### 💉 Poisoning 💉
 
@@ -258,6 +258,7 @@ The most common attacks are **white-box attacks**:
   * [Intriguing properties of neural networks](https://arxiv.org/abs/1312.6199)
   * [Explaining and Harnessing Adversarial Examples](https://arxiv.org/abs/1412.6572)
   * [Delving into Transferable Adversarial Examples and Black-box Attacks](https://arxiv.org/abs/1611.02770)
+  * [Adversarial machine learning at scale](https://arxiv.org/abs/1611.01236)
   * [Black-box Adversarial Attacks with Limited Queries and Information](https://arxiv.org/abs/1804.08598)
   * [Feature Squeezing: Detecting Adversarial Examples in Deep Neural Networks](https://arxiv.org/abs/1704.01155)
   * [Decision-Based Adversarial Attacks: Reliable Attacks Against Black-Box Machine Learning Models](https://arxiv.org/abs/1712.04248)
@@ -285,15 +286,15 @@ The most common attacks are **white-box attacks**:
 
 | Name | Type | Supported algorithms | Supported attack types | Attack/Defence | Supported frameworks | Popularity |
 | ---------- | :----------: | :----------: | :----------: | :----------: | :----------: | :----------: |
-| [Cleverhans](https://github.com/cleverhans-lab/cleverhans) | Image | Deep Learning | Evasion | Attack | Tensorflow, Keras, JAX | [![stars](https://badgen.net/github/stars/cleverhans-lab/cleverhans)](https://github.com/cleverhans-lab/cleverhans)|
-| [Foolbox](https://github.com/bethgelab/foolbox) | Image | Deep Learning | Evasion | Attack | Tensorflow, PyTorch, JAX | [![stars](https://badgen.net/github/stars/bethgelab/foolbox)](https://github.com/bethgelab/foolbox)|
-| [ART](https://github.com/Trusted-AI/adversarial-robustness-toolbox) | Any type (image, tabular data, audio,...) | Deep Learning, SVM, LR, etc. | Any (extraction, inference, poisoning, evasion) | Both | Tensorflow, Keras, Pytorch, Scikit Learn | [![stars](https://badgen.net/github/stars/Trusted-AI/adversarial-robustness-toolbox)](https://github.com/Trusted-AI/adversarial-robustness-toolbox)|
-| [TextAttack](https://github.com/QData/TextAttack) | Text | Deep Learning | Evasion | Attack | Keras, HuggingFace | [![stars](https://badgen.net/github/stars/QData/TextAttack)](https://github.com/QData/TextAttack)|
+| [Cleverhans](https://github.com/cleverhans-lab/cleverhans) | Image | [Deep Learning](https://en.wikipedia.org/wiki/Deep_learning) | Evasion | Attack | [Tensorflow](https://www.tensorflow.org), [Keras](https://keras.io), [JAX](https://github.com/google/jax) | [![stars](https://badgen.net/github/stars/cleverhans-lab/cleverhans)](https://github.com/cleverhans-lab/cleverhans)|
+| [Foolbox](https://github.com/bethgelab/foolbox) | Image | Deep Learning | Evasion | Attack | Tensorflow, [PyTorch](https://pytorch.org), JAX | [![stars](https://badgen.net/github/stars/bethgelab/foolbox)](https://github.com/bethgelab/foolbox)|
+| [ART](https://github.com/Trusted-AI/adversarial-robustness-toolbox) | Any type (image, tabular data, audio,...) | Deep Learning, [SVM](https://en.wikipedia.org/wiki/Support_vector_machine), [LR](https://en.wikipedia.org/wiki/Logistic_regression), etc. | Any (extraction, inference, poisoning, evasion) | Both | Tensorflow, Keras, Pytorch, [Scikit Learn](https://scikit-learn.org) | [![stars](https://badgen.net/github/stars/Trusted-AI/adversarial-robustness-toolbox)](https://github.com/Trusted-AI/adversarial-robustness-toolbox)|
+| [TextAttack](https://github.com/QData/TextAttack) | Text | Deep Learning | Evasion | Attack | Keras, [HuggingFace](https://huggingface.co/) | [![stars](https://badgen.net/github/stars/QData/TextAttack)](https://github.com/QData/TextAttack)|
 | [Advertorch](https://github.com/BorealisAI/advertorch) | Image | Deep Learning | Evasion | Both | --- | [![stars](https://badgen.net/github/stars/BorealisAI/advertorch)](https://github.com/BorealisAI/advertorch)|
-| [AdvBox](https://github.com/advboxes/AdvBox) | Image | Deep Learning | Evasion | Both | PyTorch, Tensorflow, MxNet | [![stars](https://badgen.net/github/stars/advboxes/AdvBox)](https://github.com/advboxes/AdvBox)|
+| [AdvBox](https://github.com/advboxes/AdvBox) | Image | Deep Learning | Evasion | Both | PyTorch, Tensorflow, [MxNet](https://mxnet.apache.org) | [![stars](https://badgen.net/github/stars/advboxes/AdvBox)](https://github.com/advboxes/AdvBox)|
 | [DeepRobust](https://github.com/DSE-MSU/DeepRobust) | Image, graph | Deep Learning | Evasion | Both | PyTorch | [![stars](https://badgen.net/github/stars/DSE-MSU/DeepRobust)](https://github.com/DSE-MSU/DeepRobust)|
 | [Counterfit](https://github.com/Azure/counterfit) | Any | Any | Evasion | Attack | --- | [![stars](https://badgen.net/github/stars/Azure/counterfit)](https://github.com/Azure/counterfit)|
-| [Adversarial Audio Examples](https://github.com/carlini/audio_adversarial_examples) | Audio | DeepSpeech | Evasion | Attack | --- | [![stars](https://badgen.net/github/stars/carlini/audio_adversarial_examples)](https://github.com/carlini/audio_adversarial_examples)|
+| [Adversarial Audio Examples](https://github.com/carlini/audio_adversarial_examples) | Audio | [DeepSpeech](https://github.com/mozilla/DeepSpeech) | Evasion | Attack | --- | [![stars](https://badgen.net/github/stars/carlini/audio_adversarial_examples)](https://github.com/carlini/audio_adversarial_examples)|
 
 ###### ART
 
@@ -533,6 +534,7 @@ Improving classic techniques with AI
   * [Vulnerability Prioritization: An Offensive Security Approach](https://arxiv.org/abs/2206.11182)
   * [MITRE ATLAS™](https://atlas.mitre.org) (Adversarial Threat Landscape for Artificial-Intelligence Systems)
   * [A Survey on Reinforcement Learning Security with Application to Autonomous Driving](https://arxiv.org/abs/2212.06123)
+  * [How to avoid machine learning pitfalls: a guide for academic researchers](https://arxiv.org/abs/2108.02497)
   * [A curated list of AI Security & Privacy events](https://github.com/ZhengyuZhao/AI-Security-and-Privacy-Events)
 
 ## 📊 Surveys 📊
