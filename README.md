@@ -268,6 +268,7 @@ The most common attacks are **white-box attacks**:
   * [Synthesizing Robust Adversarial Examples](https://arxiv.org/abs/1707.07397)
   * [Mitigating adversarial effects through randomization](https://arxiv.org/abs/1711.01991)
   * [On Detecting Adversarial Perturbations](https://arxiv.org/abs/1702.04267)
+  * [Adversarial Patch](https://arxiv.org/abs/1712.09665)
   * [PixelDefend: Leveraging Generative Models to Understand and Defend against Adversarial Examples](https://arxiv.org/abs/1710.10766)
   * [One Pixel Attack for Fooling Deep Neural Networks](https://arxiv.org/abs/1710.08864)
   * [Efficient Defenses Against Adversarial Attacks](https://arxiv.org/abs/1707.06728)
