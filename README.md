@@ -333,29 +333,29 @@ The use of AI to accomplish a malicious task and boost classic attacks.
 
 ### 🕵️‍♂️ Pentesting 🕵️‍♂️
 
-  * [GyoiThon](https://github.com/gyoisamurai/GyoiThon): Next generation penetration test tool, intelligence gathering tool for web server.
-  * [Deep Exploit](https://github.com/13o-bbr-bbq/machine_learning_security/tree/master/DeepExploit): Fully automatic penetration test tool using Deep Reinforcement Learning.
-  * [AutoPentest-DRL](https://github.com/crond-jaist/AutoPentest-DRL): Automated penetration testing using deep reinforcement learning.
+  * [GyoiThon](https://github.com/gyoisamurai/GyoiThon): Next generation penetration test tool, intelligence gathering tool for web server. [![stars](https://badgen.net/github/stars/gyoisamurai/GyoiThon)](https://github.com/gyoisamurai/GyoiThon)
+  * [Deep Exploit](https://github.com/13o-bbr-bbq/machine_learning_security/tree/master/DeepExploit): Fully automatic penetration test tool using Deep Reinforcement Learning. [![stars](https://badgen.net/github/stars/13o-bbr-bbq/machine_learning_security)](https://github.com/13o-bbr-bbq/machine_learning_security)
+  * [AutoPentest-DRL](https://github.com/crond-jaist/AutoPentest-DRL): Automated penetration testing using deep reinforcement learning. [![stars](https://badgen.net/github/stars/crond-jaist/AutoPentest-DRL)](https://github.com/crond-jaist/AutoPentest-DRL)
   * [DeepGenerator](https://github.com/13o-bbr-bbq/machine_learning_security/tree/master/Generator): Fully automatically generate injection codes for web application assessment using Genetic Algorithm and Generative Adversarial Networks.
-  * [Eyeballer](https://github.com/BishopFox/eyeballer): Eyeballer is meant for large-scope network penetration tests where you need to find "interesting" targets from a huge set of web-based hosts.
+  * [Eyeballer](https://github.com/BishopFox/eyeballer): Eyeballer is meant for large-scope network penetration tests where you need to find "interesting" targets from a huge set of web-based hosts. [![stars](https://badgen.net/github/stars/BishopFox/eyeballer)](https://github.com/BishopFox/eyeballer)
 
 ### 🦠 Malware 🦠
 
   * [DeepLocker](https://i.blackhat.com/us-18/Thu-August-9/us-18-Kirat-DeepLocker-Concealing-Targeted-Attacks-with-AI-Locksmithing.pdf): Concealing targeted attacks with AI locksmithing, by IBM Labs on BH.
   * [An Overview of Artificial Intelligence Used in Malware](https://link.springer.com/chapter/10.1007/978-3-031-17030-0_4): A curated list of AI Malware resources.
-  * [DeepObfusCode](https://arxiv.org/pdf/1909.01837.pdf): Source code obfuscation through sequence-to-sequence networks.
-  * [AutoCAT](https://arxiv.org/pdf/2208.08025.pdf): Reinforcement learning for automated exploration of cache-timing attacks.
-  * [AI-BASED BOTNET](https://arxiv.org/pdf/2112.02223.pdf): A game-theoretic approach for AI-based botnet attack defence.
-  * [SECML_Malware](https://github.com/pralab/secml_malware): Python library for creating adversarial attacks against Windows Malware detectors.
+  * [DeepObfusCode](https://arxiv.org/abs/1909.01837): Source code obfuscation through sequence-to-sequence networks.
+  * [AutoCAT](https://arxiv.org/abs/2208.08025): Reinforcement learning for automated exploration of cache-timing attacks. 
+  * [AI-BASED BOTNET](https://arxiv.org/abs/2112.02223): A game-theoretic approach for AI-based botnet attack defence.
+  * [SECML_Malware](https://github.com/pralab/secml_malware): Python library for creating adversarial attacks against Windows Malware detectors. [![stars](https://badgen.net/github/stars/pralab/secml_malware)](https://github.com/pralab/secml_malware)
 
 ### 🗺️ OSINT 🗺️
 
-  * [SNAP_R](https://github.com/zerofox-oss/SNAP_R): Generate automatically spear-phishing posts on social media.
-  * [SpyScrap](https://github.com/RuthGnz/SpyScrap): SpyScrap combines facial recognition methods to filter the results and uses natural language processing for obtaining important entities from the website the user appears.
+  * [SNAP_R](https://github.com/zerofox-oss/SNAP_R): Generate automatically spear-phishing posts on social media. [![stars](https://badgen.net/github/stars/zerofox-oss/SNAP_R)](https://github.com/zerofox-oss/SNAP_R)
+  * [SpyScrap](https://github.com/RuthGnz/SpyScrap): SpyScrap combines facial recognition methods to filter the results and uses natural language processing for obtaining important entities from the website the user appears. [![stars](https://badgen.net/github/stars/RuthGnz/SpyScrap)](https://github.com/RuthGnz/SpyScrap)
 
 ### 📧 Phishing 📧
 
-  * [DeepDGA](https://github.com/roreagan/DeepDGA): Implementation of DeepDGA: Adversarially-Tuned Domain Generation and Detection
+  * [DeepDGA](https://github.com/roreagan/DeepDGA): Implementation of DeepDGA: Adversarially-Tuned Domain Generation and Detection. [![stars](https://badgen.net/github/stars/roreagan/DeepDGA)](https://github.com/roreagan/DeepDGA)
 
 ### 👨‍🎤 Generative AI 👨‍🎤
 
