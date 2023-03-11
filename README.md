@@ -3,47 +3,54 @@
 A curated list of useful resources that cover Offensive AI.
 
 ## 📁 Contents 📁
-- [🚫 Abuse 🚫](#-abuse-)
-  - [🧠 Adversarial Machine Learning 🧠](#-adversarial-machine-learning-)
-    - [⚡ Attacks ⚡](#-attacks-)
-      - [🔒 Extraction 🔒](#-extraction-)
-        - [⚠️ Limitations ⚠️](#️-limitations-️)
-        - [🛡️ Defensive actions 🛡️](#️-defensive-actions-️)
-        - [🔗 Useful links 🔗](#-useful-links-)
-      - [⬅️ Inversion (or inference) ⬅️](#️-inversion-or-inference-️)
-        - [🛡️ Defensive actions 🛡️](#️-defensive-actions-️-1)
-        - [🔗 Useful links 🔗](#-useful-links--1)
-      - [💉 Poisoning 💉](#-poisoning-)
-        - [🔓 Backdoors 🔓](#-backdoors-)
-        - [🛡️ Defensive actions 🛡️](#️-defensive-actions-️-2)
-        - [🔗 Useful links 🔗](#-useful-links--2)
-      - [🏃‍♂️ Evasion 🏃‍♂️](#️-evasion-️)
-        - [🛡️ Defensive actions 🛡️](#️-defensive-actions-️-3)
-        - [🔗 Useful links 🔗](#-useful-links--3)
-    - [🛠️ Tools 🛠️](#️-tools-️)
-        - [ART](#art)
-        - [Cleverhans](#cleverhans)
-- [🔧 Use 🔧](#-use-)
-  - [🔊 Audio 🔊](#-audio-)
-    - [🛠️ Tools 🛠️](#️-tools-️-1)
-    - [💡 Applications 💡](#-applications-)
-    - [🔎 Detection 🔎](#-detection-)
-  - [📷 Image 📷](#-image-)
-    - [🛠️ Tools 🛠️](#️-tools-️-2)
-    - [💡 Applications 💡](#-applications--1)
-    - [🔎 Detection 🔎](#-detection--1)
-  - [🎥 Video 🎥](#-video-)
-    - [🛠️ Tools 🛠️](#️-tools-️-3)
-    - [💡 Applications 💡](#-applications--2)
-    - [🔎 Detection 🔎](#-detection--2)
-  - [📄 Text 📄](#-text-)
-    - [🛠️ Tools 🛠️](#️-tools-️-4)
-    - [🔎 Detection 🔎](#-detection--3)
-    - [💡 Applications 💡](#-applications--3)
-  - [📚 Misc 📚](#-misc-)
-- [📊 Surveys 📊](#-surveys-)
-- [🗣 Contributors 🗣](#-contributors-)
-- [©️ License ©️](#️-license-️)
+- [Offensive AI Compilation](#offensive-ai-compilation)
+  - [📁 Contents 📁](#-contents-)
+  - [🚫 Abuse 🚫](#-abuse-)
+    - [🧠 Adversarial Machine Learning 🧠](#-adversarial-machine-learning-)
+      - [⚡ Attacks ⚡](#-attacks-)
+        - [🔒 Extraction 🔒](#-extraction-)
+          - [⚠️ Limitations ⚠️](#️-limitations-️)
+          - [🛡️ Defensive actions 🛡️](#️-defensive-actions-️)
+          - [🔗 Useful links 🔗](#-useful-links-)
+        - [⬅️ Inversion (or inference) ⬅️](#️-inversion-or-inference-️)
+          - [🛡️ Defensive actions 🛡️](#️-defensive-actions-️-1)
+          - [🔗 Useful links 🔗](#-useful-links--1)
+        - [💉 Poisoning 💉](#-poisoning-)
+          - [🔓 Backdoors 🔓](#-backdoors-)
+          - [🛡️ Defensive actions 🛡️](#️-defensive-actions-️-2)
+          - [🔗 Useful links 🔗](#-useful-links--2)
+        - [🏃‍♂️ Evasion 🏃‍♂️](#️-evasion-️)
+          - [🛡️ Defensive actions 🛡️](#️-defensive-actions-️-3)
+          - [🔗 Useful links 🔗](#-useful-links--3)
+      - [🛠️ Tools 🛠️](#️-tools-️)
+          - [ART](#art)
+          - [Cleverhans](#cleverhans)
+  - [🔧 Use 🔧](#-use-)
+    - [🕵️‍♂️ Pentesting 🕵️‍♂️](#️️-pentesting-️️)
+    - [🦠 Malware 🦠](#-malware-)
+    - [🗺️ OSINT 🗺️](#️osint-️)
+    - [📧 Phishing 📧](#phishing-)
+    - [👨‍🎤 Generative AI 👨‍🎤](#-generative-ai-)
+      - [🔊 Audio 🔊](#-audio-)
+        - [🛠️ Tools 🛠️](#️-tools-️-1)
+        - [💡 Applications 💡](#-applications-)
+        - [🔎 Detection 🔎](#-detection-)
+      - [📷 Image 📷](#-image-)
+        - [🛠️ Tools 🛠️](#️-tools-️-2)
+        - [💡 Applications 💡](#-applications--1)
+        - [🔎 Detection 🔎](#-detection--1)
+      - [🎥 Video 🎥](#-video-)
+        - [🛠️ Tools 🛠️](#️-tools-️-3)
+        - [💡 Applications 💡](#-applications--2)
+        - [🔎 Detection 🔎](#-detection--2)
+      - [📄 Text 📄](#-text-)
+        - [🛠️ Tools 🛠️](#️-tools-️-4)
+        - [🔎 Detection 🔎](#-detection--3)
+        - [💡 Applications 💡](#-applications--3)
+    - [📚 Misc 📚](#-misc-)
+  - [📊 Surveys 📊](#-surveys-)
+  - [🗣 Contributors 🗣](#-contributors-)
+  - [©️ License ©️](#️-license-️)
 
 ## 🚫 Abuse 🚫
 
@@ -324,8 +331,7 @@ It implements numerous attacks such as L-BFGS, FGSM, JSMA, C&W, among others.
 
 The use of AI to accomplish a malicious task and boost classic attacks.
 
-### AI Powered Pentesting
-
+### 🕵️‍♂️ Pentesting 🕵️‍♂️
 
   * [GyoiThon](https://github.com/gyoisamurai/GyoiThon): Next generation penetration test tool, intelligence gathering tool for web server.
   * [Deep Exploit](https://github.com/13o-bbr-bbq/machine_learning_security/tree/master/DeepExploit): Fully automatic penetration test tool using Deep Reinforcement Learning.
@@ -333,7 +339,7 @@ The use of AI to accomplish a malicious task and boost classic attacks.
   * [DeepGenerator](https://github.com/13o-bbr-bbq/machine_learning_security/tree/master/Generator): Fully automatically generate injection codes for web application assessment using Genetic Algorithm and Generative Adversarial Networks.
   * [Eyeballer](https://github.com/BishopFox/eyeballer): Eyeballer is meant for large-scope network penetration tests where you need to find "interesting" targets from a huge set of web-based hosts.
 
-### AI Powered Malware
+### 🦠 Malware 🦠
 
   * [DeepLocker](https://i.blackhat.com/us-18/Thu-August-9/us-18-Kirat-DeepLocker-Concealing-Targeted-Attacks-with-AI-Locksmithing.pdf): Concealing targeted attacks with AI locksmithing, by IBM Labs on BH.
   * [An Overview of Artificial Intelligence Used in Malware](https://link.springer.com/chapter/10.1007/978-3-031-17030-0_4): A curated list of AI Malware resources.
@@ -342,16 +348,16 @@ The use of AI to accomplish a malicious task and boost classic attacks.
   * [AI-BASED BOTNET](https://arxiv.org/pdf/2112.02223.pdf): A game-theoretic approach for AI-based botnet attack defence.
   * [SECML_Malware](https://github.com/pralab/secml_malware): Python library for creating adversarial attacks against Windows Malware detectors.
 
-### AI OSINT
+### 🗺️ OSINT 🗺️
 
   * [SNAP_R](https://github.com/zerofox-oss/SNAP_R): Generate automatically spear-phishing posts on social media.
   * [SpyScrap](https://github.com/RuthGnz/SpyScrap): SpyScrap combines facial recognition methods to filter the results and uses natural language processing for obtaining important entities from the website the user appears.
 
-### AI Phishing
+### 📧 Phishing 📧
 
   * [DeepDGA](https://github.com/roreagan/DeepDGA): Implementation of DeepDGA: Adversarially-Tuned Domain Generation and Detection
 
-### 👨‍🎤 IA Generative 👨‍🎤
+### 👨‍🎤 Generative AI 👨‍🎤
 
 #### 🔊 Audio 🔊
 
