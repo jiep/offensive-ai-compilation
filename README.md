@@ -532,7 +532,9 @@ The use of AI to accomplish a malicious task and boost classic attacks.
   * [New AI classifier for indicating AI-written text](https://openai.com/blog/new-ai-classifier-for-indicating-ai-written-text/)
   * [Discover the 4 Magical Methods to Detect AI-Generated Text (including ChatGPT)](https://medium.com/@itamargolan/uncover-the-four-enchanted-ways-to-identify-ai-generated-text-including-chatgpts-4764847fd609)
   * [GPTZero](https://gptzero.me)
+  * [AI Content Detector (beta)](https://copyleaks.com/ai-content-detector)
   * [A Watermark for Large Language Models](https://arxiv.org/abs/2301.10226)
+  * [Can AI-Generated Text be Reliably Detected?](https://arxiv.org/abs/2303.11156)
 
 ##### 💡 Applications 💡
 
