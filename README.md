@@ -342,7 +342,7 @@ The use of AI to accomplish a malicious task and boost classic attacks.
   * [DeepLocker](https://i.blackhat.com/us-18/Thu-August-9/us-18-Kirat-DeepLocker-Concealing-Targeted-Attacks-with-AI-Locksmithing.pdf): Concealing targeted attacks with AI locksmithing, by IBM Labs on BH.
   * [An Overview of Artificial Intelligence Used in Malware](https://link.springer.com/chapter/10.1007/978-3-031-17030-0_4): A curated list of AI Malware resources.
   * [DeepObfusCode](https://arxiv.org/abs/1909.01837): Source code obfuscation through sequence-to-sequence networks.
-  * [AutoCAT](https://arxiv.org/abs/2208.08025): Reinforcement learning for automated exploration of cache-timing attacks. 
+  * [AutoCAT](https://arxiv.org/abs/2208.08025): Reinforcement learning for automated exploration of cache-timing attacks.
   * [AI-BASED BOTNET](https://arxiv.org/abs/2112.02223): A game-theoretic approach for AI-based botnet attack defence.
   * [SECML_Malware](https://github.com/pralab/secml_malware): Python library for creating adversarial attacks against Windows Malware detectors. [![stars](https://badgen.net/github/stars/pralab/secml_malware)](https://github.com/pralab/secml_malware)
 
@@ -572,6 +572,7 @@ The use of AI to accomplish a malicious task and boost classic attacks.
   * [How to avoid machine learning pitfalls: a guide for academic researchers](https://arxiv.org/abs/2108.02497)
   * [A curated list of AI Security & Privacy events](https://github.com/ZhengyuZhao/AI-Security-and-Privacy-Events)
   * [NIST AI 100-2e2023 ipd](https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.100-2e2023.ipd.pdf): Adversarial Machine Learning. A Taxonomy and Terminology of Attacks and Mitigations.
+  * [🇪🇸 RootedCon 2023 - Inteligencia artificial ofensiva - ¿Cómo podemos estar  preparados?](/slides/RootedCon_2023.pdf)
 
 ## 📊 Surveys 📊
 
