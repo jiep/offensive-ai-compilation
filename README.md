@@ -572,7 +572,7 @@ The use of AI to accomplish a malicious task and boost classic attacks.
   * [How to avoid machine learning pitfalls: a guide for academic researchers](https://arxiv.org/abs/2108.02497)
   * [A curated list of AI Security & Privacy events](https://github.com/ZhengyuZhao/AI-Security-and-Privacy-Events)
   * [NIST AI 100-2e2023 ipd](https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.100-2e2023.ipd.pdf): Adversarial Machine Learning. A Taxonomy and Terminology of Attacks and Mitigations.
-  * [RootedCon 2023 - Inteligencia artificial ofensiva - ¿Cómo podemos estar  preparados?](/slides/RootedCon_2023.pdf)
+  * [🇪🇸 RootedCon 2023 - Inteligencia artificial ofensiva - ¿Cómo podemos estar  preparados?](/slides/RootedCon_2023.pdf)
 
 ## 📊 Surveys 📊
 
