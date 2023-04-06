@@ -431,6 +431,7 @@ The use of AI to accomplish a malicious task and boost classic attacks.
   * [MM-CelebA-HQ-Dataset](https://github.com/IIGROUP/MM-CelebA-HQ-Dataset): A large-scale face image dataset that allows text-to-image generation, text-guided image manipulation, sketch-to-image generation, GANs for face generation and editing, image caption, and VQA. [![stars](https://badgen.net/github/stars/IIGROUP/MM-CelebA-HQ-Dataset)](https://github.com/IIGROUP/MM-CelebA-HQ-Dataset)
   * [Deep Daze](https://github.com/lucidrains/deep-daze): Simple command line tool for text to image generation using OpenAI's CLIP and Siren (Implicit neural representation network). [![stars](https://badgen.net/github/stars/lucidrains/deep-daze)](https://github.com/lucidrains/deep-daze)
   * [StyleMapGAN](https://github.com/naver-ai/StyleMapGAN): Exploiting Spatial Dimensions of Latent in GAN for Real-time Image Editing. [![stars](https://badgen.net/github/stars/naver-ai/StyleMapGAN)](https://github.com/naver-ai/StyleMapGAN)
+  * [Kandinsky-2](https://github.com/ai-forever/Kandinsky-2): Multilingual text2image latent diffusion model. [![stars](https://badgen.net/github/stars/ai-forever/Kandinsky-2)](https://github.com/ai-forever/Kandinsky-2)
 
 ##### 💡 Applications 💡
 
