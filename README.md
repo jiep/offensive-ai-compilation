@@ -158,6 +158,7 @@ Three types are possible:
   * [Property Inference Attacks on Fully Connected Neural Networks using Permutation Invariant Representations](https://dl.acm.org/doi/10.1145/3243734.3243834)
   * [Extracting Training Data from Diffusion Models](https://arxiv.org/abs/2301.13188)
   * [High-resolution image reconstruction with latent diffusion models from human brain activity](https://www.biorxiv.org/content/10.1101/2022.11.18.517004v1)
+  * [Stealing and evading malware classifiers and antivirus at low false positive conditions](https://www.sciencedirect.com/science/article/abs/pii/S0167404823001025)
 
 ##### 💉 Poisoning 💉
 
@@ -432,6 +433,8 @@ The use of AI to accomplish a malicious task and boost classic attacks.
   * [Deep Daze](https://github.com/lucidrains/deep-daze): Simple command line tool for text to image generation using OpenAI's CLIP and Siren (Implicit neural representation network). [![stars](https://badgen.net/github/stars/lucidrains/deep-daze)](https://github.com/lucidrains/deep-daze)
   * [StyleMapGAN](https://github.com/naver-ai/StyleMapGAN): Exploiting Spatial Dimensions of Latent in GAN for Real-time Image Editing. [![stars](https://badgen.net/github/stars/naver-ai/StyleMapGAN)](https://github.com/naver-ai/StyleMapGAN)
   * [Kandinsky-2](https://github.com/ai-forever/Kandinsky-2): Multilingual text2image latent diffusion model. [![stars](https://badgen.net/github/stars/ai-forever/Kandinsky-2)](https://github.com/ai-forever/Kandinsky-2)
+  * [DragGAN](https://github.com/XingangPan/DragGAN): Interactive Point-based Manipulation on the Generative Image Manifold. [![stars](https://badgen.net/github/stars/XingangPan/DragGAN)](https://github.com/XingangPan/DragGAN)
+  * [Segment Anything](https://github.com/facebookresearch/segment-anything): The repository provides code for running inference with the SegmentAnything Model (SAM), links for downloading the trained model checkpoints, and example notebooks that show how to use the model. [![stars](https://badgen.net/github/stars/facebookresearch/segment-anything)](https://github.com/facebookresearch/segment-anything)
 
 ##### 💡 Applications 💡
 
@@ -463,6 +466,7 @@ The use of AI to accomplish a malicious task and boost classic attacks.
   * [Extracting Training Data from Diffusion Models](https://arxiv.org/abs/2301.13188)
   * [Mann-E - Mann-E (Persian: مانی) is an art generator model based on the weights of Stable Diffusion 1.5 and data gathered from artistic material available on Pinterest](https://opencognitives.com/mann-e)
   * [End-to-end Trained CNN Encode-Decoder Networks for Image Steganography](https://arxiv.org/abs/1711.07201)
+  * [Grounded-Segment-Anything](https://github.com/IDEA-Research/Grounded-Segment-Anything): Marrying Grounding DINO with Segment Anything & Stable Diffusion & Tag2Text & BLIP & Whisper & ChatBot - Automatically Detect , Segment and Generate Anything with Image, Text, and Audio Inputs. [![stars](https://badgen.net/github/stars/IDEA-Research/Grounded-Segment-Anything)]
 
 ##### 🔎 Detection 🔎
 
@@ -497,7 +501,7 @@ The use of AI to accomplish a malicious task and boost classic attacks.
   * [AdaIN-style](https://github.com/xunhuang1995/AdaIN-style): Arbitrary Style Transfer in Real-time with Adaptive Instance Normalization. [![stars](https://badgen.net/github/stars/xunhuang1995/AdaIN-style)](https://github.com/xunhuang1995/AdaIN-style)
   * [Frame Interpolation](https://github.com/google-research/frame-interpolation): Frame Interpolation for Large Motion. [![stars](https://badgen.net/github/stars/google-research/frame-interpolation)](https://github.com/google-research/frame-interpolation)
   * [Awesome-Image-Colorization](https://github.com/MarkMoHR/Awesome-Image-Colorization): 📚 A collection of Deep Learning based Image Colorization and Video Colorization papers. [![stars](https://badgen.net/github/stars/MarkMoHR/Awesome-Image-Colorization)](https://github.com/MarkMoHR/Awesome-Image-Colorization)
-
+  * [SadTalker](https://github.com/OpenTalker/SadTalker): Learning Realistic 3D Motion Coefficients for Stylized Audio-Driven Single Image Talking Face Animation. [![stars](https://badgen.net/github/stars/OpenTalker/SadTalker)](https://github.com/OpenTalker/SadTalker)
 
 ##### 🔎 Detection 🔎
 
@@ -525,6 +529,7 @@ The use of AI to accomplish a malicious task and boost classic attacks.
   * [ctrl](https://github.com/salesforce/ctrl): Conditional Transformer Language Model for Controllable Generation. [![stars](https://badgen.net/github/stars/salesforce/ctrl)](https://github.com/salesforce/ctrl)
   * [Llama](https://github.com/facebookresearch/llama): Inference code for LLaMA models. [![stars](https://badgen.net/github/stars/facebookresearch/llama)](https://github.com/facebookresearch/llama)
   * [UL2 20B](https://ai.googleblog.com/2022/10/ul2-20b-open-source-unified-language.html): An Open Source Unified Language Learner
+  * [burgpt](https://github.com/aress31/burpgpt): A Burp Suite extension that integrates OpenAI's GPT to perform an additional passive scan for discovering highly bespoke vulnerabilities, and enables running traffic-based analysis of any type. [![stars](https://badgen.net/github/stars/aress31/burpgpt)](https://github.com/aress31/burpgpt)
 
 ##### 🔎 Detection 🔎
 
@@ -536,6 +541,8 @@ The use of AI to accomplish a malicious task and boost classic attacks.
   * [AI Content Detector (beta)](https://copyleaks.com/ai-content-detector)
   * [A Watermark for Large Language Models](https://arxiv.org/abs/2301.10226)
   * [Can AI-Generated Text be Reliably Detected?](https://arxiv.org/abs/2303.11156)
+  * [GPT detectors are biased against non-native English writers](https://arxiv.org/abs/2304.02819)
+  * [To ChatGPT, or not to ChatGPT: That is the question!](https://arxiv.org/abs/2304.01487)
 
 ##### 💡 Applications 💡
 
@@ -556,6 +563,7 @@ The use of AI to accomplish a malicious task and boost classic attacks.
   * [Do Users Write More Insecure Code with AI Assistants?](https://arxiv.org/abs/2211.03622)
   * [Bypassing Gmail's spam filters with ChatGPT](https://neelc.org/posts/chatgpt-gmail-spam)
   * [Recurrent GANs Password Cracker For IoT Password Security Enhancement](https://www.mdpi.com/1999-4893/15/5/155)
+  * [PentestGPT](https://github.com/GreyDGL/PentestGPT): A GPT-empowered penetration testing tool. [![stars](https://badgen.net/github/stars/GreyDGL/PentestGPT)](https://github.com/GreyDGL/PentestGPT)
 
 ### 📚 Misc 📚
 
@@ -574,6 +582,10 @@ The use of AI to accomplish a malicious task and boost classic attacks.
   * [A curated list of AI Security & Privacy events](https://github.com/ZhengyuZhao/AI-Security-and-Privacy-Events)
   * [NIST AI 100-2e2023 ipd](https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.100-2e2023.ipd.pdf): Adversarial Machine Learning. A Taxonomy and Terminology of Attacks and Mitigations.
   * [🇪🇸 RootedCon 2023 - Inteligencia artificial ofensiva - ¿Cómo podemos estar  preparados?](/slides/RootedCon_2023.pdf)
+  * [Security of AI-Systems: Fundamentals - Adversarial Deep Learning](https://www.bsi.bund.de/SharedDocs/Downloads/EN/BSI/KI/Security-of-AI-systems_fundamentals.pdf)
+  * [Beyond the Safeguards: Exploring the Security Risks of ChatGPT](https://arxiv.org/abs/2305.08005)
+  * [The AI Attack Surface Map v1.0](https://danielmiessler.com/blog/the-ai-attack-surface-map-v1-0)
+  * [On the Impossible Safety of Large AI Models](https://arxiv.org/abs/2209.15259)
 
 ## 📊 Surveys 📊
 
