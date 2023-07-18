@@ -515,11 +515,10 @@ The use of AI to accomplish a malicious task and boost classic attacks.
 
   * [FaceForensics++](https://github.com/ondyari/FaceForensics): FaceForensics dataset. [![stars](https://badgen.net/github/stars/ondyari/FaceForensics)](https://github.com/ondyari/FaceForensics)
   * [DeepFake-Detection](https://github.com/dessa-oss/DeepFake-Detection): Towards deepfake detection that actually works. [![stars](https://badgen.net/github/stars/dessa-oss/DeepFake-Detection)](https://github.com/dessa-oss/DeepFake-Detection)
-  * [fakeVideoForensics](https://github.com/bbvanexttechnologies/fakeVideoForensics): Detect deep fakes videos. [![stars](https://badgen.net/github/stars/bbvanexttechnologies/fakeVideoForensics)](https://github.com/bbvanexttechnologies/fakeVideoForensics)
+  * [fakeVideoForensics](https://github.com/jiep/fakeVideoForensics): Detect deep fakes videos. [![stars](https://badgen.net/github/stars/jiep/fakeVideoForensics)](https://github.com/jiep/fakeVideoForensics)
   * [Deepfake-Detection](https://github.com/HongguLiu/Deepfake-Detection): The Pytorch implemention of Deepfake Detection based on Faceforensics++. [![stars](https://badgen.net/github/stars/HongguLiu/Deepfake-Detection)](https://github.com/HongguLiu/Deepfake-Detection)
   * [SeqDeepFake](https://github.com/rshaojimmy/SeqDeepFake): PyTorch code for SeqDeepFake: Detecting and Recovering Sequential DeepFake Manipulation. [![stars](https://badgen.net/github/stars/rshaojimmy/SeqDeepFake)](https://github.com/rshaojimmy/SeqDeepFake)
   * [PCL-I2G](https://github.com/jtchen0528/PCL-I2G): Unofficial Implementation: Learning Self-Consistency for Deepfake Detection. [![stars](https://badgen.net/github/stars/jtchen0528/PCL-I2G)](https://github.com/jtchen0528/PCL-I2G)
-  * [Deepfake Scanner](https://github.com/deepware/deepfake-scanner): Deepfake Scanner by Deepware. [![stars](https://badgen.net/github/stars/deepware/deepfake-scanner)](https://github.com/deepware/deepfake-scanner)
   * [DFDC DeepFake Challenge](https://github.com/selimsef/dfdc_deepfake_challenge): A prize winning solution for DFDC challenge. [![stars](https://badgen.net/github/stars/selimsef/dfdc_deepfake_challenge)](https://github.com/selimsef/dfdc_deepfake_challenge)
   * [POI-Forensics](https://github.com/grip-unina/poi-forensics): Audio-Visual Person-of-Interest DeepFake Detection. [![stars](https://badgen.net/github/stars/grip-unina/poi-forensics)](https://github.com/grip-unina/poi-forensics)
 
