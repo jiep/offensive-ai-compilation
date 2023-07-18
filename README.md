@@ -367,6 +367,8 @@ The use of AI to accomplish a malicious task and boost classic attacks.
   * [mimic2](https://github.com/MycroftAI/mimic2): Text to Speech engine based on the Tacotron architecture, initially implemented by Keith Ito. [![stars](https://badgen.net/github/stars/MycroftAI/mimic2)](https://github.com/MycroftAI/mimic2)
   * [Neural-Voice-Cloning-with-Few-Samples](https://github.com/Sharad24/Neural-Voice-Cloning-with-Few-Samples): Implementation of Neural Voice Cloning with Few Samples Research Paper by Baidu. [![stars](https://badgen.net/github/stars/Sharad24/Neural-Voice-Cloning-with-Few-Samples)](https://github.com/Sharad24/Neural-Voice-Cloning-with-Few-Samples)
   * [Vall-E](https://github.com/enhuiz/vall-e): An unofficial PyTorch implementation of the audio LM VALL-E. [![stars](https://badgen.net/github/stars/enhuiz/vall-e)](https://github.com/enhuiz/vall-e)
+  * [voice-changer](https://github.com/w-okada/voice-changer): Realtime Voice Changer. [![stars](https://badgen.net/github/stars/w-okada/voice-changer)](https://github.com/w-okada/voice-changer)
+  * [RVC-Project/Retrieval-based-Voice-Conversion-WebUI](https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI): An easy-to-use Voice Conversion framework based on VITS. [![stars](https://badgen.net/github/stars/RVC-Project/Retrieval-based-Voice-Conversion-WebUI)](https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI)
 
 ##### 💡 Applications 💡
 
@@ -435,6 +437,9 @@ The use of AI to accomplish a malicious task and boost classic attacks.
   * [Kandinsky-2](https://github.com/ai-forever/Kandinsky-2): Multilingual text2image latent diffusion model. [![stars](https://badgen.net/github/stars/ai-forever/Kandinsky-2)](https://github.com/ai-forever/Kandinsky-2)
   * [DragGAN](https://github.com/XingangPan/DragGAN): Interactive Point-based Manipulation on the Generative Image Manifold. [![stars](https://badgen.net/github/stars/XingangPan/DragGAN)](https://github.com/XingangPan/DragGAN)
   * [Segment Anything](https://github.com/facebookresearch/segment-anything): The repository provides code for running inference with the SegmentAnything Model (SAM), links for downloading the trained model checkpoints, and example notebooks that show how to use the model. [![stars](https://badgen.net/github/stars/facebookresearch/segment-anything)](https://github.com/facebookresearch/segment-anything)
+  * [MobileSAM](https://github.com/ChaoningZhang/MobileSAM): This is the official code for MobileSAM project that makes SAM lightweight for mobile applications and beyond! [![stars](https://badgen.net/github/stars/ChaoningZhang/MobileSAM)](https://github.com/ChaoningZhang/MobileSAM)
+  * [FastSAM](https://github.com/CASIA-IVA-Lab/FastSAM): Fast Segment Anything
+ [![stars](https://badgen.net/github/stars/CASIA-IVA-Lab/FastSAM)](https://github.com/CASIA-IVA-Lab/FastSAM)
   * [Infinigen](https://github.com/princeton-vl/infinigen): Infinite Photorealistic Worlds using Procedural Generation [![stars](https://badgen.net/github/stars/princeton-vl/infinigen)](https://github.com/princeton-vl/infinigen)
 
 ##### 💡 Applications 💡
@@ -570,6 +575,7 @@ The use of AI to accomplish a malicious task and boost classic attacks.
   * [Recurrent GANs Password Cracker For IoT Password Security Enhancement](https://www.mdpi.com/1999-4893/15/5/155)
   * [PentestGPT](https://github.com/GreyDGL/PentestGPT): A GPT-empowered penetration testing tool. [![stars](https://badgen.net/github/stars/GreyDGL/PentestGPT)](https://github.com/GreyDGL/PentestGPT)
   * [GPT Researcher](https://github.com/assafelovic/gpt-researcher): GPT based autonomous agent that does online comprehensive research on any given topic. [![stars](https://badgen.net/github/stars/assafelovic/gpt-researcher)](https://github.com/assafelovic/gpt-researcher)
+  * [GPT Engineer](https://github.com/AntonOsika/gpt-engineer): Specify what you want it to build, the AI asks for clarification, and then builds it. [![stars](https://badgen.net/github/stars/AntonOsika/gpt-engineer)](https://github.com/AntonOsika/gpt-engineer)
   * [WormGPT])(https://thehackernews.com/2023/07/wormgpt-new-ai-tool-allows.html): New AI Tool Allows Cybercriminals to Launch Sophisticated Cyber Attacks
   * [PoisonGPT](https://blog.mithrilsecurity.io/poisongpt-how-we-hid-a-lobotomized-llm-on-hugging-face-to-spread-fake-news/): How we hid a lobotomized LLM on Hugging Face to spread fake news
   * [PassGPT: Password Modeling and (Guided) Generation with Large Language Models](https://javirandor.github.io/assets/pdf/passgpt2023rando.pdf)
