@@ -287,6 +287,8 @@ The most common attacks are **white-box attacks**:
   * [An Overview of Vulnerabilities of Voice Controlled Systems](https://arxiv.org/abs/1803.09156)
   * [FastWordBug: A Fast Method To Generate Adversarial Text Against NLP Applications](https://arxiv.org/abs/2002.00760)
   * [Phantom of the ADAS: Securing Advanced Driver Assistance Systems from Split-Second Phantom Attacks](https://www.nassiben.com/phantoms)
+  * [llm-attacks](https://github.com/llm-attacks/llm-attacks): Universal and Transferable Attacks on Aligned Language Models. [![stars](https://badgen.net/github/stars/llm-attacks/llm-attacks)](https://github.com/llm-attacks/llm-attacks)
+  * [Attacks on AI Models: Prompt Injection vs supply chain poisoning](https://blog.mithrilsecurity.io/attacks-on-ai-models-prompt-injection-vs-supply-chain-poisoning/)
 
 #### 🛠️ Tools 🛠️
 
@@ -368,7 +370,8 @@ The use of AI to accomplish a malicious task and boost classic attacks.
   * [Neural-Voice-Cloning-with-Few-Samples](https://github.com/Sharad24/Neural-Voice-Cloning-with-Few-Samples): Implementation of Neural Voice Cloning with Few Samples Research Paper by Baidu. [![stars](https://badgen.net/github/stars/Sharad24/Neural-Voice-Cloning-with-Few-Samples)](https://github.com/Sharad24/Neural-Voice-Cloning-with-Few-Samples)
   * [Vall-E](https://github.com/enhuiz/vall-e): An unofficial PyTorch implementation of the audio LM VALL-E. [![stars](https://badgen.net/github/stars/enhuiz/vall-e)](https://github.com/enhuiz/vall-e)
   * [voice-changer](https://github.com/w-okada/voice-changer): Realtime Voice Changer. [![stars](https://badgen.net/github/stars/w-okada/voice-changer)](https://github.com/w-okada/voice-changer)
-  * [RVC-Project/Retrieval-based-Voice-Conversion-WebUI](https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI): An easy-to-use Voice Conversion framework based on VITS. [![stars](https://badgen.net/github/stars/RVC-Project/Retrieval-based-Voice-Conversion-WebUI)](https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI)
+  * [Retrieval-based-Voice-Conversion-WebUI](https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI): An easy-to-use Voice Conversion framework based on VITS. [![stars](https://badgen.net/github/stars/RVC-Project/Retrieval-based-Voice-Conversion-WebUI)](https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI)
+  * [Audiocraft](https://github.com/facebookresearch/audiocraft): Audiocraft is a library for audio processing and generation with deep learning. It features the state-of-the-art EnCodec audio compressor / tokenizer, along with MusicGen, a simple and controllable music generation LM with textual and melodic conditioning. [![stars](https://badgen.net/github/stars/facebookresearch/audiocraft)](https://github.com/facebookresearch/audiocraft)
 
 ##### 💡 Applications 💡
 
@@ -536,6 +539,7 @@ The use of AI to accomplish a malicious task and boost classic attacks.
   * [GPT Neo](https://github.com/EleutherAI/gpt-neo): An implementation of model parallel GPT-2 and GPT-3-style models using the mesh-tensorflow library. [![stars](https://badgen.net/github/stars/EleutherAI/gpt-neo)](https://github.com/EleutherAI/gpt-neo)
   * [ctrl](https://github.com/salesforce/ctrl): Conditional Transformer Language Model for Controllable Generation. [![stars](https://badgen.net/github/stars/salesforce/ctrl)](https://github.com/salesforce/ctrl)
   * [Llama](https://github.com/facebookresearch/llama): Inference code for LLaMA models. [![stars](https://badgen.net/github/stars/facebookresearch/llama)](https://github.com/facebookresearch/llama)
+  * [Llama2](https://ai.meta.com/llama/)
   * [UL2 20B](https://ai.googleblog.com/2022/10/ul2-20b-open-source-unified-language.html): An Open Source Unified Language Learner
   * [burgpt](https://github.com/aress31/burpgpt): A Burp Suite extension that integrates OpenAI's GPT to perform an additional passive scan for discovering highly bespoke vulnerabilities, and enables running traffic-based analysis of any type. [![stars](https://badgen.net/github/stars/aress31/burpgpt)](https://github.com/aress31/burpgpt)
 
@@ -578,6 +582,7 @@ The use of AI to accomplish a malicious task and boost classic attacks.
   * [WormGPT])(https://thehackernews.com/2023/07/wormgpt-new-ai-tool-allows.html): New AI Tool Allows Cybercriminals to Launch Sophisticated Cyber Attacks
   * [PoisonGPT](https://blog.mithrilsecurity.io/poisongpt-how-we-hid-a-lobotomized-llm-on-hugging-face-to-spread-fake-news/): How we hid a lobotomized LLM on Hugging Face to spread fake news
   * [PassGPT: Password Modeling and (Guided) Generation with Large Language Models](https://javirandor.github.io/assets/pdf/passgpt2023rando.pdf)
+  * [DeepPass — Finding Passwords With Deep Learning](https://posts.specterops.io/deeppass-finding-passwords-with-deep-learning-4d31c534cd00)
 
 ### 📚 Misc 📚
 
@@ -586,6 +591,7 @@ The use of AI to accomplish a malicious task and boost classic attacks.
   * [Hugging Face Diffusion Models Course](https://github.com/huggingface/diffusion-models-class): Materials for the Hugging Face Diffusion Models Course. [![stars](https://badgen.net/github/stars/huggingface/diffusion-models-class)](https://github.com/huggingface/diffusion-models-class)
   * [Awesome-AI-Security](https://github.com/DeepSpaceHarbor/Awesome-AI-Security): A curated list of AI security resources. [![stars](https://badgen.net/github/stars/DeepSpaceHarbor/Awesome-AI-Security)](https://github.com/DeepSpaceHarbor/Awesome-AI-Security)
   * [ML for Hackers](https://github.com/johnmyleswhite/ML_for_Hackers): Code accompanying the book "Machine Learning for Hackers". [![stars](https://badgen.net/github/stars/johnmyleswhite/ML_for_Hackers)](https://github.com/johnmyleswhite/ML_for_Hackers)
+  * [Awful AI](https://github.com/daviddao/awful-ai): Awful AI is a curated list to track current scary usages of AI - hoping to raise awareness. [![stars](https://badgen.net/github/stars/daviddao/awful-ai)](https://github.com/daviddao/awful-ai)
   * [NIST AI Risk Management Framework Playbook](https://pages.nist.gov/AIRMF)
   * [SoK: Explainable Machine Learning for Computer Security Applications](https://arxiv.org/abs/2208.10605)
   * [Who Evaluates the Evaluators? On Automatic Metrics for Assessing AI-based Offensive Code Generators](https://arxiv.org/abs/2212.06008)
@@ -603,6 +609,7 @@ The use of AI to accomplish a malicious task and boost classic attacks.
   * [Frontier AI Regulation: Managing Emerging Risks to Public Safety](https://arxiv.org/abs/2307.03718)
   * [Multilayer Framework for Good Cybersecurity Practices for AI](https://www.enisa.europa.eu/publications/multilayer-framework-for-good-cybersecurity-practices-for-ai)
   * [Introducing Google’s Secure AI Framework](https://blog.google/technology/safety-security/introducing-googles-secure-ai-framework/)
+  * [OWASP Top 10 for LLM](https://owasp.org/www-project-top-10-for-large-language-model-applications/assets/PDF/OWASP-Top-10-for-LLMs-2023-v1_0.pdf)
 
 ## 📊 Surveys 📊
 
