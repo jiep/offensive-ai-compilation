@@ -481,6 +481,10 @@ The use of AI to accomplish a malicious task and boost classic attacks.
   * [End-to-end Trained CNN Encode-Decoder Networks for Image Steganography](https://arxiv.org/abs/1711.07201)
   * [Grounded-Segment-Anything](https://github.com/IDEA-Research/Grounded-Segment-Anything): Marrying Grounding DINO with Segment Anything & Stable Diffusion & Tag2Text & BLIP & Whisper & ChatBot - Automatically Detect , Segment and Generate Anything with Image, Text, and Audio Inputs. [![stars](https://badgen.net/github/stars/IDEA-Research/Grounded-Segment-Anything)](https://github.com/IDEA-Research/Grounded-Segment-Anything)
   * [AnimateDiff](https://github.com/guoyww/AnimateDiff): Animate Your Personalized Text-to-Image Diffusion Models without Specific Tuning. [![stars](https://badgen.net/github/stars/guoyww/AnimateDiff)](https://github.com/guoyww/AnimateDiff)
+  * [BasicSR](https://github.com/XPixelGroup/BasicSR): Open Source Image and Video Restoration Toolbox for Super-resolution, Denoise, Deblurring, etc. Currently, it includes EDSR, RCAN, SRResNet, SRGAN, ESRGAN, EDVR, BasicVSR, SwinIR, ECBSR, etc. Also support StyleGAN2, DFDNet. [![stars](https://badgen.net/github/stars/XPixelGroup/BasicSR)](https://github.com/XPixelGroup/
+  BasicSR)
+  * [Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN): Real-ESRGAN aims at developing Practical Algorithms for General Image/Video Restoration. [![stars](https://badgen.net/github/stars/xinntao/Real-ESRGAN)](https://github.com/xinntao/Real-ESRGAN)
+  * [ESRGAN](https://github.com/xinntao/ESRGAN): Enhanced SRGAN. Champion PIRM Challenge on Perceptual Super-Resolution. [![stars](https://badgen.net/github/stars/xinntao/ESRGAN)](https://github.com/xinntao/ESRGAN)
 
 ##### 🔎 Detection 🔎
 
