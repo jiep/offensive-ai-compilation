@@ -289,6 +289,8 @@ The most common attacks are **white-box attacks**:
   * [Phantom of the ADAS: Securing Advanced Driver Assistance Systems from Split-Second Phantom Attacks](https://www.nassiben.com/phantoms)
   * [llm-attacks](https://github.com/llm-attacks/llm-attacks): Universal and Transferable Attacks on Aligned Language Models. [![stars](https://badgen.net/github/stars/llm-attacks/llm-attacks)](https://github.com/llm-attacks/llm-attacks)
   * [Attacks on AI Models: Prompt Injection vs supply chain poisoning](https://blog.mithrilsecurity.io/attacks-on-ai-models-prompt-injection-vs-supply-chain-poisoning/)
+  * [Prompt Injection attack against LLM-integrated Applications](https://arxiv.org/pdf/2306.05499.pdf)
+  * [garak](https://github.com/leondz/garak): LLM vulnerability scanner. [![stars](https://badgen.net/github/stars/leondz/garak)](https://github.com/leondz/garak)
 
 #### 🛠️ Tools 🛠️
 
@@ -372,6 +374,7 @@ The use of AI to accomplish a malicious task and boost classic attacks.
   * [voice-changer](https://github.com/w-okada/voice-changer): Realtime Voice Changer. [![stars](https://badgen.net/github/stars/w-okada/voice-changer)](https://github.com/w-okada/voice-changer)
   * [Retrieval-based-Voice-Conversion-WebUI](https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI): An easy-to-use Voice Conversion framework based on VITS. [![stars](https://badgen.net/github/stars/RVC-Project/Retrieval-based-Voice-Conversion-WebUI)](https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI)
   * [Audiocraft](https://github.com/facebookresearch/audiocraft): Audiocraft is a library for audio processing and generation with deep learning. It features the state-of-the-art EnCodec audio compressor / tokenizer, along with MusicGen, a simple and controllable music generation LM with textual and melodic conditioning. [![stars](https://badgen.net/github/stars/facebookresearch/audiocraft)](https://github.com/facebookresearch/audiocraft)
+  * [VALL-E-X](https://github.com/Plachtaa/VALL-E-X): An open source implementation of Microsoft's VALL-E X zero-shot TTS model. [![stars](https://badgen.net/github/stars/Plachtaa/VALL-E-X)](https://github.com/Plachtaa/VALL-E-X)
 
 ##### 💡 Applications 💡
 
@@ -514,6 +517,8 @@ The use of AI to accomplish a malicious task and boost classic attacks.
   * [Awesome-Image-Colorization](https://github.com/MarkMoHR/Awesome-Image-Colorization): 📚 A collection of Deep Learning based Image Colorization and Video Colorization papers. [![stars](https://badgen.net/github/stars/MarkMoHR/Awesome-Image-Colorization)](https://github.com/MarkMoHR/Awesome-Image-Colorization)
   * [SadTalker](https://github.com/OpenTalker/SadTalker): Learning Realistic 3D Motion Coefficients for Stylized Audio-Driven Single Image Talking Face Animation. [![stars](https://badgen.net/github/stars/OpenTalker/SadTalker)](https://github.com/OpenTalker/SadTalker)
   * [roop](https://github.com/s0md3v/roop): One-click deepfake (face swap). [![stars](https://badgen.net/github/stars/s0md3v/roop)](https://github.com/s0md3v/roop)
+  * [StableVideo](https://github.com/rese1f/StableVideo): Text-driven Consistency-aware Diffusion Video Editing. [![stars](https://badgen.net/github/stars/rese1f/StableVideo)](https://github.com/rese1f/StableVideo)
+  * [MagicEdit](https://github.com/magic-research/magic-edit): High-Fidelity Temporally Coherent Video Editing. [![stars](https://badgen.net/github/stars/magic-research/magic-edit)](https://github.com/magic-research/magic-edit)
 
 ##### 🔎 Detection 🔎
 
@@ -611,6 +616,13 @@ The use of AI to accomplish a malicious task and boost classic attacks.
   * [Multilayer Framework for Good Cybersecurity Practices for AI](https://www.enisa.europa.eu/publications/multilayer-framework-for-good-cybersecurity-practices-for-ai)
   * [Introducing Google’s Secure AI Framework](https://blog.google/technology/safety-security/introducing-googles-secure-ai-framework/)
   * [OWASP Top 10 for LLM](https://owasp.org/www-project-top-10-for-large-language-model-applications/assets/PDF/OWASP-Top-10-for-LLMs-2023-v1_0.pdf)
+  * [Awesome LLM Security](https://github.com/awesome-llm-security): A curation of awesome tools, documents and projects about LLM Security. [![stars](https://badgen.net/github/stars/awesome-llm-security)](https://github.com/awesome-llm-security)
+  * A framework to securely use LLMs in companies. [Part 1: Overview of Risks](https://boringappsec.substack.com/p/edition-21-a-framework-to-securely). [Part 2: Managing risk](https://boringappsec.substack.com/p/edition-22-a-framework-to-securely). [Part 3: Securing ChatGPT and GitHub Copilot](https://boringappsec.substack.com/p/edition-23-a-framework-to-securely).
+  * [A Study on Robustness and Reliability of Large Language Model Code Generation](https://arxiv.org/abs/2308.10335)
+  * [Identifying AI-generated images with SynthID](https://www.deepmind.com/blog/identifying-ai-generated-images-with-synthid)
+  * [Auditing Large Language Models: A Three-Layered Approach](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4361607)
+  * [Resolving the battle of short‑ vs. long‑term AI risk](https://link.springer.com/content/pdf/10.1007/s43681-023-00336-y.pdf)
+  * [FraudGPT: The Villain Avatar of ChatGPT](https://netenrich.com/blog/fraudgpt-the-villain-avatar-of-chatgpt)
 
 ## 📊 Surveys 📊
 
