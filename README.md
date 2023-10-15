@@ -112,6 +112,7 @@ In the generic case, where there is insufficient knowledge of the model, the sub
   * [Model Stealing Attacks Against Inductive Graph Neural Networks](https://arxiv.org/abs/2112.08331)
   * [High Accuracy and High Fidelity Extraction of Neural Networks](https://arxiv.org/abs/1909.01838)
   * [Poisoning Web-Scale Training Datasets is Practical](https://arxiv.org/abs/2302.10149)
+  * [Polynomial Time Cryptanalytic Extraction of Neural Network Models](https://eprint.iacr.org/2023/1526)
 
 ##### ⬅️ Inversion (or inference) ⬅️
 
@@ -291,6 +292,11 @@ The most common attacks are **white-box attacks**:
   * [Attacks on AI Models: Prompt Injection vs supply chain poisoning](https://blog.mithrilsecurity.io/attacks-on-ai-models-prompt-injection-vs-supply-chain-poisoning/)
   * [Prompt Injection attack against LLM-integrated Applications](https://arxiv.org/pdf/2306.05499.pdf)
   * [garak](https://github.com/leondz/garak): LLM vulnerability scanner. [![stars](https://badgen.net/github/stars/leondz/garak)](https://github.com/leondz/garak)
+  * [Simple Adversarial Transformations in PyTorch](https://davidstutz.de/simple-adversarial-transformations-in-pytorch/)
+  * [ChatGPT Plugins: Data Exfiltration via Images & Cross Plugin Request Forgery](https://embracethered.com/blog/posts/2023/chatgpt-webpilot-data-exfil-via-markdown-injection/)
+  * [Image Hijacks: Adversarial Images can Control Generative Models at Runtime](https://arxiv.org/abs/2309.00236)
+  * [Multi-attacks: Many images + the same adversarial attack → many target labels](https://arxiv.org/abs/2308.03792)
+  * [ACTIVE: Towards Highly Transferable 3D Physical Camouflage for Universal and Robust Vehicle Evasion](https://arxiv.org/abs/2308.07009)
 
 #### 🛠️ Tools 🛠️
 
@@ -448,6 +454,7 @@ The use of AI to accomplish a malicious task and boost classic attacks.
   * [FastSAM](https://github.com/CASIA-IVA-Lab/FastSAM): Fast Segment Anything
  [![stars](https://badgen.net/github/stars/CASIA-IVA-Lab/FastSAM)](https://github.com/CASIA-IVA-Lab/FastSAM)
   * [Infinigen](https://github.com/princeton-vl/infinigen): Infinite Photorealistic Worlds using Procedural Generation [![stars](https://badgen.net/github/stars/princeton-vl/infinigen)](https://github.com/princeton-vl/infinigen)
+  * [DALL·E 3](https://openai.com/dall-e-3)
 
 ##### 💡 Applications 💡
 
@@ -485,6 +492,7 @@ The use of AI to accomplish a malicious task and boost classic attacks.
   BasicSR)
   * [Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN): Real-ESRGAN aims at developing Practical Algorithms for General Image/Video Restoration. [![stars](https://badgen.net/github/stars/xinntao/Real-ESRGAN)](https://github.com/xinntao/Real-ESRGAN)
   * [ESRGAN](https://github.com/xinntao/ESRGAN): Enhanced SRGAN. Champion PIRM Challenge on Perceptual Super-Resolution. [![stars](https://badgen.net/github/stars/xinntao/ESRGAN)](https://github.com/xinntao/ESRGAN)
+  * [MixNMatch](https://github.com/Yuheng-Li/MixNMatch): Multifactor Disentanglement and Encoding for Conditional Image Generation. [![stars](https://badgen.net/github/stars/Yuheng-Li/MixNMatch)](https://github.com/Yuheng-Li/MixNMatch)
 
 ##### 🔎 Detection 🔎
 
@@ -566,6 +574,8 @@ The use of AI to accomplish a malicious task and boost classic attacks.
   * [Can AI-Generated Text be Reliably Detected?](https://arxiv.org/abs/2303.11156)
   * [GPT detectors are biased against non-native English writers](https://arxiv.org/abs/2304.02819)
   * [To ChatGPT, or not to ChatGPT: That is the question!](https://arxiv.org/abs/2304.01487)
+  * [Can linguists distinguish between ChatGPT/AI and human writing?: A study of research ethics and academic publishing](https://www.sciencedirect.com/science/article/abs/pii/S2772766123000289)
+
 
 ##### 💡 Applications 💡
 
@@ -589,6 +599,7 @@ The use of AI to accomplish a malicious task and boost classic attacks.
   * [PentestGPT](https://github.com/GreyDGL/PentestGPT): A GPT-empowered penetration testing tool. [![stars](https://badgen.net/github/stars/GreyDGL/PentestGPT)](https://github.com/GreyDGL/PentestGPT)
   * [GPT Researcher](https://github.com/assafelovic/gpt-researcher): GPT based autonomous agent that does online comprehensive research on any given topic. [![stars](https://badgen.net/github/stars/assafelovic/gpt-researcher)](https://github.com/assafelovic/gpt-researcher)
   * [GPT Engineer](https://github.com/AntonOsika/gpt-engineer): Specify what you want it to build, the AI asks for clarification, and then builds it. [![stars](https://badgen.net/github/stars/AntonOsika/gpt-engineer)](https://github.com/AntonOsika/gpt-engineer)
+  * [localpilot](https://github.com/danielgross/localpilot): Use GitHub Copilot locally on your Macbook with one-click! [![stars](https://badgen.net/github/stars/danielgross/localpilot)](https://github.com/danielgross/localpilot)
   * [WormGPT])(https://thehackernews.com/2023/07/wormgpt-new-ai-tool-allows.html): New AI Tool Allows Cybercriminals to Launch Sophisticated Cyber Attacks
   * [PoisonGPT](https://blog.mithrilsecurity.io/poisongpt-how-we-hid-a-lobotomized-llm-on-hugging-face-to-spread-fake-news/): How we hid a lobotomized LLM on Hugging Face to spread fake news
   * [PassGPT: Password Modeling and (Guided) Generation with Large Language Models](https://javirandor.github.io/assets/pdf/passgpt2023rando.pdf)
@@ -596,6 +607,7 @@ The use of AI to accomplish a malicious task and boost classic attacks.
 
 ### 📚 Misc 📚
 
+  * [Awesome GPT + Security](https://github.com/cckuailong/awesome-gpt-security): A curated list of awesome security tools, experimental case or other interesting things with LLM or GPT. [![stars](https://badgen.net/github/stars/cckuailong/awesome-gpt-security)](https://github.com/cckuailong/awesome-gpt-security)
   * [🚀 Awesome Reinforcement Learning for Cyber Security](https://github.com/Limmen/awesome-rl-for-cybersecurity): A curated list of resources dedicated to reinforcement learning applied to cyber security. [![stars](https://badgen.net/github/stars/Limmen/awesome-rl-for-cybersecurity)](https://github.com/Limmen/awesome-rl-for-cybersecurity)
   * [Awesome Machine Learning for Cyber Security](https://github.com/jivoi/awesome-ml-for-cybersecurity): A curated list of amazingly awesome tools and resources related to the use of machine learning for cyber security. [![stars](https://badgen.net/github/stars/jivoi/awesome-ml-for-cybersecurity)](https://github.com/jivoi/awesome-ml-for-cybersecurity)
   * [Hugging Face Diffusion Models Course](https://github.com/huggingface/diffusion-models-class): Materials for the Hugging Face Diffusion Models Course. [![stars](https://badgen.net/github/stars/huggingface/diffusion-models-class)](https://github.com/huggingface/diffusion-models-class)
@@ -627,6 +639,8 @@ The use of AI to accomplish a malicious task and boost classic attacks.
   * [Auditing Large Language Models: A Three-Layered Approach](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4361607)
   * [Resolving the battle of short‑ vs. long‑term AI risk](https://link.springer.com/content/pdf/10.1007/s43681-023-00336-y.pdf)
   * [FraudGPT: The Villain Avatar of ChatGPT](https://netenrich.com/blog/fraudgpt-the-villain-avatar-of-chatgpt)
+  * [AI Risks - Schneier on Security](https://www.schneier.com/blog/archives/2023/10/ai-risks.html)
+  * [Use of LLMs for Illicit Purposes: Threats, Prevention Measures, and Vulnerabilities](https://arxiv.org/abs/2308.12833)
 
 ## 📊 Surveys 📊
 
