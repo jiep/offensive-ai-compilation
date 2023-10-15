@@ -531,6 +531,7 @@ The use of AI to accomplish a malicious task and boost classic attacks.
   * [roop](https://github.com/s0md3v/roop): One-click deepfake (face swap). [![stars](https://badgen.net/github/stars/s0md3v/roop)](https://github.com/s0md3v/roop)
   * [StableVideo](https://github.com/rese1f/StableVideo): Text-driven Consistency-aware Diffusion Video Editing. [![stars](https://badgen.net/github/stars/rese1f/StableVideo)](https://github.com/rese1f/StableVideo)
   * [MagicEdit](https://github.com/magic-research/magic-edit): High-Fidelity Temporally Coherent Video Editing. [![stars](https://badgen.net/github/stars/magic-research/magic-edit)](https://github.com/magic-research/magic-edit)
+  * [Rerender_A_Video](https://github.com/williamyang1991/Rerender_A_Video): Zero-Shot Text-Guided Video-to-Video Translation. [![stars](https://badgen.net/github/stars/williamyang1991/Rerender_A_Video)](https://github.com/williamyang1991/Rerender_A_Video)
 
 ##### 🔎 Detection 🔎
 
