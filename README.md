@@ -113,6 +113,7 @@ In the generic case, where there is insufficient knowledge of the model, the sub
   * [High Accuracy and High Fidelity Extraction of Neural Networks](https://arxiv.org/abs/1909.01838)
   * [Poisoning Web-Scale Training Datasets is Practical](https://arxiv.org/abs/2302.10149)
   * [Polynomial Time Cryptanalytic Extraction of Neural Network Models](https://eprint.iacr.org/2023/1526)
+  * [Prompt-Specific Poisoning Attacks on Text-to-Image Generative Models](https://arxiv.org/abs/2310.13828)
 
 ##### ⬅️ Inversion (or inference) ⬅️
 
@@ -160,6 +161,9 @@ Three types are possible:
   * [Extracting Training Data from Diffusion Models](https://arxiv.org/abs/2301.13188)
   * [High-resolution image reconstruction with latent diffusion models from human brain activity](https://www.biorxiv.org/content/10.1101/2022.11.18.517004v1)
   * [Stealing and evading malware classifiers and antivirus at low false positive conditions](https://www.sciencedirect.com/science/article/abs/pii/S0167404823001025)
+  * [Realistic fingerprint presentation attacks based on an adversarial approach](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10295513)
+  * [Active Adversarial Tests](https://github.com/google-research/active-adversarial-tests): Increasing Confidence in Adversarial Robustness Evaluations. [![stars](https://badgen.net/github/stars/google-research/active-adversarial-tests)](https://github.com/google-research/active-adversarial-tests)
+  * [GPT Jailbreak Status](https://github.com/tg12/gpt_jailbreak_status): Updates on the status of jailbreaking the OpenAI GPT language model. [![stars](https://badgen.net/github/stars/tg12/gpt_jailbreak_status)](https://github.com/tg12/gpt_jailbreak_status)
 
 ##### 💉 Poisoning 💉
 
@@ -403,7 +407,8 @@ The use of AI to accomplish a malicious task and boost classic attacks.
   * [When Good Becomes Evil: Keystroke Inference with Smartwatch](https://dl.acm.org/doi/10.1145/2810103.2813668)
   * [KeyListener: Inferring Keystrokes on QWERTY Keyboard of Touch Screen through Acoustic Signals](https://ieeexplore.ieee.org/document/8737591)
   * [This Voice Does Not Exist: On Voice Synthesis, Audio Deepfakes and Their Detection](https://this-voice-does-not-exist.com)
-
+  * [AudioSep](https://github.com/Audio-AGI/AudioSep): Separate Anything You Describe. [![stars](https://badgen.net/github/stars/Audio-AGI/AudioSep)](https://github.com/Audio-AGI/AudioSep)
+  * [stable-audio-tools](https://github.com/Stability-AI/stable-audio-tools): Generative models for conditional audio generation. [![stars](https://badgen.net/github/stars/Stability-AI/stable-audio-tools)](https://github.com/Stability-AI/stable-audio-tools)
 
 ##### 🔎 Detection 🔎
   * [fake-voice-detection](https://github.com/dessa-oss/fake-voice-detection): Using temporal convolution to detect Audio Deepfakes. [![stars](https://badgen.net/github/stars/dessa-oss/fake-voice-detection)](https://github.com/dessa-oss/fake-voice-detection)
@@ -532,6 +537,8 @@ The use of AI to accomplish a malicious task and boost classic attacks.
   * [StableVideo](https://github.com/rese1f/StableVideo): Text-driven Consistency-aware Diffusion Video Editing. [![stars](https://badgen.net/github/stars/rese1f/StableVideo)](https://github.com/rese1f/StableVideo)
   * [MagicEdit](https://github.com/magic-research/magic-edit): High-Fidelity Temporally Coherent Video Editing. [![stars](https://badgen.net/github/stars/magic-research/magic-edit)](https://github.com/magic-research/magic-edit)
   * [Rerender_A_Video](https://github.com/williamyang1991/Rerender_A_Video): Zero-Shot Text-Guided Video-to-Video Translation. [![stars](https://badgen.net/github/stars/williamyang1991/Rerender_A_Video)](https://github.com/williamyang1991/Rerender_A_Video)
+  * [DreamEditor](https://github.com/zjy526223908/DreamEditor): Text-Driven 3D Scene Editing with Neural Fields. [![stars](https://badgen.net/github/stars/zjy526223908/DreamEditor)](https://github.com/zjy526223908/DreamEditor)
+  * [DreamEditor](https://github.com/zju3dv/4K4D): Real-Time 4D View Synthesis at 4K Resolution. [![stars](https://badgen.net/github/stars/zju3dv/4K4D)](https://github.com/zju3dv/4K4D)
 
 ##### 🔎 Detection 🔎
 
@@ -561,6 +568,7 @@ The use of AI to accomplish a malicious task and boost classic attacks.
   * [Llama2](https://ai.meta.com/llama/)
   * [UL2 20B](https://ai.googleblog.com/2022/10/ul2-20b-open-source-unified-language.html): An Open Source Unified Language Learner
   * [burgpt](https://github.com/aress31/burpgpt): A Burp Suite extension that integrates OpenAI's GPT to perform an additional passive scan for discovering highly bespoke vulnerabilities, and enables running traffic-based analysis of any type. [![stars](https://badgen.net/github/stars/aress31/burpgpt)](https://github.com/aress31/burpgpt)
+  * [Ollama](https://github.com/jmorganca/ollama): Get up and running with Llama 2 and other large language models locally. [![stars](https://badgen.net/github/stars/jmorganca/ollama)](https://github.com/jmorganca/ollama)
 
 ##### 🔎 Detection 🔎
 
@@ -605,6 +613,13 @@ The use of AI to accomplish a malicious task and boost classic attacks.
   * [PoisonGPT](https://blog.mithrilsecurity.io/poisongpt-how-we-hid-a-lobotomized-llm-on-hugging-face-to-spread-fake-news/): How we hid a lobotomized LLM on Hugging Face to spread fake news
   * [PassGPT: Password Modeling and (Guided) Generation with Large Language Models](https://javirandor.github.io/assets/pdf/passgpt2023rando.pdf)
   * [DeepPass — Finding Passwords With Deep Learning](https://posts.specterops.io/deeppass-finding-passwords-with-deep-learning-4d31c534cd00)
+  * [GPTFuzz](https://github.com/sherdencooper/GPTFuzz): Red Teaming Large Language Models with Auto-Generated Jailbreak Prompts. [![stars](https://badgen.net/github/stars/sherdencooper/GPTFuzz)](https://github.com/sherdencooper/GPTFuzz)
+  * [Open Interpreter](https://github.com/KillianLucas/open-interpreter): OpenAI's Code Interpreter in your terminal, running locally. [![stars](https://badgen.net/github/stars/KillianLucas/open-interpreter)](https://github.com/KillianLucas/open-interpreter)
+  * [Eureka](https://github.com/eureka-research/Eureka): Human-Level Reward Design via Coding Large Language Models. [![stars](https://badgen.net/github/stars/eureka-research/Eureka)](https://github.com/eureka-research/Eureka)
+  * [MetaCLIP](https://github.com/facebookresearch/MetaCLIP): Demystifying CLIP Data. [![stars](https://badgen.net/github/stars/facebookresearch/MetaCLIP)](https://github.com/facebookresearch/MetaCLIP)
+  * [LLM OSINT](https://github.com/sshh12/llm_osint): Proof-of-concept method of using LLMs to gather information from the internet and then perform a task with this information. [![stars](https://badgen.net/github/stars/sshh12/llm_osint)](https://github.com/sshh12/llm_osint)
+  * [HackingBuddyGPT](https://github.com/ipa-lab/hackingBuddyGPT): LLMs x PenTesting. [![stars](https://badgen.net/github/stars/ipa-lab/hackingBuddyGPT)](https://github.com/ipa-lab/hackingBuddyGPT)
+  * [ChatGPT-Jailbreaks](https://github.com/GabryB03/ChatGPT-Jailbreaks): Official jailbreak for ChatGPT (GPT-3.5). Send a long message at the start of the conversation with ChatGPT to get offensive, unethical, aggressive, human-like answers in English and Italian. [![stars](https://badgen.net/github/stars/GabryB03/ChatGPT-Jailbreaks)](https://github.com/GabryB03/ChatGPT-Jailbreaks)
 
 ### 📚 Misc 📚
 
@@ -642,6 +657,11 @@ The use of AI to accomplish a malicious task and boost classic attacks.
   * [FraudGPT: The Villain Avatar of ChatGPT](https://netenrich.com/blog/fraudgpt-the-villain-avatar-of-chatgpt)
   * [AI Risks - Schneier on Security](https://www.schneier.com/blog/archives/2023/10/ai-risks.html)
   * [Use of LLMs for Illicit Purposes: Threats, Prevention Measures, and Vulnerabilities](https://arxiv.org/abs/2308.12833)
+  * [AI Red-Teaming Is Not a One-Stop Solution to AI Harms: Recommendations for Using Red-Teaming for AI Accountability](https://datasociety.net/wp-content/uploads/2023/10/Recommendations-for-Using-Red-Teaming-for-AI-Accountability-PolicyBrief.pdf)
+  * [A Taxonomy of Trustworthiness for Artificial Intelligence](https://cltc.berkeley.edu/wp-content/uploads/2023/01/Taxonomy_of_AI_Trustworthiness.pdf)
+  * [Managing AI Risks in an Era of Rapid Progress](https://arxiv.org/abs/2310.17688)
+  * [Google - Acting on our commitment to safe and secure AI](https://blog.google/technology/safety-security/google-ai-security-expansion/)
+  * [Offensive ML Playbook](https://wiki.offsecml.com/Welcome+to+the+Offensive+ML+Playbook)
 
 ## 📊 Surveys 📊
 
