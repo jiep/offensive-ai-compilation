@@ -301,6 +301,15 @@ The most common attacks are **white-box attacks**:
   * [Image Hijacks: Adversarial Images can Control Generative Models at Runtime](https://arxiv.org/abs/2309.00236)
   * [Multi-attacks: Many images + the same adversarial attack → many target labels](https://arxiv.org/abs/2308.03792)
   * [ACTIVE: Towards Highly Transferable 3D Physical Camouflage for Universal and Robust Vehicle Evasion](https://arxiv.org/abs/2308.07009)
+  * [LLM Red Teaming GPTS's: Prompt Leaking, API Leaking, Documents Leaking](https://adversa.ai/blog/llm-red-teaming-gpts-prompt-leaking-api-leaking-documents-leaking/)
+  * [Human-Producible Adversarial Examples](https://arxiv.org/abs/2310.06474)
+  * [Multilingual Jailbreak Challenges in Large Language Models](https://arxiv.org/abs/2310.06474)
+  * [Misusing Tools in Large Language Models With Visual Adversarial Examples](https://arxiv.org/abs/2310.03185)
+  * [AutoDAN: Interpretable Gradient-Based Adversarial Attacks on Large Language Models](https://arxiv.org/abs/2310.15140)
+  * [Multimodal Injection](https://github.com/ebagdasa/multimodal_injection): (Ab)using Images and Sounds for Indirect Instruction Injection in Multi-Modal LLMs. [![stars](https://badgen.net/github/stars/ebagdasa/multimodal_injection)](https://github.com/ebagdasa/multimodal_injection)
+  * [JailbreakingLLMs](https://github.com/patrickrchao/JailbreakingLLMs): Jailbreaking Black Box Large Language Models in Twenty Queries. [![stars](https://badgen.net/github/stars/patrickrchao/JailbreakingLLMs)](https://github.com/patrickrchao/JailbreakingLLMs)
+  * [Tree of Attacks: Jailbreaking Black-Box LLMs Automatically](https://assets-global.website-files.com/62a8db3f7f80ab5d3420c03a/656eaaed8e762c7543693902_Robust_Intelligence_Blackbox_Attacks_on_LLMs.pdf)
+  * [GPTs](https://github.com/linexjlin/GPTs): Leaked prompts of GPTs. [![stars](https://badgen.net/github/stars/linexjlin/GPTs)](https://github.com/linexjlin/GPTs)
 
 #### 🛠️ Tools 🛠️
 
@@ -351,6 +360,7 @@ The use of AI to accomplish a malicious task and boost classic attacks.
   * [AutoPentest-DRL](https://github.com/crond-jaist/AutoPentest-DRL): Automated penetration testing using deep reinforcement learning. [![stars](https://badgen.net/github/stars/crond-jaist/AutoPentest-DRL)](https://github.com/crond-jaist/AutoPentest-DRL)
   * [DeepGenerator](https://github.com/13o-bbr-bbq/machine_learning_security/tree/master/Generator): Fully automatically generate injection codes for web application assessment using Genetic Algorithm and Generative Adversarial Networks.
   * [Eyeballer](https://github.com/BishopFox/eyeballer): Eyeballer is meant for large-scope network penetration tests where you need to find "interesting" targets from a huge set of web-based hosts. [![stars](https://badgen.net/github/stars/BishopFox/eyeballer)](https://github.com/BishopFox/eyeballer)
+  * [Nebula](https://github.com/berylliumsec/nebula): AI-Powered Ethical Hacking Assistant. [![stars](https://badgen.net/github/stars/berylliumsec/nebula)](https://github.com/berylliumsec/nebula)
 
 ### 🦠 Malware 🦠
 
@@ -458,8 +468,10 @@ The use of AI to accomplish a malicious task and boost classic attacks.
   * [MobileSAM](https://github.com/ChaoningZhang/MobileSAM): This is the official code for MobileSAM project that makes SAM lightweight for mobile applications and beyond! [![stars](https://badgen.net/github/stars/ChaoningZhang/MobileSAM)](https://github.com/ChaoningZhang/MobileSAM)
   * [FastSAM](https://github.com/CASIA-IVA-Lab/FastSAM): Fast Segment Anything
  [![stars](https://badgen.net/github/stars/CASIA-IVA-Lab/FastSAM)](https://github.com/CASIA-IVA-Lab/FastSAM)
-  * [Infinigen](https://github.com/princeton-vl/infinigen): Infinite Photorealistic Worlds using Procedural Generation [![stars](https://badgen.net/github/stars/princeton-vl/infinigen)](https://github.com/princeton-vl/infinigen)
+  * [Infinigen](https://github.com/princeton-vl/infinigen): Infinite Photorealistic Worlds using Procedural Generation. [![stars](https://badgen.net/github/stars/princeton-vl/infinigen)](https://github.com/princeton-vl/infinigen)
   * [DALL·E 3](https://openai.com/dall-e-3)
+  * [StreamDiffusion](https://github.com/cumulo-autumn/StreamDiffusion): A Pipeline-Level Solution for Real-Time Interactive Generation. [![stars](https://badgen.net/github/stars/cumulo-autumn/StreamDiffusion)](https://github.com/cumulo-autumn/StreamDiffusion)
+  * [AnyDoor](https://github.com/cumulo-autumn/StreamDiffusion): Zero-shot Object-level Image Customization. [![stars](https://badgen.net/github/stars/damo-vilab/AnyDoor)](https://github.com/damo-vilab/AnyDoor)
 
 ##### 💡 Applications 💡
 
@@ -515,6 +527,7 @@ The use of AI to accomplish a malicious task and boost classic attacks.
   * [SimSwap](https://github.com/neuralchen/SimSwap): An arbitrary face-swapping framework on images and videos with one single trained model! [![stars](https://badgen.net/github/stars/neuralchen/SimSwap)](https://github.com/neuralchen/SimSwap)
   * [faceswap-GAN](https://github.com/shaoanlu/faceswap-GAN): A denoising autoencoder + adversarial losses and attention mechanisms for face swapping. [![stars](https://badgen.net/github/stars/shaoanlu/faceswap-GAN)](https://github.com/shaoanlu/faceswap-GAN)
   * [Celeb DeepFakeForensics](https://github.com/yuezunli/celeb-deepfakeforensics): A Large-scale Challenging Dataset for DeepFake Forensics. [![stars](https://badgen.net/github/stars/yuezunli/celeb-deepfakeforensics)](https://github.com/yuezunli/celeb-deepfakeforensics)
+  * [VGen](https://github.com/damo-vilab/i2vgen-xl): A holistic video generation ecosystem for video generation building on diffusion models. [![stars](https://badgen.net/github/stars/damo-vilab/i2vgen-xl)](https://github.com/damo-vilab/i2vgen-xl)
 
 ##### 💡 Applications 💡
 
@@ -539,6 +552,7 @@ The use of AI to accomplish a malicious task and boost classic attacks.
   * [Rerender_A_Video](https://github.com/williamyang1991/Rerender_A_Video): Zero-Shot Text-Guided Video-to-Video Translation. [![stars](https://badgen.net/github/stars/williamyang1991/Rerender_A_Video)](https://github.com/williamyang1991/Rerender_A_Video)
   * [DreamEditor](https://github.com/zjy526223908/DreamEditor): Text-Driven 3D Scene Editing with Neural Fields. [![stars](https://badgen.net/github/stars/zjy526223908/DreamEditor)](https://github.com/zjy526223908/DreamEditor)
   * [DreamEditor](https://github.com/zju3dv/4K4D): Real-Time 4D View Synthesis at 4K Resolution. [![stars](https://badgen.net/github/stars/zju3dv/4K4D)](https://github.com/zju3dv/4K4D)
+  * [AnimateAnyone](https://github.com/HumanAIGC/AnimateAnyone): Consistent and Controllable Image-to-Video Synthesis for Character Animation. [![stars](https://badgen.net/github/stars/HumanAIGC/AnimateAnyone)](https://github.com/HumanAIGC/AnimateAnyone)
 
 ##### 🔎 Detection 🔎
 
@@ -569,6 +583,8 @@ The use of AI to accomplish a malicious task and boost classic attacks.
   * [UL2 20B](https://ai.googleblog.com/2022/10/ul2-20b-open-source-unified-language.html): An Open Source Unified Language Learner
   * [burgpt](https://github.com/aress31/burpgpt): A Burp Suite extension that integrates OpenAI's GPT to perform an additional passive scan for discovering highly bespoke vulnerabilities, and enables running traffic-based analysis of any type. [![stars](https://badgen.net/github/stars/aress31/burpgpt)](https://github.com/aress31/burpgpt)
   * [Ollama](https://github.com/jmorganca/ollama): Get up and running with Llama 2 and other large language models locally. [![stars](https://badgen.net/github/stars/jmorganca/ollama)](https://github.com/jmorganca/ollama)
+  * [SneakyPrompt](https://github.com/Yuchen413/text2image_safety): Jailbreaking Text-to-image Generative Models. [![stars](https://badgen.net/github/stars/Yuchen413/text2image_safety)](https://github.com/Yuchen413/text2image_safety)
+  * [LM Studio](Discover, download, and run local LLMs)
 
 ##### 🔎 Detection 🔎
 
@@ -662,6 +678,13 @@ The use of AI to accomplish a malicious task and boost classic attacks.
   * [Managing AI Risks in an Era of Rapid Progress](https://arxiv.org/abs/2310.17688)
   * [Google - Acting on our commitment to safe and secure AI](https://blog.google/technology/safety-security/google-ai-security-expansion/)
   * [Offensive ML Playbook](https://wiki.offsecml.com/Welcome+to+the+Offensive+ML+Playbook)
+  * [Demystifying Generative AI 🤖 A Security Researcher's Notes](https://blog.openthreatresearch.com/demystifying-generative-ai-a-security-researchers-notes/)
+  * [GenAI-Security-Adventures](https://github.com/OTRF/GenAI-Security-Adventures): An open-source initiative to share notes, presentations, and a diverse collection of experiments presented in Jupyter Notebooks, all aimed at helping you grasp the essential concepts behind large language models and exploring the intriguing intersection of security and natural language processing. [![stars](https://badgen.net/github/stars/OTRF/GenAI-Security-Adventures)](https://github.com/OTRF/GenAI-Security-Adventures)
+  * [AI Safety Camp](https://aisafety.camp/) connects you with a research lead to collaborate on a project – to see where your work could help ensure future AI is safe.
+  * [Guidelines for secure AI system development](https://www.ncsc.gov.uk/files/Guidelines-for-secure-AI-system-development.pdf)
+  * [Approach to Artificial Intelligence and Cybersecurity. BEST PRACTICE REPORT](https://www.ccn-cert.cni.es/es/informes/informes-de-buenas-practicas-bp/7192-ccn-cert-bp-30-approach-to-artificial-intelligence-and-cybersecurity/file.html)
+  * [Stanford Safe, Secure, and Trustworthy AI EO 14110 Tracker](https://docs.google.com/spreadsheets/d/1xOL4hkQ2pLR-IAs3awIiXjPLmhIeXyE5-giJ5nT-h1M/edit#gid=142633882)
+  * [Awesome ML Security](https://github.com/trailofbits/awesome-ml-security): A curated list of awesome machine learning security references, guidance, tools, and more. [![stars](https://badgen.net/github/stars/trailofbits/awesome-ml-security)](https://github.com/trailofbits/awesome-ml-security)
 
 ## 📊 Surveys 📊
 
@@ -680,6 +703,7 @@ The use of AI to accomplish a malicious task and boost classic attacks.
   * [A Survey on Adversarial Attacks for Malware Analysis](https://arxiv.org/pdf/2111.08223.pdf)
   * [Adversarial Machine Learning in Image Classification: A Survey Towards the Defender’s Perspective](https://arxiv.org/pdf/2009.03728.pdf)
   * [A Survey of Robust Adversarial Training in Pattern Recognition: Fundamental, Theory, and Methodologies](https://arxiv.org/abs/2203.14046)
+  * [Privacy in Large Language Models: Attacks, Defenses and Future Directions](https://arxiv.org/abs/2310.10383)
 
 ## 🗣 Contributors 🗣
 
