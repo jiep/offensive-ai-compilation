@@ -370,6 +370,7 @@ The use of AI to accomplish a malicious task and boost classic attacks.
   * [AutoCAT](https://arxiv.org/abs/2208.08025): Reinforcement learning for automated exploration of cache-timing attacks.
   * [AI-BASED BOTNET](https://arxiv.org/abs/2112.02223): A game-theoretic approach for AI-based botnet attack defence.
   * [SECML_Malware](https://github.com/pralab/secml_malware): Python library for creating adversarial attacks against Windows Malware detectors. [![stars](https://badgen.net/github/stars/pralab/secml_malware)](https://github.com/pralab/secml_malware)
+  * [Transcendent-release](https://github.com/s2labres/transcendent-release): Using conformal evaluation to detect concept drift affecting malware detection. [![stars](https://badgen.net/github/stars/s2labres/transcendent-release)](https://github.com/s2labres/transcendent-release)
 
 ### 🗺️ OSINT 🗺️
 
@@ -395,6 +396,7 @@ The use of AI to accomplish a malicious task and boost classic attacks.
   * [Retrieval-based-Voice-Conversion-WebUI](https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI): An easy-to-use Voice Conversion framework based on VITS. [![stars](https://badgen.net/github/stars/RVC-Project/Retrieval-based-Voice-Conversion-WebUI)](https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI)
   * [Audiocraft](https://github.com/facebookresearch/audiocraft): Audiocraft is a library for audio processing and generation with deep learning. It features the state-of-the-art EnCodec audio compressor / tokenizer, along with MusicGen, a simple and controllable music generation LM with textual and melodic conditioning. [![stars](https://badgen.net/github/stars/facebookresearch/audiocraft)](https://github.com/facebookresearch/audiocraft)
   * [VALL-E-X](https://github.com/Plachtaa/VALL-E-X): An open source implementation of Microsoft's VALL-E X zero-shot TTS model. [![stars](https://badgen.net/github/stars/Plachtaa/VALL-E-X)](https://github.com/Plachtaa/VALL-E-X)
+  * [OpenVoice](https://github.com/myshell-ai/OpenVoice): Instant voice cloning by MyShell. [![stars](https://badgen.net/github/stars/myshell-ai/OpenVoice)](https://github.com/myshell-ai/OpenVoice)
 
 ##### 💡 Applications 💡
 
@@ -419,6 +421,7 @@ The use of AI to accomplish a malicious task and boost classic attacks.
   * [This Voice Does Not Exist: On Voice Synthesis, Audio Deepfakes and Their Detection](https://this-voice-does-not-exist.com)
   * [AudioSep](https://github.com/Audio-AGI/AudioSep): Separate Anything You Describe. [![stars](https://badgen.net/github/stars/Audio-AGI/AudioSep)](https://github.com/Audio-AGI/AudioSep)
   * [stable-audio-tools](https://github.com/Stability-AI/stable-audio-tools): Generative models for conditional audio generation. [![stars](https://badgen.net/github/stars/Stability-AI/stable-audio-tools)](https://github.com/Stability-AI/stable-audio-tools)
+  * [GPT-SoVITS-WebUI](https://github.com/RVC-Boss/GPT-SoVITS): 1 min voice data can also be used to train a good TTS model! (few shot voice cloning). [![stars](https://badgen.net/github/stars/RVC-Boss/GPT-SoVITS)](https://github.com/RVC-Boss/GPT-SoVITS)
 
 ##### 🔎 Detection 🔎
   * [fake-voice-detection](https://github.com/dessa-oss/fake-voice-detection): Using temporal convolution to detect Audio Deepfakes. [![stars](https://badgen.net/github/stars/dessa-oss/fake-voice-detection)](https://github.com/dessa-oss/fake-voice-detection)
@@ -553,6 +556,9 @@ The use of AI to accomplish a malicious task and boost classic attacks.
   * [DreamEditor](https://github.com/zjy526223908/DreamEditor): Text-Driven 3D Scene Editing with Neural Fields. [![stars](https://badgen.net/github/stars/zjy526223908/DreamEditor)](https://github.com/zjy526223908/DreamEditor)
   * [DreamEditor](https://github.com/zju3dv/4K4D): Real-Time 4D View Synthesis at 4K Resolution. [![stars](https://badgen.net/github/stars/zju3dv/4K4D)](https://github.com/zju3dv/4K4D)
   * [AnimateAnyone](https://github.com/HumanAIGC/AnimateAnyone): Consistent and Controllable Image-to-Video Synthesis for Character Animation. [![stars](https://badgen.net/github/stars/HumanAIGC/AnimateAnyone)](https://github.com/HumanAIGC/AnimateAnyone)
+  * [Moore-AnimateAnyone](https://github.com/MooreThreads/Moore-AnimateAnyone): This repository reproduces AnimateAnyone. [![stars](https://badgen.net/github/stars/MooreThreads/Moore-AnimateAnyone)](https://github.com/MooreThreads/Moore-AnimateAnyone)
+  * [audio2photoreal](https://github.com/facebookresearch/audio2photoreal): From Audio to Photoreal Embodiment: Synthesizing Humans in Conversations. [![stars](https://badgen.net/github/stars/facebookresearch/audio2photoreal)](https://github.com/facebookresearch/audio2photoreal)
+  * [MagicVideo-V2: Multi-Stage High-Aesthetic Video Generation](https://magicvideov2.github.io/)
 
 ##### 🔎 Detection 🔎
 
@@ -654,7 +660,7 @@ The use of AI to accomplish a malicious task and boost classic attacks.
   * [A Survey on Reinforcement Learning Security with Application to Autonomous Driving](https://arxiv.org/abs/2212.06123)
   * [How to avoid machine learning pitfalls: a guide for academic researchers](https://arxiv.org/abs/2108.02497)
   * [A curated list of AI Security & Privacy events](https://github.com/ZhengyuZhao/AI-Security-and-Privacy-Events)
-  * [NIST AI 100-2e2023 ipd](https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.100-2e2023.ipd.pdf): Adversarial Machine Learning. A Taxonomy and Terminology of Attacks and Mitigations.
+  * [NIST AI 100-2 E2023](https://csrc.nist.gov/pubs/ai/100/2/e2023/final): Adversarial Machine Learning. A Taxonomy and Terminology of Attacks and Mitigations.
   * [🇪🇸 RootedCon 2023 - Inteligencia artificial ofensiva - ¿Cómo podemos estar  preparados?](/slides/RootedCon_2023.pdf)
   * [Security of AI-Systems: Fundamentals - Adversarial Deep Learning](https://www.bsi.bund.de/SharedDocs/Downloads/EN/BSI/KI/Security-of-AI-systems_fundamentals.pdf)
   * [Beyond the Safeguards: Exploring the Security Risks of ChatGPT](https://arxiv.org/abs/2305.08005)
@@ -685,6 +691,7 @@ The use of AI to accomplish a malicious task and boost classic attacks.
   * [Approach to Artificial Intelligence and Cybersecurity. BEST PRACTICE REPORT](https://www.ccn-cert.cni.es/es/informes/informes-de-buenas-practicas-bp/7192-ccn-cert-bp-30-approach-to-artificial-intelligence-and-cybersecurity/file.html)
   * [Stanford Safe, Secure, and Trustworthy AI EO 14110 Tracker](https://docs.google.com/spreadsheets/d/1xOL4hkQ2pLR-IAs3awIiXjPLmhIeXyE5-giJ5nT-h1M/edit#gid=142633882)
   * [Awesome ML Security](https://github.com/trailofbits/awesome-ml-security): A curated list of awesome machine learning security references, guidance, tools, and more. [![stars](https://badgen.net/github/stars/trailofbits/awesome-ml-security)](https://github.com/trailofbits/awesome-ml-security)
+  * [AI's Predictable Path: 7 Things to Expect From AI in 2024+](https://danielmiessler.com/p/ai-predictable-path-7-components-2024)
 
 ## 📊 Surveys 📊
 
