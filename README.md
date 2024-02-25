@@ -114,6 +114,7 @@ In the generic case, where there is insufficient knowledge of the model, the sub
   * [Poisoning Web-Scale Training Datasets is Practical](https://arxiv.org/abs/2302.10149)
   * [Polynomial Time Cryptanalytic Extraction of Neural Network Models](https://eprint.iacr.org/2023/1526)
   * [Prompt-Specific Poisoning Attacks on Text-to-Image Generative Models](https://arxiv.org/abs/2310.13828)
+  * [Awesome Data Poisoning And Backdoor Attacks](https://github.com/penghui-yang/awesome-data-poisoning-and-backdoor-attacks): A curated list of papers & resources linked to data poisoning, backdoor attacks and defenses against them. [![stars](https://badgen.net/github/stars/penghui-yang/awesome-data-poisoning-and-backdoor-attacks)](https://github.com/penghui-yang/awesome-data-poisoning-and-backdoor-attacks)
 
 ##### ⬅️ Inversion (or inference) ⬅️
 
@@ -310,6 +311,8 @@ The most common attacks are **white-box attacks**:
   * [JailbreakingLLMs](https://github.com/patrickrchao/JailbreakingLLMs): Jailbreaking Black Box Large Language Models in Twenty Queries. [![stars](https://badgen.net/github/stars/patrickrchao/JailbreakingLLMs)](https://github.com/patrickrchao/JailbreakingLLMs)
   * [Tree of Attacks: Jailbreaking Black-Box LLMs Automatically](https://assets-global.website-files.com/62a8db3f7f80ab5d3420c03a/656eaaed8e762c7543693902_Robust_Intelligence_Blackbox_Attacks_on_LLMs.pdf)
   * [GPTs](https://github.com/linexjlin/GPTs): Leaked prompts of GPTs. [![stars](https://badgen.net/github/stars/linexjlin/GPTs)](https://github.com/linexjlin/GPTs)
+  * [AI Exploits](https://github.com/protectai/ai-exploits): A collection of real world AI/ML exploits for responsibly disclosed vulnerabilities. [![stars](https://badgen.net/github/stars/protectai/ai-exploits)](https://github.com/protectai/ai-exploits)
+  * [LLM Agents can Autonomously Hack Websites](https://arxiv.org/abs/2402.06664v1)
 
 #### 🛠️ Tools 🛠️
 
@@ -474,7 +477,9 @@ The use of AI to accomplish a malicious task and boost classic attacks.
   * [Infinigen](https://github.com/princeton-vl/infinigen): Infinite Photorealistic Worlds using Procedural Generation. [![stars](https://badgen.net/github/stars/princeton-vl/infinigen)](https://github.com/princeton-vl/infinigen)
   * [DALL·E 3](https://openai.com/dall-e-3)
   * [StreamDiffusion](https://github.com/cumulo-autumn/StreamDiffusion): A Pipeline-Level Solution for Real-Time Interactive Generation. [![stars](https://badgen.net/github/stars/cumulo-autumn/StreamDiffusion)](https://github.com/cumulo-autumn/StreamDiffusion)
-  * [AnyDoor](https://github.com/cumulo-autumn/StreamDiffusion): Zero-shot Object-level Image Customization. [![stars](https://badgen.net/github/stars/damo-vilab/AnyDoor)](https://github.com/damo-vilab/AnyDoor)
+  * [AnyDoor](https://github.com/cumulo-autumn/StreamDiffusion): Zero-shot Object-level Image Customization. [![stars](https://badgen.net/github/stars/cumulo-autumn/StreamDiffusion)](https://github.com/cumulo-autumn/StreamDiffusion)
+  * [DiT](https://github.com/facebookresearch/DiT): Scalable Diffusion Models with Transformers. [![stars](https://badgen.net/github/stars/facebookresearch/DiT)](https://github.com/facebookresearch/DiT)
+  
 
 ##### 💡 Applications 💡
 
@@ -559,6 +564,7 @@ The use of AI to accomplish a malicious task and boost classic attacks.
   * [Moore-AnimateAnyone](https://github.com/MooreThreads/Moore-AnimateAnyone): This repository reproduces AnimateAnyone. [![stars](https://badgen.net/github/stars/MooreThreads/Moore-AnimateAnyone)](https://github.com/MooreThreads/Moore-AnimateAnyone)
   * [audio2photoreal](https://github.com/facebookresearch/audio2photoreal): From Audio to Photoreal Embodiment: Synthesizing Humans in Conversations. [![stars](https://badgen.net/github/stars/facebookresearch/audio2photoreal)](https://github.com/facebookresearch/audio2photoreal)
   * [MagicVideo-V2: Multi-Stage High-Aesthetic Video Generation](https://magicvideov2.github.io/)
+  * [LWM](https://github.com/LargeWorldModel/LWM): A general-purpose large-context multimodal autoregressive model. It is trained on a large dataset of diverse long videos and books using RingAttention, and can perform language, image, and video understanding and generation. [![stars](https://badgen.net/github/stars/LargeWorldModel/LWM)](https://github.com/LargeWorldModel/LWM)
 
 ##### 🔎 Detection 🔎
 
@@ -642,6 +648,8 @@ The use of AI to accomplish a malicious task and boost classic attacks.
   * [LLM OSINT](https://github.com/sshh12/llm_osint): Proof-of-concept method of using LLMs to gather information from the internet and then perform a task with this information. [![stars](https://badgen.net/github/stars/sshh12/llm_osint)](https://github.com/sshh12/llm_osint)
   * [HackingBuddyGPT](https://github.com/ipa-lab/hackingBuddyGPT): LLMs x PenTesting. [![stars](https://badgen.net/github/stars/ipa-lab/hackingBuddyGPT)](https://github.com/ipa-lab/hackingBuddyGPT)
   * [ChatGPT-Jailbreaks](https://github.com/GabryB03/ChatGPT-Jailbreaks): Official jailbreak for ChatGPT (GPT-3.5). Send a long message at the start of the conversation with ChatGPT to get offensive, unethical, aggressive, human-like answers in English and Italian. [![stars](https://badgen.net/github/stars/GabryB03/ChatGPT-Jailbreaks)](https://github.com/GabryB03/ChatGPT-Jailbreaks)
+  * [Magika](https://github.com/google/magika): Detect file content types with deep learning. [![stars](https://badgen.net/github/stars/google/magika)](https://github.com/google/magika)
+
 
 ### 📚 Misc 📚
 
@@ -692,6 +700,8 @@ The use of AI to accomplish a malicious task and boost classic attacks.
   * [Stanford Safe, Secure, and Trustworthy AI EO 14110 Tracker](https://docs.google.com/spreadsheets/d/1xOL4hkQ2pLR-IAs3awIiXjPLmhIeXyE5-giJ5nT-h1M/edit#gid=142633882)
   * [Awesome ML Security](https://github.com/trailofbits/awesome-ml-security): A curated list of awesome machine learning security references, guidance, tools, and more. [![stars](https://badgen.net/github/stars/trailofbits/awesome-ml-security)](https://github.com/trailofbits/awesome-ml-security)
   * [AI's Predictable Path: 7 Things to Expect From AI in 2024+](https://danielmiessler.com/p/ai-predictable-path-7-components-2024)
+  * [Artificial Intelligence and Cybersecurity](https://www.ismsforum.es/ficheros/descargas/isms-gt-ia-021707141605.pdf) (in Spanish :es:)
+  * [Vigil](https://github.com/deadbits/vigil-llm): Detect prompt injections, jailbreaks, and other potentially risky Large Language Model (LLM) inputs. [![stars](https://badgen.net/github/stars/deadbits/vigil-llm)](https://github.com/deadbits/vigil-llm)
 
 ## 📊 Surveys 📊
 
