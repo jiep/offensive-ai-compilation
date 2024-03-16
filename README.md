@@ -313,6 +313,7 @@ The most common attacks are **white-box attacks**:
   * [GPTs](https://github.com/linexjlin/GPTs): Leaked prompts of GPTs. [![stars](https://badgen.net/github/stars/linexjlin/GPTs)](https://github.com/linexjlin/GPTs)
   * [AI Exploits](https://github.com/protectai/ai-exploits): A collection of real world AI/ML exploits for responsibly disclosed vulnerabilities. [![stars](https://badgen.net/github/stars/protectai/ai-exploits)](https://github.com/protectai/ai-exploits)
   * [LLM Agents can Autonomously Hack Websites](https://arxiv.org/abs/2402.06664v1)
+  * [Cloudflare announces Firewall for AI](https://blog.cloudflare.com/firewall-for-ai)
 
 #### 🛠️ Tools 🛠️
 
@@ -576,6 +577,7 @@ The use of AI to accomplish a malicious task and boost classic attacks.
   * [PCL-I2G](https://github.com/jtchen0528/PCL-I2G): Unofficial Implementation: Learning Self-Consistency for Deepfake Detection. [![stars](https://badgen.net/github/stars/jtchen0528/PCL-I2G)](https://github.com/jtchen0528/PCL-I2G)
   * [DFDC DeepFake Challenge](https://github.com/selimsef/dfdc_deepfake_challenge): A prize winning solution for DFDC challenge. [![stars](https://badgen.net/github/stars/selimsef/dfdc_deepfake_challenge)](https://github.com/selimsef/dfdc_deepfake_challenge)
   * [POI-Forensics](https://github.com/grip-unina/poi-forensics): Audio-Visual Person-of-Interest DeepFake Detection. [![stars](https://badgen.net/github/stars/grip-unina/poi-forensics)](https://github.com/grip-unina/poi-forensics)
+  * [Standardizing Detection of Deepfakes: Why Experts Say It’s Important](https://antispoofing.org/deepfake-detection-standardization-origin-goals-and-implementation/)
 
 #### 📄 Text 📄
 
