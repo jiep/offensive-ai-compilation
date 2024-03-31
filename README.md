@@ -401,6 +401,9 @@ The use of AI to accomplish a malicious task and boost classic attacks.
   * [Audiocraft](https://github.com/facebookresearch/audiocraft): Audiocraft is a library for audio processing and generation with deep learning. It features the state-of-the-art EnCodec audio compressor / tokenizer, along with MusicGen, a simple and controllable music generation LM with textual and melodic conditioning. [![stars](https://badgen.net/github/stars/facebookresearch/audiocraft)](https://github.com/facebookresearch/audiocraft)
   * [VALL-E-X](https://github.com/Plachtaa/VALL-E-X): An open source implementation of Microsoft's VALL-E X zero-shot TTS model. [![stars](https://badgen.net/github/stars/Plachtaa/VALL-E-X)](https://github.com/Plachtaa/VALL-E-X)
   * [OpenVoice](https://github.com/myshell-ai/OpenVoice): Instant voice cloning by MyShell. [![stars](https://badgen.net/github/stars/myshell-ai/OpenVoice)](https://github.com/myshell-ai/OpenVoice)
+  * [MeloTTS](https://github.com/myshell-ai/MeloTTS): High-quality multi-lingual text-to-speech library by MyShell.ai. Support English, Spanish, French, Chinese, Japanese and Korean. [![stars](https://badgen.net/github/stars/myshell-ai/MeloTTS)](https://github.com/myshell-ai/MeloTTS)
+  * [VoiceCraft](https://github.com/jasonppy/VoiceCraft): Zero-Shot Speech Editing and Text-to-Speech in the Wild. [![stars](https://badgen.net/github/stars/jasonppy/VoiceCraft)](https://github.com/jasonppy/VoiceCraft)
+
 
 ##### 💡 Applications 💡
 
@@ -426,6 +429,7 @@ The use of AI to accomplish a malicious task and boost classic attacks.
   * [AudioSep](https://github.com/Audio-AGI/AudioSep): Separate Anything You Describe. [![stars](https://badgen.net/github/stars/Audio-AGI/AudioSep)](https://github.com/Audio-AGI/AudioSep)
   * [stable-audio-tools](https://github.com/Stability-AI/stable-audio-tools): Generative models for conditional audio generation. [![stars](https://badgen.net/github/stars/Stability-AI/stable-audio-tools)](https://github.com/Stability-AI/stable-audio-tools)
   * [GPT-SoVITS-WebUI](https://github.com/RVC-Boss/GPT-SoVITS): 1 min voice data can also be used to train a good TTS model! (few shot voice cloning). [![stars](https://badgen.net/github/stars/RVC-Boss/GPT-SoVITS)](https://github.com/RVC-Boss/GPT-SoVITS)
+  * [Hybrid-Net](https://github.com/DoMusic/Hybrid-Net): Real-time audio source separation, generate lyrics, chords, beat. [![stars](https://badgen.net/github/stars/DoMusic/Hybrid-Net)](https://github.com/DoMusic/Hybrid-Net)
 
 ##### 🔎 Detection 🔎
   * [fake-voice-detection](https://github.com/dessa-oss/fake-voice-detection): Using temporal convolution to detect Audio Deepfakes. [![stars](https://badgen.net/github/stars/dessa-oss/fake-voice-detection)](https://github.com/dessa-oss/fake-voice-detection)
@@ -480,6 +484,8 @@ The use of AI to accomplish a malicious task and boost classic attacks.
   * [StreamDiffusion](https://github.com/cumulo-autumn/StreamDiffusion): A Pipeline-Level Solution for Real-Time Interactive Generation. [![stars](https://badgen.net/github/stars/cumulo-autumn/StreamDiffusion)](https://github.com/cumulo-autumn/StreamDiffusion)
   * [AnyDoor](https://github.com/cumulo-autumn/StreamDiffusion): Zero-shot Object-level Image Customization. [![stars](https://badgen.net/github/stars/cumulo-autumn/StreamDiffusion)](https://github.com/cumulo-autumn/StreamDiffusion)
   * [DiT](https://github.com/facebookresearch/DiT): Scalable Diffusion Models with Transformers. [![stars](https://badgen.net/github/stars/facebookresearch/DiT)](https://github.com/facebookresearch/DiT)
+  * [BrushNet](https://github.com/TencentARC/BrushNet): A Plug-and-Play Image Inpainting Model with Decomposed Dual-Branch Diffusion. [![stars](https://badgen.net/github/stars/TencentARC/BrushNet)](https://github.com/TencentARC/BrushNet)
+  * [OOTDiffusion](https://github.com/levihsu/OOTDiffusion): Outfitting Fusion based Latent Diffusion for Controllable Virtual Try-on. [![stars](https://badgen.net/github/stars/levihsu/OOTDiffusion)](https://github.com/levihsu/OOTDiffusion)
   
 
 ##### 💡 Applications 💡
@@ -519,6 +525,7 @@ The use of AI to accomplish a malicious task and boost classic attacks.
   * [Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN): Real-ESRGAN aims at developing Practical Algorithms for General Image/Video Restoration. [![stars](https://badgen.net/github/stars/xinntao/Real-ESRGAN)](https://github.com/xinntao/Real-ESRGAN)
   * [ESRGAN](https://github.com/xinntao/ESRGAN): Enhanced SRGAN. Champion PIRM Challenge on Perceptual Super-Resolution. [![stars](https://badgen.net/github/stars/xinntao/ESRGAN)](https://github.com/xinntao/ESRGAN)
   * [MixNMatch](https://github.com/Yuheng-Li/MixNMatch): Multifactor Disentanglement and Encoding for Conditional Image Generation. [![stars](https://badgen.net/github/stars/Yuheng-Li/MixNMatch)](https://github.com/Yuheng-Li/MixNMatch)
+  * [Clarity-upscaler](https://github.com/philz1337x/clarity-upscaler): Reimagined image upscaling for everyone. [![stars](https://badgen.net/github/stars/philz1337x/clarity-upscaler)](https://github.com/philz1337x/clarity-upscaler)
 
 ##### 🔎 Detection 🔎
 
@@ -537,6 +544,11 @@ The use of AI to accomplish a malicious task and boost classic attacks.
   * [faceswap-GAN](https://github.com/shaoanlu/faceswap-GAN): A denoising autoencoder + adversarial losses and attention mechanisms for face swapping. [![stars](https://badgen.net/github/stars/shaoanlu/faceswap-GAN)](https://github.com/shaoanlu/faceswap-GAN)
   * [Celeb DeepFakeForensics](https://github.com/yuezunli/celeb-deepfakeforensics): A Large-scale Challenging Dataset for DeepFake Forensics. [![stars](https://badgen.net/github/stars/yuezunli/celeb-deepfakeforensics)](https://github.com/yuezunli/celeb-deepfakeforensics)
   * [VGen](https://github.com/damo-vilab/i2vgen-xl): A holistic video generation ecosystem for video generation building on diffusion models. [![stars](https://badgen.net/github/stars/damo-vilab/i2vgen-xl)](https://github.com/damo-vilab/i2vgen-xl)
+  * [MuseV](https://github.com/TMElyralab/MuseV): Infinite-length and High Fidelity Virtual Human Video Generation with Visual Conditioned Parallel Denoising. [![stars](https://badgen.net/github/stars/TMElyralab/MuseV)](https://github.com/TMElyralab/MuseV)
+  * [GLEE](https://github.com/FoundationVision/GLEE): General Object Foundation Model for Images and Videos at Scale. [![stars](https://badgen.net/github/stars/FoundationVision/GLEE)](https://github.com/FoundationVision/GLEE)
+  * [T-Rex](https://github.com/IDEA-Research/T-Rex): Towards Generic Object Detection via Text-Visual Prompt Synergy. [![stars](https://badgen.net/github/stars/IDEA-Research/T-Rex)](https://github.com/IDEA-Research/T-Rex)
+  * [DynamiCrafter](https://github.com/Doubiiu/DynamiCrafter): Animating Open-domain Images with Video Diffusion Priors. [![stars](https://badgen.net/github/stars/Doubiiu/DynamiCrafter)](https://github.com/Doubiiu/DynamiCrafter)
+  * [Mora](https://github.com/lichao-sun/Mora): More like Sora for Generalist Video Generation. [![stars](https://badgen.net/github/stars/lichao-sun/Mora)](https://github.com/lichao-sun/Mora)
 
 ##### 💡 Applications 💡
 
@@ -566,6 +578,8 @@ The use of AI to accomplish a malicious task and boost classic attacks.
   * [audio2photoreal](https://github.com/facebookresearch/audio2photoreal): From Audio to Photoreal Embodiment: Synthesizing Humans in Conversations. [![stars](https://badgen.net/github/stars/facebookresearch/audio2photoreal)](https://github.com/facebookresearch/audio2photoreal)
   * [MagicVideo-V2: Multi-Stage High-Aesthetic Video Generation](https://magicvideov2.github.io/)
   * [LWM](https://github.com/LargeWorldModel/LWM): A general-purpose large-context multimodal autoregressive model. It is trained on a large dataset of diverse long videos and books using RingAttention, and can perform language, image, and video understanding and generation. [![stars](https://badgen.net/github/stars/LargeWorldModel/LWM)](https://github.com/LargeWorldModel/LWM)
+  * [AniPortrait](https://github.com/Zejun-Yang/AniPortrait): Audio-Driven Synthesis of Photorealistic Portrait Animation. [![stars](https://badgen.net/github/stars/Zejun-Yang/AniPortrait)](https://github.com/Zejun-Yang/AniPortrait)
+  * [Champ](https://github.com/fudan-generative-vision/champ): Controllable and Consistent Human Image Animation with 3D Parametric Guidance. [![stars](https://badgen.net/github/stars/fudan-generative-vision/champ)](https://github.com/fudan-generative-vision/champ)
 
 ##### 🔎 Detection 🔎
 
@@ -651,6 +665,7 @@ The use of AI to accomplish a malicious task and boost classic attacks.
   * [HackingBuddyGPT](https://github.com/ipa-lab/hackingBuddyGPT): LLMs x PenTesting. [![stars](https://badgen.net/github/stars/ipa-lab/hackingBuddyGPT)](https://github.com/ipa-lab/hackingBuddyGPT)
   * [ChatGPT-Jailbreaks](https://github.com/GabryB03/ChatGPT-Jailbreaks): Official jailbreak for ChatGPT (GPT-3.5). Send a long message at the start of the conversation with ChatGPT to get offensive, unethical, aggressive, human-like answers in English and Italian. [![stars](https://badgen.net/github/stars/GabryB03/ChatGPT-Jailbreaks)](https://github.com/GabryB03/ChatGPT-Jailbreaks)
   * [Magika](https://github.com/google/magika): Detect file content types with deep learning. [![stars](https://badgen.net/github/stars/google/magika)](https://github.com/google/magika)
+  * [Jan](https://github.com/janhq/jan): An open source alternative to ChatGPT that runs 100% offline on your computer. [![stars](https://badgen.net/github/stars/janhq/jan)](https://github.com/janhq/jan)
 
 
 ### 📚 Misc 📚
