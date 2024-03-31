@@ -314,6 +314,7 @@ The most common attacks are **white-box attacks**:
   * [AI Exploits](https://github.com/protectai/ai-exploits): A collection of real world AI/ML exploits for responsibly disclosed vulnerabilities. [![stars](https://badgen.net/github/stars/protectai/ai-exploits)](https://github.com/protectai/ai-exploits)
   * [LLM Agents can Autonomously Hack Websites](https://arxiv.org/abs/2402.06664v1)
   * [Cloudflare announces Firewall for AI](https://blog.cloudflare.com/firewall-for-ai)
+  * [PromptInject](https://github.com/agencyenterprise/PromptInject): Framework that assembles prompts in a modular fashion to provide a quantitative analysis of the robustness of LLMs to adversarial prompt attacks. [![stars](https://badgen.net/github/stars/agencyenterprise/PromptInject)](https://github.com/agencyenterprise/PromptInject)
 
 #### 🛠️ Tools 🛠️
 
@@ -526,6 +527,7 @@ The use of AI to accomplish a malicious task and boost classic attacks.
   * [ESRGAN](https://github.com/xinntao/ESRGAN): Enhanced SRGAN. Champion PIRM Challenge on Perceptual Super-Resolution. [![stars](https://badgen.net/github/stars/xinntao/ESRGAN)](https://github.com/xinntao/ESRGAN)
   * [MixNMatch](https://github.com/Yuheng-Li/MixNMatch): Multifactor Disentanglement and Encoding for Conditional Image Generation. [![stars](https://badgen.net/github/stars/Yuheng-Li/MixNMatch)](https://github.com/Yuheng-Li/MixNMatch)
   * [Clarity-upscaler](https://github.com/philz1337x/clarity-upscaler): Reimagined image upscaling for everyone. [![stars](https://badgen.net/github/stars/philz1337x/clarity-upscaler)](https://github.com/philz1337x/clarity-upscaler)
+  * [One-step Diffusion with Distribution Matching Distillation](https://tianweiy.github.io/dmd/)
 
 ##### 🔎 Detection 🔎
 
