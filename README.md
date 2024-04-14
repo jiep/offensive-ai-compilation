@@ -315,6 +315,7 @@ The most common attacks are **white-box attacks**:
   * [LLM Agents can Autonomously Hack Websites](https://arxiv.org/abs/2402.06664v1)
   * [Cloudflare announces Firewall for AI](https://blog.cloudflare.com/firewall-for-ai)
   * [PromptInject](https://github.com/agencyenterprise/PromptInject): Framework that assembles prompts in a modular fashion to provide a quantitative analysis of the robustness of LLMs to adversarial prompt attacks. [![stars](https://badgen.net/github/stars/agencyenterprise/PromptInject)](https://github.com/agencyenterprise/PromptInject)
+  * [LLM Red Teaming: Adversarial, Programming, and Linguistic approaches VS ChatGPT, Claude, Mistral, Grok, LLAMA, and Gemini](https://adversa.ai/blog/llm-red-teaming-vs-grok-chatgpt-claude-gemini-bing-mistral-llama/)
 
 #### 🛠️ Tools 🛠️
 
@@ -404,6 +405,7 @@ The use of AI to accomplish a malicious task and boost classic attacks.
   * [OpenVoice](https://github.com/myshell-ai/OpenVoice): Instant voice cloning by MyShell. [![stars](https://badgen.net/github/stars/myshell-ai/OpenVoice)](https://github.com/myshell-ai/OpenVoice)
   * [MeloTTS](https://github.com/myshell-ai/MeloTTS): High-quality multi-lingual text-to-speech library by MyShell.ai. Support English, Spanish, French, Chinese, Japanese and Korean. [![stars](https://badgen.net/github/stars/myshell-ai/MeloTTS)](https://github.com/myshell-ai/MeloTTS)
   * [VoiceCraft](https://github.com/jasonppy/VoiceCraft): Zero-Shot Speech Editing and Text-to-Speech in the Wild. [![stars](https://badgen.net/github/stars/jasonppy/VoiceCraft)](https://github.com/jasonppy/VoiceCraft)
+  * [Parler-TTS](https://github.com/huggingface/parler-tts): Inference and training library for high-quality TTS models. [![stars](https://badgen.net/github/stars/huggingface/parler-tts)](https://github.com/huggingface/parler-tts)
 
 
 ##### 💡 Applications 💡
@@ -487,6 +489,8 @@ The use of AI to accomplish a malicious task and boost classic attacks.
   * [DiT](https://github.com/facebookresearch/DiT): Scalable Diffusion Models with Transformers. [![stars](https://badgen.net/github/stars/facebookresearch/DiT)](https://github.com/facebookresearch/DiT)
   * [BrushNet](https://github.com/TencentARC/BrushNet): A Plug-and-Play Image Inpainting Model with Decomposed Dual-Branch Diffusion. [![stars](https://badgen.net/github/stars/TencentARC/BrushNet)](https://github.com/TencentARC/BrushNet)
   * [OOTDiffusion](https://github.com/levihsu/OOTDiffusion): Outfitting Fusion based Latent Diffusion for Controllable Virtual Try-on. [![stars](https://badgen.net/github/stars/levihsu/OOTDiffusion)](https://github.com/levihsu/OOTDiffusion)
+  * [VAR](https://github.com/FoundationVision/VAR): Official impl. of "Visual Autoregressive Modeling: Scalable Image Generation via Next-Scale Prediction". [![stars](https://badgen.net/github/stars/FoundationVision/VAR)](https://github.com/FoundationVision/VAR)
+
   
 
 ##### 💡 Applications 💡
@@ -614,6 +618,7 @@ The use of AI to accomplish a malicious task and boost classic attacks.
   * [burgpt](https://github.com/aress31/burpgpt): A Burp Suite extension that integrates OpenAI's GPT to perform an additional passive scan for discovering highly bespoke vulnerabilities, and enables running traffic-based analysis of any type. [![stars](https://badgen.net/github/stars/aress31/burpgpt)](https://github.com/aress31/burpgpt)
   * [Ollama](https://github.com/jmorganca/ollama): Get up and running with Llama 2 and other large language models locally. [![stars](https://badgen.net/github/stars/jmorganca/ollama)](https://github.com/jmorganca/ollama)
   * [SneakyPrompt](https://github.com/Yuchen413/text2image_safety): Jailbreaking Text-to-image Generative Models. [![stars](https://badgen.net/github/stars/Yuchen413/text2image_safety)](https://github.com/Yuchen413/text2image_safety)
+    * [Copilot-For-Security](https://github.com/Azure/Copilot-For-Security): A generative AI-powered security solution that helps increase the efficiency and capabilities of defenders to improve security outcomes at machine speed and scale, while remaining compliant to responsible AI principles. [![stars](https://badgen.net/github/stars/Azure/Copilot-For-Security)](https://github.com/Azure/Copilot-For-Security)
   * [LM Studio](Discover, download, and run local LLMs)
 
 ##### 🔎 Detection 🔎
