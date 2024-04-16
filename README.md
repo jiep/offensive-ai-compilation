@@ -726,6 +726,8 @@ The use of AI to accomplish a malicious task and boost classic attacks.
   * [AI's Predictable Path: 7 Things to Expect From AI in 2024+](https://danielmiessler.com/p/ai-predictable-path-7-components-2024)
   * [Artificial Intelligence and Cybersecurity](https://www.ismsforum.es/ficheros/descargas/isms-gt-ia-021707141605.pdf) (in Spanish :es:)
   * [Vigil](https://github.com/deadbits/vigil-llm): Detect prompt injections, jailbreaks, and other potentially risky Large Language Model (LLM) inputs. [![stars](https://badgen.net/github/stars/deadbits/vigil-llm)](https://github.com/deadbits/vigil-llm)
+  * [Generative AI Models - Opportunities and Risks for Industry and Authorities](https://www.bsi.bund.de/SharedDocs/Downloads/EN/BSI/KI/Generative_AI_Models.pdf)
+  * [Deploying AI Systems Securely. Best Practices for Deploying Secure and Resilient AI Systems](https://media.defense.gov/2024/Apr/15/2003439257/-1/-1/0/CSI-DEPLOYING-AI-SYSTEMS-SECURELY.PDF)
 
 ## 📊 Surveys 📊
 
