@@ -195,6 +195,8 @@ It is important to note that **public pre-trained models may contain backdoors**
     * [ABS: Scanning Neural Networks for Back-doors by Artificial Brain Stimulation](https://dl.acm.org/doi/10.1145/3319535.3363216)
     * [DeepInspect: A Black-box Trojan Detection and Mitigation Framework for Deep Neural Networks](https://www.ijcai.org/proceedings/2019/647)
     * [Defending Neural Backdoors via Generative Distribution Modeling](https://arxiv.org/abs/1910.04749)
+    * [A Comprehensive Survey on Backdoor Attacks and Their Defenses in Face Recognition Systems](https://ieeexplore.ieee.org/document/10480615)
+    * [DataElixir: Purifying Poisoned Dataset to Mitigate Backdoor Attacks via Diffusion Models](https://arxiv.org/abs/2312.11057)
 
 ###### 🔗 Useful links 🔗
 
@@ -258,6 +260,8 @@ The most common attacks are **white-box attacks**:
 
   * Weak defenses.
 
+  * [Prompt Injection Defenses](https://github.com/tldrsec/prompt-injection-defenses): Every practical and proposed defense against prompt injection. [![stars](https://badgen.net/github/stars/tldrsec/prompt-injection-defenses)](https://github.com/tldrsec/prompt-injection-defenses)
+
 ###### 🔗 Useful links 🔗
 
   * [Practical Black-Box Attacks against Machine Learning](https://arxiv.org/abs/1602.02697)
@@ -316,6 +320,8 @@ The most common attacks are **white-box attacks**:
   * [Cloudflare announces Firewall for AI](https://blog.cloudflare.com/firewall-for-ai)
   * [PromptInject](https://github.com/agencyenterprise/PromptInject): Framework that assembles prompts in a modular fashion to provide a quantitative analysis of the robustness of LLMs to adversarial prompt attacks. [![stars](https://badgen.net/github/stars/agencyenterprise/PromptInject)](https://github.com/agencyenterprise/PromptInject)
   * [LLM Red Teaming: Adversarial, Programming, and Linguistic approaches VS ChatGPT, Claude, Mistral, Grok, LLAMA, and Gemini](https://adversa.ai/blog/llm-red-teaming-vs-grok-chatgpt-claude-gemini-bing-mistral-llama/)
+  * [The Instruction Hierarchy: Training LLMs to Prioritize Privileged Instructions](https://arxiv.org/abs/2404.13208)
+
 
 #### 🛠️ Tools 🛠️
 
@@ -490,8 +496,7 @@ The use of AI to accomplish a malicious task and boost classic attacks.
   * [BrushNet](https://github.com/TencentARC/BrushNet): A Plug-and-Play Image Inpainting Model with Decomposed Dual-Branch Diffusion. [![stars](https://badgen.net/github/stars/TencentARC/BrushNet)](https://github.com/TencentARC/BrushNet)
   * [OOTDiffusion](https://github.com/levihsu/OOTDiffusion): Outfitting Fusion based Latent Diffusion for Controllable Virtual Try-on. [![stars](https://badgen.net/github/stars/levihsu/OOTDiffusion)](https://github.com/levihsu/OOTDiffusion)
   * [VAR](https://github.com/FoundationVision/VAR): Official impl. of "Visual Autoregressive Modeling: Scalable Image Generation via Next-Scale Prediction". [![stars](https://badgen.net/github/stars/FoundationVision/VAR)](https://github.com/FoundationVision/VAR)
-
-  
+  * [Imagine Flash: Accelerating Emu Diffusion Models with Backward Distillation](https://ai.meta.com/research/publications/imagine-flash-accelerating-emu-diffusion-models-with-backward-distillation/)
 
 ##### 💡 Applications 💡
 
@@ -620,6 +625,10 @@ The use of AI to accomplish a malicious task and boost classic attacks.
   * [SneakyPrompt](https://github.com/Yuchen413/text2image_safety): Jailbreaking Text-to-image Generative Models. [![stars](https://badgen.net/github/stars/Yuchen413/text2image_safety)](https://github.com/Yuchen413/text2image_safety)
     * [Copilot-For-Security](https://github.com/Azure/Copilot-For-Security): A generative AI-powered security solution that helps increase the efficiency and capabilities of defenders to improve security outcomes at machine speed and scale, while remaining compliant to responsible AI principles. [![stars](https://badgen.net/github/stars/Azure/Copilot-For-Security)](https://github.com/Azure/Copilot-For-Security)
   * [LM Studio](Discover, download, and run local LLMs)
+  * [Bypass GPT: Convert AI Text to Human-like Content](https://bypassgpt.ai/)
+  * [MGM](https://github.com/dvlab-research/MGM): The framework supports a series of dense and MoE Large Language Models (LLMs) from 2B to 34B with image understanding, reasoning, and generation simultaneously. [![stars](https://badgen.net/github/stars/dvlab-research/MGM)](https://github.com/dvlab-research/MGM)
+  * [Secret Llama](https://github.com/abi/secret-llama): Fully private LLM chatbot that runs entirely with a browser with no server needed. Supports Mistral and LLama 3. [![stars](https://badgen.net/github/stars/abi/secret-llama)](https://github.com/abi/secret-llama)
+  * [Llama3](https://github.com/meta-llama/llama3): The official Meta Llama 3 GitHub site. [![stars](https://badgen.net/github/stars/meta-llama/llama3)](https://github.com/meta-llama/llama3)
 
 ##### 🔎 Detection 🔎
 
@@ -673,6 +682,7 @@ The use of AI to accomplish a malicious task and boost classic attacks.
   * [ChatGPT-Jailbreaks](https://github.com/GabryB03/ChatGPT-Jailbreaks): Official jailbreak for ChatGPT (GPT-3.5). Send a long message at the start of the conversation with ChatGPT to get offensive, unethical, aggressive, human-like answers in English and Italian. [![stars](https://badgen.net/github/stars/GabryB03/ChatGPT-Jailbreaks)](https://github.com/GabryB03/ChatGPT-Jailbreaks)
   * [Magika](https://github.com/google/magika): Detect file content types with deep learning. [![stars](https://badgen.net/github/stars/google/magika)](https://github.com/google/magika)
   * [Jan](https://github.com/janhq/jan): An open source alternative to ChatGPT that runs 100% offline on your computer. [![stars](https://badgen.net/github/stars/janhq/jan)](https://github.com/janhq/jan)
+  * [LibreChat](https://github.com/danny-avila/LibreChat): Enhanced ChatGPT Clone: Features OpenAI, Assistants API, Azure, Groq, GPT-4 Vision, Mistral, Bing, Anthropic, OpenRouter, Vertex AI, Gemini, AI model switching, message search, langchain, DALL-E-3, ChatGPT Plugins, OpenAI Functions, Secure Multi-User System, Presets, completely open-source for self-hosting. [![stars](https://badgen.net/github/stars/danny-avila/LibreChat)](https://github.com/danny-avila/LibreChat)
 
 
 ### 📚 Misc 📚
@@ -747,8 +757,10 @@ The use of AI to accomplish a malicious task and boost classic attacks.
   * [Adversarial Machine Learning in Image Classification: A Survey Towards the Defender’s Perspective](https://arxiv.org/pdf/2009.03728.pdf)
   * [A Survey of Robust Adversarial Training in Pattern Recognition: Fundamental, Theory, and Methodologies](https://arxiv.org/abs/2203.14046)
   * [Privacy in Large Language Models: Attacks, Defenses and Future Directions](https://arxiv.org/abs/2310.10383)
+  * [NIST AI 600-1: Artificial Intelligence Risk Management Framework: Generative Artificial Intelligence Profile]
+  * [:fr: ANSSI: Recommandations De Sécurité Pour Un Système d'IA Générative (Security Recommendations for a Generative AI System)](https://cyber.gouv.fr/sites/default/files/document/Recommandations_de_s%C3%A9curit%C3%A9_pour_un_syst%C3%A8me_d_IA_g%C3%A9n%C3%A9rative.pdf)
 
-## 🗣 Contributors 🗣
+## 🗣 Maintainers  🗣
 
 <table>
   <tr>
