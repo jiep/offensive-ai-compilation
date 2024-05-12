@@ -757,7 +757,7 @@ The use of AI to accomplish a malicious task and boost classic attacks.
   * [Adversarial Machine Learning in Image Classification: A Survey Towards the Defender’s Perspective](https://arxiv.org/pdf/2009.03728.pdf)
   * [A Survey of Robust Adversarial Training in Pattern Recognition: Fundamental, Theory, and Methodologies](https://arxiv.org/abs/2203.14046)
   * [Privacy in Large Language Models: Attacks, Defenses and Future Directions](https://arxiv.org/abs/2310.10383)
-  * [NIST AI 600-1: Artificial Intelligence Risk Management Framework: Generative Artificial Intelligence Profile]
+  * [NIST AI 600-1: Artificial Intelligence Risk Management Framework: Generative Artificial Intelligence Profile](https://airc.nist.gov/docs/NIST.AI.600-1.GenAI-Profile.ipd.pdf)
   * [:fr: ANSSI: Recommandations De Sécurité Pour Un Système d'IA Générative (Security Recommendations for a Generative AI System)](https://cyber.gouv.fr/sites/default/files/document/Recommandations_de_s%C3%A9curit%C3%A9_pour_un_syst%C3%A8me_d_IA_g%C3%A9n%C3%A9rative.pdf)
 
 ## 🗣 Maintainers  🗣
