@@ -321,6 +321,7 @@ The most common attacks are **white-box attacks**:
   * [PromptInject](https://github.com/agencyenterprise/PromptInject): Framework that assembles prompts in a modular fashion to provide a quantitative analysis of the robustness of LLMs to adversarial prompt attacks. [![stars](https://badgen.net/github/stars/agencyenterprise/PromptInject)](https://github.com/agencyenterprise/PromptInject)
   * [LLM Red Teaming: Adversarial, Programming, and Linguistic approaches VS ChatGPT, Claude, Mistral, Grok, LLAMA, and Gemini](https://adversa.ai/blog/llm-red-teaming-vs-grok-chatgpt-claude-gemini-bing-mistral-llama/)
   * [The Instruction Hierarchy: Training LLMs to Prioritize Privileged Instructions](https://arxiv.org/abs/2404.13208)
+  * [Prompt Injection / JailBreaking a Banking LLM Agent (GPT-4, Langchain)](https://www.youtube.com/watch?v=5rXVg8cxne4)
 
 
 #### 🛠️ Tools 🛠️
@@ -412,6 +413,8 @@ The use of AI to accomplish a malicious task and boost classic attacks.
   * [MeloTTS](https://github.com/myshell-ai/MeloTTS): High-quality multi-lingual text-to-speech library by MyShell.ai. Support English, Spanish, French, Chinese, Japanese and Korean. [![stars](https://badgen.net/github/stars/myshell-ai/MeloTTS)](https://github.com/myshell-ai/MeloTTS)
   * [VoiceCraft](https://github.com/jasonppy/VoiceCraft): Zero-Shot Speech Editing and Text-to-Speech in the Wild. [![stars](https://badgen.net/github/stars/jasonppy/VoiceCraft)](https://github.com/jasonppy/VoiceCraft)
   * [Parler-TTS](https://github.com/huggingface/parler-tts): Inference and training library for high-quality TTS models. [![stars](https://badgen.net/github/stars/huggingface/parler-tts)](https://github.com/huggingface/parler-tts)
+  * [ChatTTS](https://github.com/2noise/ChatTTS): A generative speech model for daily dialogue. [![stars](https://badgen.net/github/stars/2noise/ChatTTS)](https://github.com/2noise/ChatTTS)
+
 
 
 ##### 💡 Applications 💡
@@ -591,6 +594,8 @@ The use of AI to accomplish a malicious task and boost classic attacks.
   * [LWM](https://github.com/LargeWorldModel/LWM): A general-purpose large-context multimodal autoregressive model. It is trained on a large dataset of diverse long videos and books using RingAttention, and can perform language, image, and video understanding and generation. [![stars](https://badgen.net/github/stars/LargeWorldModel/LWM)](https://github.com/LargeWorldModel/LWM)
   * [AniPortrait](https://github.com/Zejun-Yang/AniPortrait): Audio-Driven Synthesis of Photorealistic Portrait Animation. [![stars](https://badgen.net/github/stars/Zejun-Yang/AniPortrait)](https://github.com/Zejun-Yang/AniPortrait)
   * [Champ](https://github.com/fudan-generative-vision/champ): Controllable and Consistent Human Image Animation with 3D Parametric Guidance. [![stars](https://badgen.net/github/stars/fudan-generative-vision/champ)](https://github.com/fudan-generative-vision/champ)
+  * [Streamv2v](https://github.com/Jeff-LiangF/streamv2v): Streaming Video-to-Video Translation with Feature Banks. [![stars](https://badgen.net/github/stars/Jeff-LiangF/streamv2v)](https://github.com/Jeff-LiangF/streamv2v)
+
 
 ##### 🔎 Detection 🔎
 
@@ -683,6 +688,7 @@ The use of AI to accomplish a malicious task and boost classic attacks.
   * [Magika](https://github.com/google/magika): Detect file content types with deep learning. [![stars](https://badgen.net/github/stars/google/magika)](https://github.com/google/magika)
   * [Jan](https://github.com/janhq/jan): An open source alternative to ChatGPT that runs 100% offline on your computer. [![stars](https://badgen.net/github/stars/janhq/jan)](https://github.com/janhq/jan)
   * [LibreChat](https://github.com/danny-avila/LibreChat): Enhanced ChatGPT Clone: Features OpenAI, Assistants API, Azure, Groq, GPT-4 Vision, Mistral, Bing, Anthropic, OpenRouter, Vertex AI, Gemini, AI model switching, message search, langchain, DALL-E-3, ChatGPT Plugins, OpenAI Functions, Secure Multi-User System, Presets, completely open-source for self-hosting. [![stars](https://badgen.net/github/stars/danny-avila/LibreChat)](https://github.com/danny-avila/LibreChat)
+  * [Lumina-T2X](https://github.com/Alpha-VLLM/Lumina-T2X): A unified framework for Text to Any Modality Generation. [![stars](https://badgen.net/github/stars/Alpha-VLLM/Lumina-T2X)](https://github.com/Alpha-VLLM/Lumina-T2X)
 
 
 ### 📚 Misc 📚
@@ -738,6 +744,12 @@ The use of AI to accomplish a malicious task and boost classic attacks.
   * [Vigil](https://github.com/deadbits/vigil-llm): Detect prompt injections, jailbreaks, and other potentially risky Large Language Model (LLM) inputs. [![stars](https://badgen.net/github/stars/deadbits/vigil-llm)](https://github.com/deadbits/vigil-llm)
   * [Generative AI Models - Opportunities and Risks for Industry and Authorities](https://www.bsi.bund.de/SharedDocs/Downloads/EN/BSI/KI/Generative_AI_Models.pdf)
   * [Deploying AI Systems Securely. Best Practices for Deploying Secure and Resilient AI Systems](https://media.defense.gov/2024/Apr/15/2003439257/-1/-1/0/CSI-DEPLOYING-AI-SYSTEMS-SECURELY.PDF)
+  * [NIST AI 600-1: Artificial Intelligence Risk Management Framework: Generative Artificial Intelligence Profile](https://airc.nist.gov/docs/NIST.AI.600-1.GenAI-Profile.ipd.pdf)
+  * [:fr: ANSSI: Recommandations De Sécurité Pour Un Système d'IA Générative (Security Recommendations for a Generative AI System)](https://cyber.gouv.fr/sites/default/files/document/Recommandations_de_s%C3%A9curit%C3%A9_pour_un_syst%C3%A8me_d_IA_g%C3%A9n%C3%A9rative.pdf)
+  * [PyRIT](https://github.com/https://github.com/Azure/PyRIT): The Python Risk Identification Tool for generative AI (PyRIT) is an open access automation framework to empower security professionals and machine learning engineers to proactively find risks in their generative AI systems. [![stars](https://badgen.net/github/stars/https://github.com/Azure/PyRIT)](https://github.com/https://github.com/Azure/PyRIT)
+  * [Towards Guaranteed Safe AI: A Framework for Ensuring Robust and Reliable AI Systems](https://arxiv.org/abs/2405.06624)
+  * [Defining Real AI Risks](https://josephthacker.com/ai/2024/05/19/defining-real-ai-risks.html)
+  * [Secure approach to generative AI](https://aws.amazon.com/es/ai/generative-ai/security/)
 
 ## 📊 Surveys 📊
 
@@ -757,8 +769,6 @@ The use of AI to accomplish a malicious task and boost classic attacks.
   * [Adversarial Machine Learning in Image Classification: A Survey Towards the Defender’s Perspective](https://arxiv.org/pdf/2009.03728.pdf)
   * [A Survey of Robust Adversarial Training in Pattern Recognition: Fundamental, Theory, and Methodologies](https://arxiv.org/abs/2203.14046)
   * [Privacy in Large Language Models: Attacks, Defenses and Future Directions](https://arxiv.org/abs/2310.10383)
-  * [NIST AI 600-1: Artificial Intelligence Risk Management Framework: Generative Artificial Intelligence Profile](https://airc.nist.gov/docs/NIST.AI.600-1.GenAI-Profile.ipd.pdf)
-  * [:fr: ANSSI: Recommandations De Sécurité Pour Un Système d'IA Générative (Security Recommendations for a Generative AI System)](https://cyber.gouv.fr/sites/default/files/document/Recommandations_de_s%C3%A9curit%C3%A9_pour_un_syst%C3%A8me_d_IA_g%C3%A9n%C3%A9rative.pdf)
 
 ## 🗣 Maintainers  🗣
 
