@@ -629,7 +629,7 @@ The use of AI to accomplish a malicious task and boost classic attacks.
   * [Ollama](https://github.com/jmorganca/ollama): Get up and running with Llama 2 and other large language models locally. [![stars](https://badgen.net/github/stars/jmorganca/ollama)](https://github.com/jmorganca/ollama)
   * [SneakyPrompt](https://github.com/Yuchen413/text2image_safety): Jailbreaking Text-to-image Generative Models. [![stars](https://badgen.net/github/stars/Yuchen413/text2image_safety)](https://github.com/Yuchen413/text2image_safety)
     * [Copilot-For-Security](https://github.com/Azure/Copilot-For-Security): A generative AI-powered security solution that helps increase the efficiency and capabilities of defenders to improve security outcomes at machine speed and scale, while remaining compliant to responsible AI principles. [![stars](https://badgen.net/github/stars/Azure/Copilot-For-Security)](https://github.com/Azure/Copilot-For-Security)
-  * [LM Studio](Discover, download, and run local LLMs)
+  * [LM Studio](https://lmstudio.ai/): Discover, download, and run local LLMs
   * [Bypass GPT: Convert AI Text to Human-like Content](https://bypassgpt.ai/)
   * [MGM](https://github.com/dvlab-research/MGM): The framework supports a series of dense and MoE Large Language Models (LLMs) from 2B to 34B with image understanding, reasoning, and generation simultaneously. [![stars](https://badgen.net/github/stars/dvlab-research/MGM)](https://github.com/dvlab-research/MGM)
   * [Secret Llama](https://github.com/abi/secret-llama): Fully private LLM chatbot that runs entirely with a browser with no server needed. Supports Mistral and LLama 3. [![stars](https://badgen.net/github/stars/abi/secret-llama)](https://github.com/abi/secret-llama)
