@@ -262,6 +262,10 @@ The most common attacks are **white-box attacks**:
 
   * [Prompt Injection Defenses](https://github.com/tldrsec/prompt-injection-defenses): Every practical and proposed defense against prompt injection. [![stars](https://badgen.net/github/stars/tldrsec/prompt-injection-defenses)](https://github.com/tldrsec/prompt-injection-defenses)
 
+  * [Lakera PINT Benchmark](https://github.com/lakeraai/pint-benchmark): The Prompt Injection Test (PINT) Benchmark provides a neutral way to evaluate the performance of a prompt injection detection system, like Lakera Guard, without relying on known public datasets that these tools can use to optimize for evaluation performance. [![stars](https://badgen.net/github/stars/lakeraai/pint-benchmark)](https://github.com/lakeraai/pint-benchmark)
+
+  * [Devil's Inference](https://github.com/AI-Voodoo/Devil_Inference): A method to adversarially assess the Phi-3 Instruct model by observing the attention distribution across its heads when exposed to specific inputs. This approach prompts the model to adopt the 'devil's mindset’, enabling it to generate outputs of a violent nature. [![stars](https://badgen.net/github/stars/AI-Voodoo/Devil_Inference)](https://github.com/AI-Voodoo/Devil_Inference)
+
 ###### 🔗 Useful links 🔗
 
   * [Practical Black-Box Attacks against Machine Learning](https://arxiv.org/abs/1602.02697)
@@ -322,6 +326,11 @@ The most common attacks are **white-box attacks**:
   * [LLM Red Teaming: Adversarial, Programming, and Linguistic approaches VS ChatGPT, Claude, Mistral, Grok, LLAMA, and Gemini](https://adversa.ai/blog/llm-red-teaming-vs-grok-chatgpt-claude-gemini-bing-mistral-llama/)
   * [The Instruction Hierarchy: Training LLMs to Prioritize Privileged Instructions](https://arxiv.org/abs/2404.13208)
   * [Prompt Injection / JailBreaking a Banking LLM Agent (GPT-4, Langchain)](https://www.youtube.com/watch?v=5rXVg8cxne4)
+  * [GitHub Copilot Chat: From Prompt Injection to Data Exfiltration](https://embracethered.com/blog/posts/2024/github-copilot-chat-prompt-injection-data-exfiltration/?s=35)
+  * [Adversarial Examples are Misaligned in Diffusion Model Manifolds](https://arxiv.org/abs/2401.06637)
+  * [Image-to-Text Logic Jailbreak: Your Imagination can Help You Do Anything](https://arxiv.org/abs/2407.02534)
+  * [Mitigating Skeleton Key, a new type of generative AI jailbreak technique](https://www.microsoft.com/en-us/security/blog/2024/06/26/mitigating-skeleton-key-a-new-type-of-generative-ai-jailbreak-technique/)
+
 
 
 #### 🛠️ Tools 🛠️
@@ -374,6 +383,7 @@ The use of AI to accomplish a malicious task and boost classic attacks.
   * [DeepGenerator](https://github.com/13o-bbr-bbq/machine_learning_security/tree/master/Generator): Fully automatically generate injection codes for web application assessment using Genetic Algorithm and Generative Adversarial Networks.
   * [Eyeballer](https://github.com/BishopFox/eyeballer): Eyeballer is meant for large-scope network penetration tests where you need to find "interesting" targets from a huge set of web-based hosts. [![stars](https://badgen.net/github/stars/BishopFox/eyeballer)](https://github.com/BishopFox/eyeballer)
   * [Nebula](https://github.com/berylliumsec/nebula): AI-Powered Ethical Hacking Assistant. [![stars](https://badgen.net/github/stars/berylliumsec/nebula)](https://github.com/berylliumsec/nebula)
+  * [Teams of LLM Agents can Exploit Zero-Day Vulnerabilities](https://arxiv.org/abs/2406.01637)
 
 ### 🦠 Malware 🦠
 
@@ -649,6 +659,7 @@ The use of AI to accomplish a malicious task and boost classic attacks.
   * [GPT detectors are biased against non-native English writers](https://arxiv.org/abs/2304.02819)
   * [To ChatGPT, or not to ChatGPT: That is the question!](https://arxiv.org/abs/2304.01487)
   * [Can linguists distinguish between ChatGPT/AI and human writing?: A study of research ethics and academic publishing](https://www.sciencedirect.com/science/article/abs/pii/S2772766123000289)
+  * [ChatGPT is bullshit](https://link.springer.com/article/10.1007/s10676-024-09775-5)
 
 
 ##### 💡 Applications 💡
@@ -750,6 +761,8 @@ The use of AI to accomplish a malicious task and boost classic attacks.
   * [Towards Guaranteed Safe AI: A Framework for Ensuring Robust and Reliable AI Systems](https://arxiv.org/abs/2405.06624)
   * [Defining Real AI Risks](https://josephthacker.com/ai/2024/05/19/defining-real-ai-risks.html)
   * [Secure approach to generative AI](https://aws.amazon.com/es/ai/generative-ai/security/)
+  * [Large Language Models in Cybersecurity](https://link.springer.com/content/pdf/10.1007/978-3-031-54827-7.pdf)
+  * [Hey, That's My Model! Introducing Chain & Hash, An LLM Fingerprinting Technique](https://arxiv.org/abs/2407.10887)
 
 ## 📊 Surveys 📊
 
