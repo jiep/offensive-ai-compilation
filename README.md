@@ -618,6 +618,7 @@ The use of AI to accomplish a malicious task and boost classic attacks.
   * [DFDC DeepFake Challenge](https://github.com/selimsef/dfdc_deepfake_challenge): A prize winning solution for DFDC challenge. [![stars](https://badgen.net/github/stars/selimsef/dfdc_deepfake_challenge)](https://github.com/selimsef/dfdc_deepfake_challenge)
   * [POI-Forensics](https://github.com/grip-unina/poi-forensics): Audio-Visual Person-of-Interest DeepFake Detection. [![stars](https://badgen.net/github/stars/grip-unina/poi-forensics)](https://github.com/grip-unina/poi-forensics)
   * [Standardizing Detection of Deepfakes: Why Experts Say It’s Important](https://antispoofing.org/deepfake-detection-standardization-origin-goals-and-implementation/)
+  * [Want to spot a deepfake? Look for the stars in their eyes](https://ras.ac.uk/news-and-press/news/want-spot-deepfake-look-stars-their-eyes)
 
 #### 📄 Text 📄
 
