@@ -115,6 +115,7 @@ In the generic case, where there is insufficient knowledge of the model, the sub
   * [Polynomial Time Cryptanalytic Extraction of Neural Network Models](https://eprint.iacr.org/2023/1526)
   * [Prompt-Specific Poisoning Attacks on Text-to-Image Generative Models](https://arxiv.org/abs/2310.13828)
   * [Awesome Data Poisoning And Backdoor Attacks](https://github.com/penghui-yang/awesome-data-poisoning-and-backdoor-attacks): A curated list of papers & resources linked to data poisoning, backdoor attacks and defenses against them. [![stars](https://badgen.net/github/stars/penghui-yang/awesome-data-poisoning-and-backdoor-attacks)](https://github.com/penghui-yang/awesome-data-poisoning-and-backdoor-attacks)
+  * [BackdoorBox](https://github.com/THUYimingLi/BackdoorBox): An Open-sourced Python Toolbox for Backdoor Attacks and Defenses. [![stars](https://badgen.net/github/stars/THUYimingLi/BackdoorBox)](https://github.com/THUYimingLi/BackdoorBox)
 
 ##### ⬅️ Inversion (or inference) ⬅️
 
@@ -330,7 +331,7 @@ The most common attacks are **white-box attacks**:
   * [Adversarial Examples are Misaligned in Diffusion Model Manifolds](https://arxiv.org/abs/2401.06637)
   * [Image-to-Text Logic Jailbreak: Your Imagination can Help You Do Anything](https://arxiv.org/abs/2407.02534)
   * [Mitigating Skeleton Key, a new type of generative AI jailbreak technique](https://www.microsoft.com/en-us/security/blog/2024/06/26/mitigating-skeleton-key-a-new-type-of-generative-ai-jailbreak-technique/)
-
+  * [Image Obfuscation Benchmark](https://github.com/google-deepmind/image_obfuscation_benchmark): This repository contains the code to evaluate models on the image obfuscation benchmark, first presented in [Benchmarking Robustness to Adversarial Image Obfuscations](https://arxiv.org/abs/2301.12993). [![stars](https://badgen.net/github/stars/google-deepmind/image_obfuscation_benchmark)](https://github.com/google-deepmind/image_obfuscation_benchmark)
 
 
 #### 🛠️ Tools 🛠️
@@ -498,6 +499,7 @@ The use of AI to accomplish a malicious task and boost classic attacks.
   * [Kandinsky-2](https://github.com/ai-forever/Kandinsky-2): Multilingual text2image latent diffusion model. [![stars](https://badgen.net/github/stars/ai-forever/Kandinsky-2)](https://github.com/ai-forever/Kandinsky-2)
   * [DragGAN](https://github.com/XingangPan/DragGAN): Interactive Point-based Manipulation on the Generative Image Manifold. [![stars](https://badgen.net/github/stars/XingangPan/DragGAN)](https://github.com/XingangPan/DragGAN)
   * [Segment Anything](https://github.com/facebookresearch/segment-anything): The repository provides code for running inference with the SegmentAnything Model (SAM), links for downloading the trained model checkpoints, and example notebooks that show how to use the model. [![stars](https://badgen.net/github/stars/facebookresearch/segment-anything)](https://github.com/facebookresearch/segment-anything)
+  * [Segment Anything 2](https://github.com/facebookresearch/segment-anything-2): The repository provides code for running inference with the Meta Segment Anything Model 2 (SAM 2), links for downloading the trained model checkpoints, and example notebooks that show how to use the model. [![stars](https://badgen.net/github/stars/facebookresearch/segment-anything-2)](https://github.com/facebookresearch/segment-anything-2)
   * [MobileSAM](https://github.com/ChaoningZhang/MobileSAM): This is the official code for MobileSAM project that makes SAM lightweight for mobile applications and beyond! [![stars](https://badgen.net/github/stars/ChaoningZhang/MobileSAM)](https://github.com/ChaoningZhang/MobileSAM)
   * [FastSAM](https://github.com/CASIA-IVA-Lab/FastSAM): Fast Segment Anything
  [![stars](https://badgen.net/github/stars/CASIA-IVA-Lab/FastSAM)](https://github.com/CASIA-IVA-Lab/FastSAM)
@@ -605,6 +607,7 @@ The use of AI to accomplish a malicious task and boost classic attacks.
   * [AniPortrait](https://github.com/Zejun-Yang/AniPortrait): Audio-Driven Synthesis of Photorealistic Portrait Animation. [![stars](https://badgen.net/github/stars/Zejun-Yang/AniPortrait)](https://github.com/Zejun-Yang/AniPortrait)
   * [Champ](https://github.com/fudan-generative-vision/champ): Controllable and Consistent Human Image Animation with 3D Parametric Guidance. [![stars](https://badgen.net/github/stars/fudan-generative-vision/champ)](https://github.com/fudan-generative-vision/champ)
   * [Streamv2v](https://github.com/Jeff-LiangF/streamv2v): Streaming Video-to-Video Translation with Feature Banks. [![stars](https://badgen.net/github/stars/Jeff-LiangF/streamv2v)](https://github.com/Jeff-LiangF/streamv2v)
+  * [Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam): Real time face swap and one-click video deepfake with only a single image. [![stars](https://badgen.net/github/stars/hacksider/Deep-Live-Cam)](https://github.com/hacksider/Deep-Live-Cam)
 
 
 ##### 🔎 Detection 🔎
