@@ -116,6 +116,7 @@ In the generic case, where there is insufficient knowledge of the model, the sub
   * [Prompt-Specific Poisoning Attacks on Text-to-Image Generative Models](https://arxiv.org/abs/2310.13828)
   * [Awesome Data Poisoning And Backdoor Attacks](https://github.com/penghui-yang/awesome-data-poisoning-and-backdoor-attacks): A curated list of papers & resources linked to data poisoning, backdoor attacks and defenses against them. [![stars](https://badgen.net/github/stars/penghui-yang/awesome-data-poisoning-and-backdoor-attacks)](https://github.com/penghui-yang/awesome-data-poisoning-and-backdoor-attacks)
   * [BackdoorBox](https://github.com/THUYimingLi/BackdoorBox): An Open-sourced Python Toolbox for Backdoor Attacks and Defenses. [![stars](https://badgen.net/github/stars/THUYimingLi/BackdoorBox)](https://github.com/THUYimingLi/BackdoorBox)
+  * [Stealing Part of a Production Language Model](https://arxiv.org/abs/2403.06634)
 
 ##### ⬅️ Inversion (or inference) ⬅️
 
@@ -405,6 +406,10 @@ The use of AI to accomplish a malicious task and boost classic attacks.
 
   * [DeepDGA](https://github.com/roreagan/DeepDGA): Implementation of DeepDGA: Adversarially-Tuned Domain Generation and Detection. [![stars](https://badgen.net/github/stars/roreagan/DeepDGA)](https://github.com/roreagan/DeepDGA)
 
+### 🕵 Threat Intelligence 🕵
+
+  * [From Sands to Mansions: Enabling Automatic Full-Life-Cycle Cyberattack Construction with LLM](https://arxiv.org/abs/2407.16928) 
+
 ### 👨‍🎤 Generative AI 👨‍🎤
 
 #### 🔊 Audio 🔊
@@ -552,6 +557,10 @@ The use of AI to accomplish a malicious task and boost classic attacks.
   * [MixNMatch](https://github.com/Yuheng-Li/MixNMatch): Multifactor Disentanglement and Encoding for Conditional Image Generation. [![stars](https://badgen.net/github/stars/Yuheng-Li/MixNMatch)](https://github.com/Yuheng-Li/MixNMatch)
   * [Clarity-upscaler](https://github.com/philz1337x/clarity-upscaler): Reimagined image upscaling for everyone. [![stars](https://badgen.net/github/stars/philz1337x/clarity-upscaler)](https://github.com/philz1337x/clarity-upscaler)
   * [One-step Diffusion with Distribution Matching Distillation](https://tianweiy.github.io/dmd/)
+  * [Invisible Stitch](https://github.com/paulengstler/invisible-stitch): Generating Smooth 3D Scenes with Depth Inpainting. [![stars](https://badgen.net/github/stars/paulengstler/invisible-stitch)](https://github.com/paulengstler/invisible-stitch)
+  * [SSR](https://github.com/paulengstler/https://github.com/DaLi-Jack/SSR-code): Single-view 3D Scene Reconstruction with High-fidelity Shape and Texture. [![stars](https://badgen.net/github/stars/paulengstler/https://github.com/DaLi-Jack/SSR-code)](https://github.com/paulengstler/https://github.com/DaLi-Jack/SSR-code)
+
+
 
 ##### 🔎 Detection 🔎
 
@@ -608,6 +617,7 @@ The use of AI to accomplish a malicious task and boost classic attacks.
   * [Champ](https://github.com/fudan-generative-vision/champ): Controllable and Consistent Human Image Animation with 3D Parametric Guidance. [![stars](https://badgen.net/github/stars/fudan-generative-vision/champ)](https://github.com/fudan-generative-vision/champ)
   * [Streamv2v](https://github.com/Jeff-LiangF/streamv2v): Streaming Video-to-Video Translation with Feature Banks. [![stars](https://badgen.net/github/stars/Jeff-LiangF/streamv2v)](https://github.com/Jeff-LiangF/streamv2v)
   * [Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam): Real time face swap and one-click video deepfake with only a single image. [![stars](https://badgen.net/github/stars/hacksider/Deep-Live-Cam)](https://github.com/hacksider/Deep-Live-Cam)
+  * [Sapiens](https://github.com/facebookresearch/sapiens): Foundation for Human Vision Models. [![stars](https://badgen.net/github/stars/facebookresearch/sapiens)](https://github.com/facebookresearch/sapiens)
 
 
 ##### 🔎 Detection 🔎
@@ -638,6 +648,7 @@ The use of AI to accomplish a malicious task and boost classic attacks.
   * [ctrl](https://github.com/salesforce/ctrl): Conditional Transformer Language Model for Controllable Generation. [![stars](https://badgen.net/github/stars/salesforce/ctrl)](https://github.com/salesforce/ctrl)
   * [Llama](https://github.com/facebookresearch/llama): Inference code for LLaMA models. [![stars](https://badgen.net/github/stars/facebookresearch/llama)](https://github.com/facebookresearch/llama)
   * [Llama2](https://ai.meta.com/llama/)
+  * [Llama Guard 3](https://llama.meta.com/docs/model-cards-and-prompt-formats/llama-guard-3/)
   * [UL2 20B](https://ai.googleblog.com/2022/10/ul2-20b-open-source-unified-language.html): An Open Source Unified Language Learner
   * [burgpt](https://github.com/aress31/burpgpt): A Burp Suite extension that integrates OpenAI's GPT to perform an additional passive scan for discovering highly bespoke vulnerabilities, and enables running traffic-based analysis of any type. [![stars](https://badgen.net/github/stars/aress31/burpgpt)](https://github.com/aress31/burpgpt)
   * [Ollama](https://github.com/jmorganca/ollama): Get up and running with Llama 2 and other large language models locally. [![stars](https://badgen.net/github/stars/jmorganca/ollama)](https://github.com/jmorganca/ollama)
@@ -767,6 +778,8 @@ The use of AI to accomplish a malicious task and boost classic attacks.
   * [Secure approach to generative AI](https://aws.amazon.com/es/ai/generative-ai/security/)
   * [Large Language Models in Cybersecurity](https://link.springer.com/content/pdf/10.1007/978-3-031-54827-7.pdf)
   * [Hey, That's My Model! Introducing Chain & Hash, An LLM Fingerprinting Technique](https://arxiv.org/abs/2407.10887)
+  * [Generative AI Misuse: A Taxonomy of Tactics and Insights from Real-World Data](https://arxiv.org/abs/2406.13843)
+  * [AI Risk Repository](https://airisk.mit.edu/)
 
 ## 📊 Surveys 📊
 
