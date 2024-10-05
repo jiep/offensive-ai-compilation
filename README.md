@@ -117,6 +117,7 @@ In the generic case, where there is insufficient knowledge of the model, the sub
   * [Awesome Data Poisoning And Backdoor Attacks](https://github.com/penghui-yang/awesome-data-poisoning-and-backdoor-attacks): A curated list of papers & resources linked to data poisoning, backdoor attacks and defenses against them. [![stars](https://badgen.net/github/stars/penghui-yang/awesome-data-poisoning-and-backdoor-attacks)](https://github.com/penghui-yang/awesome-data-poisoning-and-backdoor-attacks)
   * [BackdoorBox](https://github.com/THUYimingLi/BackdoorBox): An Open-sourced Python Toolbox for Backdoor Attacks and Defenses. [![stars](https://badgen.net/github/stars/THUYimingLi/BackdoorBox)](https://github.com/THUYimingLi/BackdoorBox)
   * [Stealing Part of a Production Language Model](https://arxiv.org/abs/2403.06634)
+  * [Hard-Label Cryptanalytic Extraction of Neural Network Models](https://eprint.iacr.org/2024/1403)
 
 ##### ⬅️ Inversion (or inference) ⬅️
 
@@ -333,6 +334,7 @@ The most common attacks are **white-box attacks**:
   * [Image-to-Text Logic Jailbreak: Your Imagination can Help You Do Anything](https://arxiv.org/abs/2407.02534)
   * [Mitigating Skeleton Key, a new type of generative AI jailbreak technique](https://www.microsoft.com/en-us/security/blog/2024/06/26/mitigating-skeleton-key-a-new-type-of-generative-ai-jailbreak-technique/)
   * [Image Obfuscation Benchmark](https://github.com/google-deepmind/image_obfuscation_benchmark): This repository contains the code to evaluate models on the image obfuscation benchmark, first presented in [Benchmarking Robustness to Adversarial Image Obfuscations](https://arxiv.org/abs/2301.12993). [![stars](https://badgen.net/github/stars/google-deepmind/image_obfuscation_benchmark)](https://github.com/google-deepmind/image_obfuscation_benchmark)
+  * [Jailbreaking Large Language Models with Symbolic Mathematics](https://arxiv.org/abs/2409.11445)
 
 
 #### 🛠️ Tools 🛠️
@@ -780,6 +782,8 @@ The use of AI to accomplish a malicious task and boost classic attacks.
   * [Hey, That's My Model! Introducing Chain & Hash, An LLM Fingerprinting Technique](https://arxiv.org/abs/2407.10887)
   * [Generative AI Misuse: A Taxonomy of Tactics and Insights from Real-World Data](https://arxiv.org/abs/2406.13843)
   * [AI Risk Repository](https://airisk.mit.edu/)
+  * [Revisiting AI Red-Teaming](https://cset.georgetown.edu/article/revisiting-ai-red-teaming/)
+  * [German-French recommendations for the use of AI programming assistants](https://www.bsi.bund.de/SharedDocs/Downloads/EN/BSI/KI/ANSSI_BSI_AI_Coding_Assistants.html)
 
 ## 📊 Surveys 📊
 
