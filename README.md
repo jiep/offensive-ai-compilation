@@ -365,7 +365,7 @@ It is not limited to the use of models that use images as input but also support
 
 > [Workshop to learn Adversarial Machine Learning with ART 🇪🇸](https://github.com/jiep/adversarial-machine-learning)
 
-###### Clever Hans
+###### CleverHans
 
 [Cleverhans](https://github.com/cleverhans-lab/cleverhans) is a library for performing evasion attacks and testing the robustness of a deep learning model on image models.
 
@@ -377,7 +377,7 @@ It implements numerous attacks such as L-BFGS, FGSM, JSMA, C&W, among others.
 
 ## 🔧 Use 🔧
 
-The use of AI to accomplish a malicious task and boost classic attacks.
+AI is used to accomplish malicious tasks and boost classic attacks.
 
 ### 🕵️‍♂️ Pentesting 🕵️‍♂️
 
