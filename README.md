@@ -60,7 +60,7 @@ Adversarial Machine Learning is responsible for assessing their weaknesses and p
 
 #### ⚡ Attacks ⚡
 
-It is organized in four types of attacks: extraction, inversion, poisoning and evasion.
+It is organized into four types of attacks: extraction, inversion, poisoning and evasion.
 
 ![Adversarial Machine Learning attacks](/assets/images/attacks.png)
 
@@ -121,13 +121,13 @@ In the generic case, where there is insufficient knowledge of the model, the sub
 
 ##### ⬅️ Inversion (or inference) ⬅️
 
-They are intended to reverse the information flow of a machine learning model.
+They are intended to reverse the information flow of a machine-learning model.
 
 ![Inference attack](/assets/images/inversion.png)
 
-They enable an adversary to have knowledge of the model that was not explicitly intended to be shared.
+They enable an adversary to know the model that was not explicitly intended to be shared.
 
-They allow to know the training data or information as statistical properties of the model.
+They allow us to know the training data or information as statistical properties of the model.
 
 Three types are possible:
 
@@ -171,11 +171,11 @@ Three types are possible:
 
 ##### 💉 Poisoning 💉
 
-They aim to corrupt the training set by causing a machine learning model to reduce its accuracy.
+They aim to corrupt the training set by causing a machine-learning model to reduce its accuracy.
 
 ![Poisoning attack](/assets/images/poisoning.png)
 
-This attack is difficult to detect when performed on the training data, since the attack can propagate among different models using the same training data.
+This attack is difficult to detect when performed on the training data since the attack can propagate among different models using the same training data.
 
 The adversary seeks to destroy the availability of the model by modifying the decision boundary and, as a result, producing incorrect predictions or, create a backdoor in a model. In the latter, the model behaves correctly (returning the desired predictions) in most cases, except for certain inputs specially created by the adversary that produce undesired results. The adversary can manipulate the results of the predictions and launch future attacks.
 
@@ -220,7 +220,7 @@ It is important to note that **public pre-trained models may contain backdoors**
   * [Input-Aware Dynamic Backdoor Attack](https://arxiv.org/abs/2010.08138)
   * [How To Backdoor Federated Learning](https://arxiv.org/abs/1807.00459)
   * [Planting Undetectable Backdoors in Machine Learning Models](https://arxiv.org/abs/2204.06974)
-  * [Fool the AI!](https://fooltheai.mybluemix.net/): Hackers can use backdoors to poison training data and cause an AI model to misclassify images. Learn how IBM researchers can tell when data has been poisoned, then guess what backdoors have been hidden in these datasets. Can you guess the backdoor?
+  * [Fool the AI!](https://fooltheai.mybluemix.net/): Hackers can use backdoors to poison training data and cause an AI model to misclassify images. Learn how IBM researchers can tell when data has been poisoned, and then guess what backdoors have been hidden in these datasets. Can you guess the backdoor?
 
 ##### 🏃‍♂️ Evasion 🏃‍♂️
 
@@ -228,7 +228,7 @@ An adversary adds a small perturbation (in the form of noise) to the input of a 
 
 ![Evasion attack](/assets/images/evasion.png)
 
-They are similar to poisoning attacks, but their main difference is that evasion attacks try to exploit weaknesses of the model in the inference phase.
+They are similar to poisoning attacks, but their main difference is that evasion attacks try to exploit the weaknesses of the model in the inference phase.
 
 The goal of the adversary is for adversarial examples to be imperceptible to a human.
 
@@ -255,7 +255,7 @@ The most common attacks are **white-box attacks**:
 
 ###### 🛡️ Defensive actions 🛡️
 
-  * Adversarial training, which consists of crafting adversarial examples during training so as to allow the model to learn features of the adversarial examples, making the model more robust to this type of attack.
+  * Adversarial training, which consists of crafting adversarial examples during training to allow the model to learn features of the adversarial examples, making the model more robust to this type of attack.
 
   * Transformations on inputs.
 
@@ -331,7 +331,7 @@ The most common attacks are **white-box attacks**:
   * [Prompt Injection / JailBreaking a Banking LLM Agent (GPT-4, Langchain)](https://www.youtube.com/watch?v=5rXVg8cxne4)
   * [GitHub Copilot Chat: From Prompt Injection to Data Exfiltration](https://embracethered.com/blog/posts/2024/github-copilot-chat-prompt-injection-data-exfiltration/?s=35)
   * [Adversarial Examples are Misaligned in Diffusion Model Manifolds](https://arxiv.org/abs/2401.06637)
-  * [Image-to-Text Logic Jailbreak: Your Imagination can Help You Do Anything](https://arxiv.org/abs/2407.02534)
+  * [Image-to-Text Logic Jailbreak: Your Imagination Can Help You Do Anything](https://arxiv.org/abs/2407.02534)
   * [Mitigating Skeleton Key, a new type of generative AI jailbreak technique](https://www.microsoft.com/en-us/security/blog/2024/06/26/mitigating-skeleton-key-a-new-type-of-generative-ai-jailbreak-technique/)
   * [Image Obfuscation Benchmark](https://github.com/google-deepmind/image_obfuscation_benchmark): This repository contains the code to evaluate models on the image obfuscation benchmark, first presented in [Benchmarking Robustness to Adversarial Image Obfuscations](https://arxiv.org/abs/2301.12993). [![stars](https://badgen.net/github/stars/google-deepmind/image_obfuscation_benchmark)](https://github.com/google-deepmind/image_obfuscation_benchmark)
   * [Jailbreaking Large Language Models with Symbolic Mathematics](https://arxiv.org/abs/2409.11445)
@@ -359,9 +359,9 @@ The most common attacks are **white-box attacks**:
 
 It is developed in Python and implements extraction, inversion, poisoning and evasion attacks and defenses.
 
-ART supports the most popular frameworks: Tensorflow, Keras, PyTorch, MxNet, ScikitLearn, among many others.
+ART supports the most popular frameworks: Tensorflow, Keras, PyTorch, MxNet, and ScikitLearn among many others.
 
-It is not limited to the use of models that use images as input, but also supports other types of data, such as audio, video, tabular data, etc.
+It is not limited to the use of models that use images as input but also supports other types of data, such as audio, video, tabular data, etc.
 
 > [Workshop to learn Adversarial Machine Learning with ART 🇪🇸](https://github.com/jiep/adversarial-machine-learning)
 
@@ -377,7 +377,7 @@ It implements numerous attacks such as L-BFGS, FGSM, JSMA, C&W, among others.
 
 ## 🔧 Use 🔧
 
-The use of AI to accomplish a malicious task and boost classic attacks.
+AI is used to accomplish malicious tasks and boost classic attacks.
 
 ### 🕵️‍♂️ Pentesting 🕵️‍♂️
 
@@ -402,7 +402,7 @@ The use of AI to accomplish a malicious task and boost classic attacks.
 ### 🗺️ OSINT 🗺️
 
   * [SNAP_R](https://github.com/zerofox-oss/SNAP_R): Generate automatically spear-phishing posts on social media. [![stars](https://badgen.net/github/stars/zerofox-oss/SNAP_R)](https://github.com/zerofox-oss/SNAP_R)
-  * [SpyScrap](https://github.com/RuthGnz/SpyScrap): SpyScrap combines facial recognition methods to filter the results and uses natural language processing for obtaining important entities from the website the user appears. [![stars](https://badgen.net/github/stars/RuthGnz/SpyScrap)](https://github.com/RuthGnz/SpyScrap)
+  * [SpyScrap](https://github.com/RuthGnz/SpyScrap): SpyScrap combines facial recognition methods to filter the results and uses natural language processing to obtain important entities from the website the user appears. [![stars](https://badgen.net/github/stars/RuthGnz/SpyScrap)](https://github.com/RuthGnz/SpyScrap)
 
 ### 📧 Phishing 📧
 
@@ -425,7 +425,7 @@ The use of AI to accomplish a malicious task and boost classic attacks.
   * [Vall-E](https://github.com/enhuiz/vall-e): An unofficial PyTorch implementation of the audio LM VALL-E. [![stars](https://badgen.net/github/stars/enhuiz/vall-e)](https://github.com/enhuiz/vall-e)
   * [voice-changer](https://github.com/w-okada/voice-changer): Realtime Voice Changer. [![stars](https://badgen.net/github/stars/w-okada/voice-changer)](https://github.com/w-okada/voice-changer)
   * [Retrieval-based-Voice-Conversion-WebUI](https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI): An easy-to-use Voice Conversion framework based on VITS. [![stars](https://badgen.net/github/stars/RVC-Project/Retrieval-based-Voice-Conversion-WebUI)](https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI)
-  * [Audiocraft](https://github.com/facebookresearch/audiocraft): Audiocraft is a library for audio processing and generation with deep learning. It features the state-of-the-art EnCodec audio compressor / tokenizer, along with MusicGen, a simple and controllable music generation LM with textual and melodic conditioning. [![stars](https://badgen.net/github/stars/facebookresearch/audiocraft)](https://github.com/facebookresearch/audiocraft)
+  * [Audiocraft](https://github.com/facebookresearch/audiocraft): Audiocraft is a library for audio processing and generation with deep learning. It features the state-of-the-art EnCodec audio compressor/tokenizer, along with MusicGen, a simple and controllable music generation LM with textual and melodic conditioning. [![stars](https://badgen.net/github/stars/facebookresearch/audiocraft)](https://github.com/facebookresearch/audiocraft)
   * [VALL-E-X](https://github.com/Plachtaa/VALL-E-X): An open source implementation of Microsoft's VALL-E X zero-shot TTS model. [![stars](https://badgen.net/github/stars/Plachtaa/VALL-E-X)](https://github.com/Plachtaa/VALL-E-X)
   * [OpenVoice](https://github.com/myshell-ai/OpenVoice): Instant voice cloning by MyShell. [![stars](https://badgen.net/github/stars/myshell-ai/OpenVoice)](https://github.com/myshell-ai/OpenVoice)
   * [MeloTTS](https://github.com/myshell-ai/MeloTTS): High-quality multi-lingual text-to-speech library by MyShell.ai. Support English, Spanish, French, Chinese, Japanese and Korean. [![stars](https://badgen.net/github/stars/myshell-ai/MeloTTS)](https://github.com/myshell-ai/MeloTTS)
@@ -446,7 +446,7 @@ The use of AI to accomplish a malicious task and boost classic attacks.
   * [YourTTS](https://github.com/Edresson/YourTTS): Towards Zero-Shot Multi-Speaker TTS and Zero-Shot Voice Conversion for everyone. [![stars](https://badgen.net/github/stars/Edresson/YourTTS)](https://github.com/Edresson/YourTTS)
   * [TorToiSe](https://github.com/neonbjb/tortoise-tts): A multi-voice TTS system trained with an emphasis on quality. [![stars](https://badgen.net/github/stars/neonbjb/tortoise-tts)](https://github.com/neonbjb/tortoise-tts)
   * [DiffSinger](https://github.com/MoonInTheRiver/DiffSinger): Singing Voice Synthesis via Shallow Diffusion Mechanism (SVS & TTS). [![stars](https://badgen.net/github/stars/MoonInTheRiver/DiffSinger)](https://github.com/MoonInTheRiver/DiffSinger)
-  * [WaveNet vocoder](https://github.com/r9y9/wavenet_vocoder): Implementation of the WaveNet vocoder, which can generate high quality raw speech samples conditioned on linguistic or acoustic features. [![stars](https://badgen.net/github/stars/r9y9/wavenet_vocoder)](https://github.com/r9y9/wavenet_vocoder)
+  * [WaveNet vocoder](https://github.com/r9y9/wavenet_vocoder): Implementation of the WaveNet vocoder, which can generate high-quality raw speech samples conditioned on linguistic or acoustic features. [![stars](https://badgen.net/github/stars/r9y9/wavenet_vocoder)](https://github.com/r9y9/wavenet_vocoder)
   * [Deepvoice3_pytorch](https://github.com/r9y9/deepvoice3_pytorch): PyTorch implementation of convolutional neural networks-based text-to-speech synthesis models. [![stars](https://badgen.net/github/stars/r9y9/deepvoice3_pytorch)](https://github.com/r9y9/deepvoice3_pytorch)
   * [eSpeak NG Text-to-Speech](https://github.com/espeak-ng/espeak-ng): eSpeak NG is an open source speech synthesizer that supports more than hundred languages and accents. [![stars](https://badgen.net/github/stars/espeak-ng/espeak-ng)](https://github.com/espeak-ng/espeak-ng)
   * [RealChar](https://github.com/Shaunwei/RealChar): Create, Customize and Talk to your AI Character/Companion in Realtime (All in One Codebase!). Have a natural seamless conversation with AI everywhere (mobile, web and terminal) using LLM OpenAI GPT3.5/4, Anthropic Claude2, Chroma Vector DB, Whisper Speech2Text, ElevenLabs Text2Speech. [![stars](https://badgen.net/github/stars/Shaunwei/RealChar)](https://github.com/Shaunwei/RealChar)
@@ -479,35 +479,35 @@ The use of AI to accomplish a malicious task and boost classic attacks.
   * [stylegan2-ada-pytorch](https://github.com/NVlabs/stylegan2-ada-pytorch): StyleGAN2-ADA - Official PyTorch implementation. [![stars](https://badgen.net/github/stars/NVlabs/stylegan2-ada-pytorch)](https://github.com/NVlabs/stylegan2-ada-pytorch)
   * [StyleGAN-nada](https://github.com/rinongal/StyleGAN-nada): CLIP-Guided Domain Adaptation of Image Generators. [![stars](https://badgen.net/github/stars/rinongal/StyleGAN-nada)](https://github.com/rinongal/StyleGAN-nada)
   * [StyleGAN3](https://github.com/NVlabs/stylegan3): Official PyTorch implementation of StyleGAN3. [![stars](https://badgen.net/github/stars/NVlabs/stylegan3)](https://github.com/NVlabs/stylegan3)
-  * [Imaginaire](https://github.com/NVlabs/imaginaire): Imaginaire is a pytorch library that contains optimized implementation of several image and video synthesis methods developed at NVIDIA. [![stars](https://badgen.net/github/stars/NVlabs/imaginaire)](https://github.com/NVlabs/imaginaire)
+  * [Imaginaire](https://github.com/NVlabs/imaginaire): Imaginaire is a pytorch library that contains the optimized implementation of several image and video synthesis methods developed at NVIDIA. [![stars](https://badgen.net/github/stars/NVlabs/imaginaire)](https://github.com/NVlabs/imaginaire)
   * [ffhq-dataset](https://github.com/NVlabs/ffhq-dataset): Flickr-Faces-HQ Dataset (FFHQ). [![stars](https://badgen.net/github/stars/NVlabs/ffhq-dataset)](https://github.com/NVlabs/ffhq-dataset)
   * [DALLE2-pytorch](https://github.com/lucidrains/DALLE2-pytorch): Implementation of DALL-E 2, OpenAI's updated text-to-image synthesis neural network, in Pytorch. [![stars](https://badgen.net/github/stars/lucidrains/DALLE2-pytorch)](https://github.com/lucidrains/DALLE2-pytorch)
   * [ImaginAIry](https://github.com/brycedrennan/imaginAIry): AI imagined images. Pythonic generation of stable diffusion images. [![stars](https://badgen.net/github/stars/brycedrennan/imaginAIry)](https://github.com/brycedrennan/imaginAIry)
-  * [Lama Cleaner](https://github.com/Sanster/lama-cleaner): Image inpainting tool powered by SOTA AI Model. Remove any unwanted object, defect, people from your pictures or erase and replace(powered by stable diffusion) any thing on your pictures. [![stars](https://badgen.net/github/stars/Sanster/lama-cleaner)](https://github.com/Sanster/lama-cleaner)
+  * [Lama Cleaner](https://github.com/Sanster/lama-cleaner): Image inpainting tool powered by SOTA AI Model. Remove any unwanted object, defect, or people from your pictures or erase and replace(powered by stable diffusion) anything on your pictures. [![stars](https://badgen.net/github/stars/Sanster/lama-cleaner)](https://github.com/Sanster/lama-cleaner)
   * [Invertible-Image-Rescaling](https://github.com/pkuxmq/Invertible-Image-Rescaling): This is the PyTorch implementation of paper: Invertible Image Rescaling. [![stars](https://badgen.net/github/stars/pkuxmq/Invertible-Image-Rescaling)](https://github.com/pkuxmq/Invertible-Image-Rescaling)
   * [DifFace](https://github.com/zsyOAOA/DifFace): Blind Face Restoration with Diffused Error Contraction (PyTorch). [![stars](https://badgen.net/github/stars/zsyOAOA/DifFace)](https://github.com/zsyOAOA/DifFace)
   * [CodeFormer](https://github.com/sczhou/CodeFormer): Towards Robust Blind Face Restoration with Codebook Lookup Transformer. [![stars](https://badgen.net/github/stars/sczhou/CodeFormer)](https://github.com/sczhou/CodeFormer)
   * [Custom Diffusion](https://github.com/adobe-research/custom-diffusion): Multi-Concept Customization of Text-to-Image Diffusion. [![stars](https://badgen.net/github/stars/adobe-research/custom-diffusion)](https://github.com/adobe-research/custom-diffusion)
   * [Diffusers](https://github.com/huggingface/diffusers): 🤗 Diffusers: State-of-the-art diffusion models for image and audio generation in PyTorch. [![stars](https://badgen.net/github/stars/huggingface/diffusers)](https://github.com/huggingface/diffusers)
   * [Stable Diffusion](https://github.com/Stability-AI/stablediffusion): High-Resolution Image Synthesis with Latent Diffusion Models. [![stars](https://badgen.net/github/stars/Stability-AI/stablediffusion)](https://github.com/Stability-AI/stablediffusion)
-  * [InvokeAI](https://github.com/invoke-ai/InvokeAI): InvokeAI is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The solution offers an industry leading WebUI, supports terminal use through a CLI, and serves as the foundation for multiple commercial products. [![stars](https://badgen.net/github/stars/invoke-ai/InvokeAI)](https://github.com/invoke-ai/InvokeAI)
+  * [InvokeAI](https://github.com/invoke-ai/InvokeAI): InvokeAI is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The solution offers an industry-leading WebUI, supports terminal use through a CLI, and serves as the foundation for multiple commercial products. [![stars](https://badgen.net/github/stars/invoke-ai/InvokeAI)](https://github.com/invoke-ai/InvokeAI)
   * [Stable Diffusion web UI](https://github.com/AUTOMATIC1111/stable-diffusion-webui): Stable Diffusion web UI. [![stars](https://badgen.net/github/stars/AUTOMATIC1111/stable-diffusion-webui)](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
   * [Stable Diffusion Infinity](https://github.com/lkwq007/stablediffusion-infinity): Outpainting with Stable Diffusion on an infinite canvas. [![stars](https://badgen.net/github/stars/lkwq007/stablediffusion-infinity)](https://github.com/lkwq007/stablediffusion-infinity)
   * [Fast Stable Diffusion](https://github.com/TheLastBen/fast-stable-diffusion): fast-stable-diffusion + DreamBooth. [![stars](https://badgen.net/github/stars/TheLastBen/fast-stable-diffusion)](https://github.com/TheLastBen/fast-stable-diffusion)
   * [GET3D](https://github.com/nv-tlabs/GET3D): A Generative Model of High Quality 3D Textured Shapes Learned from Images. [![stars](https://badgen.net/github/stars/nv-tlabs/GET3D)](https://github.com/nv-tlabs/GET3D)
-  * [Awesome AI Art Image Synthesis](https://github.com/altryne/awesome-ai-art-image-synthesis): A list of awesome tools, ideas, prompt engineering tools, colabs, models, and helpers for the prompt designer playing with aiArt and image synthesis. Covers Dalle2, MidJourney, StableDiffusion, and open source tools. [![stars](https://badgen.net/github/stars/altryne/awesome-ai-art-image-synthesis)](https://github.com/altryne/awesome-ai-art-image-synthesis)
+  * [Awesome AI Art Image Synthesis](https://github.com/altryne/awesome-ai-art-image-synthesis): A list of awesome tools, ideas, prompt engineering tools, collabs, models, and helpers for the prompt designer playing with aiArt and image synthesis. Covers Dalle2, MidJourney, StableDiffusion, and open source tools. [![stars](https://badgen.net/github/stars/altryne/awesome-ai-art-image-synthesis)](https://github.com/altryne/awesome-ai-art-image-synthesis)
   * [Stable Diffusion](https://github.com/CompVis/stable-diffusion): A latent text-to-image diffusion model. [![stars](https://badgen.net/github/stars/CompVis/stable-diffusion)](https://github.com/CompVis/stable-diffusion)
   * [Weather Diffusion](https://github.com/IGITUGraz/WeatherDiffusion): Code for "Restoring Vision in Adverse Weather Conditions with Patch-Based Denoising Diffusion Models". [![stars](https://badgen.net/github/stars/IGITUGraz/WeatherDiffusion)](https://github.com/IGITUGraz/WeatherDiffusion)
   * [DF-GAN](https://github.com/tobran/DF-GAN): A Simple and Effective Baseline for Text-to-Image Synthesis. [![stars](https://badgen.net/github/stars/tobran/DF-GAN)](https://github.com/tobran/DF-GAN)
   * [Dall-E Playground](https://github.com/saharmor/dalle-playground): A playground to generate images from any text prompt using Stable Diffusion (past: using DALL-E Mini). [![stars](https://badgen.net/github/stars/saharmor/dalle-playground)](https://github.com/saharmor/dalle-playground)
   * [MM-CelebA-HQ-Dataset](https://github.com/IIGROUP/MM-CelebA-HQ-Dataset): A large-scale face image dataset that allows text-to-image generation, text-guided image manipulation, sketch-to-image generation, GANs for face generation and editing, image caption, and VQA. [![stars](https://badgen.net/github/stars/IIGROUP/MM-CelebA-HQ-Dataset)](https://github.com/IIGROUP/MM-CelebA-HQ-Dataset)
-  * [Deep Daze](https://github.com/lucidrains/deep-daze): Simple command line tool for text to image generation using OpenAI's CLIP and Siren (Implicit neural representation network). [![stars](https://badgen.net/github/stars/lucidrains/deep-daze)](https://github.com/lucidrains/deep-daze)
+  * [Deep Daze](https://github.com/lucidrains/deep-daze): Simple command line tool for text-to-image generation using OpenAI's CLIP and Siren (Implicit neural representation network). [![stars](https://badgen.net/github/stars/lucidrains/deep-daze)](https://github.com/lucidrains/deep-daze)
   * [StyleMapGAN](https://github.com/naver-ai/StyleMapGAN): Exploiting Spatial Dimensions of Latent in GAN for Real-time Image Editing. [![stars](https://badgen.net/github/stars/naver-ai/StyleMapGAN)](https://github.com/naver-ai/StyleMapGAN)
   * [Kandinsky-2](https://github.com/ai-forever/Kandinsky-2): Multilingual text2image latent diffusion model. [![stars](https://badgen.net/github/stars/ai-forever/Kandinsky-2)](https://github.com/ai-forever/Kandinsky-2)
   * [DragGAN](https://github.com/XingangPan/DragGAN): Interactive Point-based Manipulation on the Generative Image Manifold. [![stars](https://badgen.net/github/stars/XingangPan/DragGAN)](https://github.com/XingangPan/DragGAN)
   * [Segment Anything](https://github.com/facebookresearch/segment-anything): The repository provides code for running inference with the SegmentAnything Model (SAM), links for downloading the trained model checkpoints, and example notebooks that show how to use the model. [![stars](https://badgen.net/github/stars/facebookresearch/segment-anything)](https://github.com/facebookresearch/segment-anything)
   * [Segment Anything 2](https://github.com/facebookresearch/segment-anything-2): The repository provides code for running inference with the Meta Segment Anything Model 2 (SAM 2), links for downloading the trained model checkpoints, and example notebooks that show how to use the model. [![stars](https://badgen.net/github/stars/facebookresearch/segment-anything-2)](https://github.com/facebookresearch/segment-anything-2)
-  * [MobileSAM](https://github.com/ChaoningZhang/MobileSAM): This is the official code for MobileSAM project that makes SAM lightweight for mobile applications and beyond! [![stars](https://badgen.net/github/stars/ChaoningZhang/MobileSAM)](https://github.com/ChaoningZhang/MobileSAM)
+  * [MobileSAM](https://github.com/ChaoningZhang/MobileSAM): This is the official code for the MobileSAM project that makes SAM lightweight for mobile applications and beyond! [![stars](https://badgen.net/github/stars/ChaoningZhang/MobileSAM)](https://github.com/ChaoningZhang/MobileSAM)
   * [FastSAM](https://github.com/CASIA-IVA-Lab/FastSAM): Fast Segment Anything
  [![stars](https://badgen.net/github/stars/CASIA-IVA-Lab/FastSAM)](https://github.com/CASIA-IVA-Lab/FastSAM)
   * [Infinigen](https://github.com/princeton-vl/infinigen): Infinite Photorealistic Worlds using Procedural Generation. [![stars](https://badgen.net/github/stars/princeton-vl/infinigen)](https://github.com/princeton-vl/infinigen)
@@ -552,7 +552,7 @@ The use of AI to accomplish a malicious task and boost classic attacks.
   * [End-to-end Trained CNN Encode-Decoder Networks for Image Steganography](https://arxiv.org/abs/1711.07201)
   * [Grounded-Segment-Anything](https://github.com/IDEA-Research/Grounded-Segment-Anything): Marrying Grounding DINO with Segment Anything & Stable Diffusion & Tag2Text & BLIP & Whisper & ChatBot - Automatically Detect , Segment and Generate Anything with Image, Text, and Audio Inputs. [![stars](https://badgen.net/github/stars/IDEA-Research/Grounded-Segment-Anything)](https://github.com/IDEA-Research/Grounded-Segment-Anything)
   * [AnimateDiff](https://github.com/guoyww/AnimateDiff): Animate Your Personalized Text-to-Image Diffusion Models without Specific Tuning. [![stars](https://badgen.net/github/stars/guoyww/AnimateDiff)](https://github.com/guoyww/AnimateDiff)
-  * [BasicSR](https://github.com/XPixelGroup/BasicSR): Open Source Image and Video Restoration Toolbox for Super-resolution, Denoise, Deblurring, etc. Currently, it includes EDSR, RCAN, SRResNet, SRGAN, ESRGAN, EDVR, BasicVSR, SwinIR, ECBSR, etc. Also support StyleGAN2, DFDNet. [![stars](https://badgen.net/github/stars/XPixelGroup/BasicSR)](https://github.com/XPixelGroup/
+  * [BasicSR](https://github.com/XPixelGroup/BasicSR): Open Source Image and Video Restoration Toolbox for Super-resolution, Denoise, Deblurring, etc. Currently, it includes EDSR, RCAN, SRResNet, SRGAN, ESRGAN, EDVR, BasicVSR, SwinIR, ECBSR, etc. Also support StyleGAN2 and DFDNet. [![stars](https://badgen.net/github/stars/XPixelGroup/BasicSR)](https://github.com/XPixelGroup/
   BasicSR)
   * [Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN): Real-ESRGAN aims at developing Practical Algorithms for General Image/Video Restoration. [![stars](https://badgen.net/github/stars/xinntao/Real-ESRGAN)](https://github.com/xinntao/Real-ESRGAN)
   * [ESRGAN](https://github.com/xinntao/ESRGAN): Enhanced SRGAN. Champion PIRM Challenge on Perceptual Super-Resolution. [![stars](https://badgen.net/github/stars/xinntao/ESRGAN)](https://github.com/xinntao/ESRGAN)
@@ -614,7 +614,7 @@ The use of AI to accomplish a malicious task and boost classic attacks.
   * [Moore-AnimateAnyone](https://github.com/MooreThreads/Moore-AnimateAnyone): This repository reproduces AnimateAnyone. [![stars](https://badgen.net/github/stars/MooreThreads/Moore-AnimateAnyone)](https://github.com/MooreThreads/Moore-AnimateAnyone)
   * [audio2photoreal](https://github.com/facebookresearch/audio2photoreal): From Audio to Photoreal Embodiment: Synthesizing Humans in Conversations. [![stars](https://badgen.net/github/stars/facebookresearch/audio2photoreal)](https://github.com/facebookresearch/audio2photoreal)
   * [MagicVideo-V2: Multi-Stage High-Aesthetic Video Generation](https://magicvideov2.github.io/)
-  * [LWM](https://github.com/LargeWorldModel/LWM): A general-purpose large-context multimodal autoregressive model. It is trained on a large dataset of diverse long videos and books using RingAttention, and can perform language, image, and video understanding and generation. [![stars](https://badgen.net/github/stars/LargeWorldModel/LWM)](https://github.com/LargeWorldModel/LWM)
+  * [LWM](https://github.com/LargeWorldModel/LWM): A general-purpose large-context multimodal autoregressive model. It is trained on a large dataset of diverse long videos and books using RingAttention and can perform language, image, and video understanding and generation. [![stars](https://badgen.net/github/stars/LargeWorldModel/LWM)](https://github.com/LargeWorldModel/LWM)
   * [AniPortrait](https://github.com/Zejun-Yang/AniPortrait): Audio-Driven Synthesis of Photorealistic Portrait Animation. [![stars](https://badgen.net/github/stars/Zejun-Yang/AniPortrait)](https://github.com/Zejun-Yang/AniPortrait)
   * [Champ](https://github.com/fudan-generative-vision/champ): Controllable and Consistent Human Image Animation with 3D Parametric Guidance. [![stars](https://badgen.net/github/stars/fudan-generative-vision/champ)](https://github.com/fudan-generative-vision/champ)
   * [Streamv2v](https://github.com/Jeff-LiangF/streamv2v): Streaming Video-to-Video Translation with Feature Banks. [![stars](https://badgen.net/github/stars/Jeff-LiangF/streamv2v)](https://github.com/Jeff-LiangF/streamv2v)
@@ -655,7 +655,7 @@ The use of AI to accomplish a malicious task and boost classic attacks.
   * [burgpt](https://github.com/aress31/burpgpt): A Burp Suite extension that integrates OpenAI's GPT to perform an additional passive scan for discovering highly bespoke vulnerabilities, and enables running traffic-based analysis of any type. [![stars](https://badgen.net/github/stars/aress31/burpgpt)](https://github.com/aress31/burpgpt)
   * [Ollama](https://github.com/jmorganca/ollama): Get up and running with Llama 2 and other large language models locally. [![stars](https://badgen.net/github/stars/jmorganca/ollama)](https://github.com/jmorganca/ollama)
   * [SneakyPrompt](https://github.com/Yuchen413/text2image_safety): Jailbreaking Text-to-image Generative Models. [![stars](https://badgen.net/github/stars/Yuchen413/text2image_safety)](https://github.com/Yuchen413/text2image_safety)
-    * [Copilot-For-Security](https://github.com/Azure/Copilot-For-Security): A generative AI-powered security solution that helps increase the efficiency and capabilities of defenders to improve security outcomes at machine speed and scale, while remaining compliant to responsible AI principles. [![stars](https://badgen.net/github/stars/Azure/Copilot-For-Security)](https://github.com/Azure/Copilot-For-Security)
+    * [Copilot-For-Security](https://github.com/Azure/Copilot-For-Security): A generative AI-powered security solution that helps increase the efficiency and capabilities of defenders to improve security outcomes at machine speed and scale, while remaining compliant with responsible AI principles. [![stars](https://badgen.net/github/stars/Azure/Copilot-For-Security)](https://github.com/Azure/Copilot-For-Security)
   * [LM Studio](https://lmstudio.ai/): Discover, download, and run local LLMs
   * [Bypass GPT: Convert AI Text to Human-like Content](https://bypassgpt.ai/)
   * [MGM](https://github.com/dvlab-research/MGM): The framework supports a series of dense and MoE Large Language Models (LLMs) from 2B to 34B with image understanding, reasoning, and generation simultaneously. [![stars](https://badgen.net/github/stars/dvlab-research/MGM)](https://github.com/dvlab-research/MGM)
@@ -774,7 +774,7 @@ The use of AI to accomplish a malicious task and boost classic attacks.
   * [Deploying AI Systems Securely. Best Practices for Deploying Secure and Resilient AI Systems](https://media.defense.gov/2024/Apr/15/2003439257/-1/-1/0/CSI-DEPLOYING-AI-SYSTEMS-SECURELY.PDF)
   * [NIST AI 600-1: Artificial Intelligence Risk Management Framework: Generative Artificial Intelligence Profile](https://airc.nist.gov/docs/NIST.AI.600-1.GenAI-Profile.ipd.pdf)
   * [:fr: ANSSI: Recommandations De Sécurité Pour Un Système d'IA Générative (Security Recommendations for a Generative AI System)](https://cyber.gouv.fr/sites/default/files/document/Recommandations_de_s%C3%A9curit%C3%A9_pour_un_syst%C3%A8me_d_IA_g%C3%A9n%C3%A9rative.pdf)
-  * [PyRIT](https://github.com/Azure/PyRIT): The Python Risk Identification Tool for generative AI (PyRIT) is an open access automation framework to empower security professionals and machine learning engineers to proactively find risks in their generative AI systems. [![stars](https://badgen.net/github/stars/Azure/PyRIT)](https://github.com/Azure/PyRIT)
+  * [PyRIT](https://github.com/Azure/PyRIT): The Python Risk Identification Tool for generative AI (PyRIT) is an open-access automation framework to empower security professionals and machine learning engineers to proactively find risks in their generative AI systems. [![stars](https://badgen.net/github/stars/Azure/PyRIT)](https://github.com/Azure/PyRIT)
   * [Towards Guaranteed Safe AI: A Framework for Ensuring Robust and Reliable AI Systems](https://arxiv.org/abs/2405.06624)
   * [Defining Real AI Risks](https://josephthacker.com/ai/2024/05/19/defining-real-ai-risks.html)
   * [Secure approach to generative AI](https://aws.amazon.com/es/ai/generative-ai/security/)
@@ -789,11 +789,11 @@ The use of AI to accomplish a malicious task and boost classic attacks.
 
   * [The Threat of Offensive AI to Organizations](https://arxiv.org/abs/2106.15764)
   * [Artificial Intelligence in the Cyber Domain: Offense and Defense](https://www.mdpi.com/2073-8994/12/3/410)
-  * [A survey on adversarial attacks and defences](https://ietresearch.onlinelibrary.wiley.com/doi/10.1049/cit2.12028)
+  * [A survey on adversarial attacks and defenses](https://ietresearch.onlinelibrary.wiley.com/doi/10.1049/cit2.12028)
   * [Adversarial Deep Learning: A Survey on Adversarial Attacks and Defense Mechanisms on Image Classification](https://ieeexplore.ieee.org/document/9895425)
   * [A Survey of Privacy Attacks in Machine Learning](https://arxiv.org/abs/2007.07646)
   * [Towards Security Threats of Deep Learning Systems: A Survey](https://arxiv.org/abs/1911.12562)
-  * [A Survey on Security Threats and Defensive Techniques of Machine Learning: A Data Driven View](https://ieeexplore.ieee.org/document/8290925)
+  * [A Survey on Security Threats and Defensive Techniques of Machine Learning: A Data-Driven View](https://ieeexplore.ieee.org/document/8290925)
   * [SoK: Security and Privacy in Machine Learning](https://ieeexplore.ieee.org/document/8406613)
   * [Adversarial Machine Learning: The Rise in AI-Enabled Crime and its Role in Spam Filter Evasion](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4155496)
   * [Threats, Vulnerabilities, and Controls of Machine Learning Based Systems: A Survey and Taxonomy](https://arxiv.org/abs/2301.07474)
@@ -817,4 +817,4 @@ The use of AI to accomplish a malicious task and boost classic attacks.
 
 [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
 
-* [Creative Commons Attribution Share Alike 4.0 International](LICENSE.txt)
+* [Creative Commons Attribution-Share Alike 4.0 International](LICENSE.txt)
