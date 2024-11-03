@@ -168,6 +168,7 @@ Three types are possible:
   * [Realistic fingerprint presentation attacks based on an adversarial approach](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10295513)
   * [Active Adversarial Tests](https://github.com/google-research/active-adversarial-tests): Increasing Confidence in Adversarial Robustness Evaluations. [![stars](https://badgen.net/github/stars/google-research/active-adversarial-tests)](https://github.com/google-research/active-adversarial-tests)
   * [GPT Jailbreak Status](https://github.com/tg12/gpt_jailbreak_status): Updates on the status of jailbreaking the OpenAI GPT language model. [![stars](https://badgen.net/github/stars/tg12/gpt_jailbreak_status)](https://github.com/tg12/gpt_jailbreak_status)
+  * [Order of Magnitude Speedups for LLM Membership Inference](https://arxiv.org/abs/2409.14513)
 
 ##### 💉 Poisoning 💉
 
@@ -388,6 +389,7 @@ AI is used to accomplish malicious tasks and boost classic attacks.
   * [Eyeballer](https://github.com/BishopFox/eyeballer): Eyeballer is meant for large-scope network penetration tests where you need to find "interesting" targets from a huge set of web-based hosts. [![stars](https://badgen.net/github/stars/BishopFox/eyeballer)](https://github.com/BishopFox/eyeballer)
   * [Nebula](https://github.com/berylliumsec/nebula): AI-Powered Ethical Hacking Assistant. [![stars](https://badgen.net/github/stars/berylliumsec/nebula)](https://github.com/berylliumsec/nebula)
   * [Teams of LLM Agents can Exploit Zero-Day Vulnerabilities](https://arxiv.org/abs/2406.01637)
+  * [Insights and Current Gaps in Open-Source LLM Vulnerability Scanners: A Comparative Analysis](https://arxiv.org/abs/2410.16527)
 
 ### 🦠 Malware 🦠
 
@@ -784,6 +786,7 @@ AI is used to accomplish malicious tasks and boost classic attacks.
   * [AI Risk Repository](https://airisk.mit.edu/)
   * [Revisiting AI Red-Teaming](https://cset.georgetown.edu/article/revisiting-ai-red-teaming/)
   * [German-French recommendations for the use of AI programming assistants](https://www.bsi.bund.de/SharedDocs/Downloads/EN/BSI/KI/ANSSI_BSI_AI_Coding_Assistants.html)
+  * [Scalable watermarking for identifying large language model outputs](https://www.nature.com/articles/s41586-024-08025-4)
 
 ## 📊 Surveys 📊
 
