@@ -414,6 +414,11 @@ AI is used to accomplish malicious tasks and boost classic attacks.
 
   * [From Sands to Mansions: Enabling Automatic Full-Life-Cycle Cyberattack Construction with LLM](https://arxiv.org/abs/2407.16928) 
 
+
+### 🌀 Side channels 🌀
+
+  * [SCAAML](https://github.com/google/scaaml): Side Channel Attacks Assisted with Machine Learning. [![stars](https://badgen.net/github/stars/google/scaaml)](https://github.com/google/scaaml)
+
 ### 👨‍🎤 Generative AI 👨‍🎤
 
 #### 🔊 Audio 🔊
@@ -777,6 +782,7 @@ AI is used to accomplish malicious tasks and boost classic attacks.
   * [NIST AI 600-1: Artificial Intelligence Risk Management Framework: Generative Artificial Intelligence Profile](https://airc.nist.gov/docs/NIST.AI.600-1.GenAI-Profile.ipd.pdf)
   * [:fr: ANSSI: Recommandations De Sécurité Pour Un Système d'IA Générative (Security Recommendations for a Generative AI System)](https://cyber.gouv.fr/sites/default/files/document/Recommandations_de_s%C3%A9curit%C3%A9_pour_un_syst%C3%A8me_d_IA_g%C3%A9n%C3%A9rative.pdf)
   * [PyRIT](https://github.com/Azure/PyRIT): The Python Risk Identification Tool for generative AI (PyRIT) is an open-access automation framework to empower security professionals and machine learning engineers to proactively find risks in their generative AI systems. [![stars](https://badgen.net/github/stars/Azure/PyRIT)](https://github.com/Azure/PyRIT)
+  * [OWASP-Agentic-AI](https://github.com/precize/OWASP-Agentic-AI): Working to create the OWASP Top 10 for Agentic AI (AI Agent Security). [![stars](https://badgen.net/github/stars/precize/OWASP-Agentic-AI)](https://github.com/precize/OWASP-Agentic-AI)
   * [Towards Guaranteed Safe AI: A Framework for Ensuring Robust and Reliable AI Systems](https://arxiv.org/abs/2405.06624)
   * [Defining Real AI Risks](https://josephthacker.com/ai/2024/05/19/defining-real-ai-risks.html)
   * [Secure approach to generative AI](https://aws.amazon.com/es/ai/generative-ai/security/)
