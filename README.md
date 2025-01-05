@@ -759,7 +759,7 @@ AI is used to accomplish malicious tasks and boost classic attacks.
   * [Multilayer Framework for Good Cybersecurity Practices for AI](https://www.enisa.europa.eu/publications/multilayer-framework-for-good-cybersecurity-practices-for-ai)
   * [Introducing Google’s Secure AI Framework](https://blog.google/technology/safety-security/introducing-googles-secure-ai-framework/)
   * [OWASP Top 10 for LLM](https://owasp.org/www-project-top-10-for-large-language-model-applications/assets/PDF/OWASP-Top-10-for-LLMs-2023-v1_0.pdf)
-  * [Awesome LLM Security](https://github.com/awesome-llm-security): A curation of awesome tools, documents and projects about LLM Security. [![stars](https://badgen.net/github/stars/awesome-llm-security)](https://github.com/awesome-llm-security)
+  * [Awesome LLM Security](https://github.com/corca-ai/awesome-llm-security): A curation of awesome tools, documents and projects about LLM Security. [![stars](https://badgen.net/github/stars/corca-ai/awesome-llm-security)](https://github.com/corca-ai/awesome-llm-security)
   * A framework to securely use LLMs in companies. [Part 1: Overview of Risks](https://boringappsec.substack.com/p/edition-21-a-framework-to-securely). [Part 2: Managing risk](https://boringappsec.substack.com/p/edition-22-a-framework-to-securely). [Part 3: Securing ChatGPT and GitHub Copilot](https://boringappsec.substack.com/p/edition-23-a-framework-to-securely).
   * [A Study on Robustness and Reliability of Large Language Model Code Generation](https://arxiv.org/abs/2308.10335)
   * [Identifying AI-generated images with SynthID](https://www.deepmind.com/blog/identifying-ai-generated-images-with-synthid)
