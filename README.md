@@ -180,7 +180,7 @@ This attack is difficult to detect when performed on the training data since the
 
 The adversary seeks to destroy the availability of the model by modifying the decision boundary and, as a result, producing incorrect predictions or, create a backdoor in a model. In the latter, the model behaves correctly (returning the desired predictions) in most cases, except for certain inputs specially created by the adversary that produce undesired results. The adversary can manipulate the results of the predictions and launch future attacks.
 
-###### 🔓 Backdoors 🔓
+##### 🔓 Backdoors 🔓
 
 [BadNets](https://arxiv.org/abs/1708.06733) are the simplest type of backdoor in a machine learning model. Moreover, BadNets are able to be preserved in a model, even if they are retrained again for a different task than the original model (transfer learning).
 
@@ -222,6 +222,7 @@ It is important to note that **public pre-trained models may contain backdoors**
   * [How To Backdoor Federated Learning](https://arxiv.org/abs/1807.00459)
   * [Planting Undetectable Backdoors in Machine Learning Models](https://arxiv.org/abs/2204.06974)
   * [Fool the AI!](https://fooltheai.mybluemix.net/): Hackers can use backdoors to poison training data and cause an AI model to misclassify images. Learn how IBM researchers can tell when data has been poisoned, and then guess what backdoors have been hidden in these datasets. Can you guess the backdoor?
+  * [Backdoor Toolbox](https://github.com/vtu81/backdoor-toolbox): A compact toolbox for backdoor attacks and defenses. [![stars](https://badgen.net/github/stars/vtu81/backdoor-toolbox)](https://github.com/vtu81/backdoor-toolbox)
 
 ##### 🏃‍♂️ Evasion 🏃‍♂️
 
@@ -467,6 +468,10 @@ AI is used to accomplish malicious tasks and boost classic attacks.
   * [stable-audio-tools](https://github.com/Stability-AI/stable-audio-tools): Generative models for conditional audio generation. [![stars](https://badgen.net/github/stars/Stability-AI/stable-audio-tools)](https://github.com/Stability-AI/stable-audio-tools)
   * [GPT-SoVITS-WebUI](https://github.com/RVC-Boss/GPT-SoVITS): 1 min voice data can also be used to train a good TTS model! (few shot voice cloning). [![stars](https://badgen.net/github/stars/RVC-Boss/GPT-SoVITS)](https://github.com/RVC-Boss/GPT-SoVITS)
   * [Hybrid-Net](https://github.com/DoMusic/Hybrid-Net): Real-time audio source separation, generate lyrics, chords, beat. [![stars](https://badgen.net/github/stars/DoMusic/Hybrid-Net)](https://github.com/DoMusic/Hybrid-Net)
+  * [CosyVoice](https://github.com/FunAudioLLM/CosyVoice): Multi-lingual large voice generation model, providing inference, training and deployment full-stack ability. [![stars](https://badgen.net/github/stars/FunAudioLLM/CosyVoice)](https://github.com/FunAudioLLM/CosyVoice)
+  * [EasyVolcap](https://github.com/zju3dv/EasyVolcap): Accelerating Neural Volumetric Video Research. [![stars](https://badgen.net/github/stars/zju3dv/EasyVolcap)](https://github.com/zju3dv/EasyVolcap)
+
+
 
 ##### 🔎 Detection 🔎
   * [fake-voice-detection](https://github.com/dessa-oss/fake-voice-detection): Using temporal convolution to detect Audio Deepfakes. [![stars](https://badgen.net/github/stars/dessa-oss/fake-voice-detection)](https://github.com/dessa-oss/fake-voice-detection)
@@ -567,7 +572,8 @@ AI is used to accomplish malicious tasks and boost classic attacks.
   * [Clarity-upscaler](https://github.com/philz1337x/clarity-upscaler): Reimagined image upscaling for everyone. [![stars](https://badgen.net/github/stars/philz1337x/clarity-upscaler)](https://github.com/philz1337x/clarity-upscaler)
   * [One-step Diffusion with Distribution Matching Distillation](https://tianweiy.github.io/dmd/)
   * [Invisible Stitch](https://github.com/paulengstler/invisible-stitch): Generating Smooth 3D Scenes with Depth Inpainting. [![stars](https://badgen.net/github/stars/paulengstler/invisible-stitch)](https://github.com/paulengstler/invisible-stitch)
-  * [SSR](https://github.com/paulengstler/https://github.com/DaLi-Jack/SSR-code): Single-view 3D Scene Reconstruction with High-fidelity Shape and Texture. [![stars](https://badgen.net/github/stars/paulengstler/https://github.com/DaLi-Jack/SSR-code)](https://github.com/paulengstler/https://github.com/DaLi-Jack/SSR-code)
+  * [SSR](https://github.com/DaLi-Jack/SSR-code): Single-view 3D Scene Reconstruction with High-fidelity Shape and Texture. [![stars](https://badgen.net/github/stars/DaLi-Jack/SSR-code)](https://github.com/paulengstler/https://github.com/DaLi-Jack/SSR-code)
+  * [InvSR](https://github.com/zsyOAOA/InvSR): Arbitrary-steps Image Super-resolution via Diffusion Inversion. [![stars](https://badgen.net/github/stars/zsyOAOA/InvSR)](https://github.com/zsyOAOA/InvSR)
 
 
 
