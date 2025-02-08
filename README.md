@@ -223,6 +223,8 @@ It is important to note that **public pre-trained models may contain backdoors**
   * [Planting Undetectable Backdoors in Machine Learning Models](https://arxiv.org/abs/2204.06974)
   * [Fool the AI!](https://fooltheai.mybluemix.net/): Hackers can use backdoors to poison training data and cause an AI model to misclassify images. Learn how IBM researchers can tell when data has been poisoned, and then guess what backdoors have been hidden in these datasets. Can you guess the backdoor?
   * [Backdoor Toolbox](https://github.com/vtu81/backdoor-toolbox): A compact toolbox for backdoor attacks and defenses. [![stars](https://badgen.net/github/stars/vtu81/backdoor-toolbox)](https://github.com/vtu81/backdoor-toolbox)
+  * [LaserGuider: A Laser Based Physical Backdoor Attack against Deep Neural Networks](https://www.arxiv.org/abs/2412.03993)
+  * [Energy-latency attacks via sponge poisoning](https://www.sciencedirect.com/science/article/abs/pii/S0020025525000374)
 
 ##### 🏃‍♂️ Evasion 🏃‍♂️
 
@@ -337,6 +339,9 @@ The most common attacks are **white-box attacks**:
   * [Mitigating Skeleton Key, a new type of generative AI jailbreak technique](https://www.microsoft.com/en-us/security/blog/2024/06/26/mitigating-skeleton-key-a-new-type-of-generative-ai-jailbreak-technique/)
   * [Image Obfuscation Benchmark](https://github.com/google-deepmind/image_obfuscation_benchmark): This repository contains the code to evaluate models on the image obfuscation benchmark, first presented in [Benchmarking Robustness to Adversarial Image Obfuscations](https://arxiv.org/abs/2301.12993). [![stars](https://badgen.net/github/stars/google-deepmind/image_obfuscation_benchmark)](https://github.com/google-deepmind/image_obfuscation_benchmark)
   * [Jailbreaking Large Language Models with Symbolic Mathematics](https://arxiv.org/abs/2409.11445)
+  * [Adversarial Reasoning at Jailbreaking Time](https://arxiv.org/abs/2502.01633)
+  * [How we estimate the risk from prompt injection attacks on AI systems](https://security.googleblog.com/2025/01/how-we-estimate-risk-from-prompt.html)
+  * [Adversarial Misuse of Generative AI](https://cloud.google.com/blog/topics/threat-intelligence/adversarial-misuse-generative-ai)
 
 
 #### 🛠️ Tools 🛠️
@@ -799,6 +804,8 @@ AI is used to accomplish malicious tasks and boost classic attacks.
   * [Revisiting AI Red-Teaming](https://cset.georgetown.edu/article/revisiting-ai-red-teaming/)
   * [German-French recommendations for the use of AI programming assistants](https://www.bsi.bund.de/SharedDocs/Downloads/EN/BSI/KI/ANSSI_BSI_AI_Coding_Assistants.html)
   * [Scalable watermarking for identifying large language model outputs](https://www.nature.com/articles/s41586-024-08025-4)
+  * [Lessons from red teaming 100 generative AI products](https://airedteamwhitepapers.blob.core.windows.net/lessonswhitepaper/MS_AIRT_Lessons_eBook.pdf)
+  * [LLM red teaming guide](https://www.promptfoo.dev/docs/red-team/) 
 
 ## 📊 Surveys 📊
 
