@@ -579,6 +579,7 @@ AI is used to accomplish malicious tasks and boost classic attacks.
   * [Invisible Stitch](https://github.com/paulengstler/invisible-stitch): Generating Smooth 3D Scenes with Depth Inpainting. [![stars](https://badgen.net/github/stars/paulengstler/invisible-stitch)](https://github.com/paulengstler/invisible-stitch)
   * [SSR](https://github.com/DaLi-Jack/SSR-code): Single-view 3D Scene Reconstruction with High-fidelity Shape and Texture. [![stars](https://badgen.net/github/stars/DaLi-Jack/SSR-code)](https://github.com/paulengstler/https://github.com/DaLi-Jack/SSR-code)
   * [InvSR](https://github.com/zsyOAOA/InvSR): Arbitrary-steps Image Super-resolution via Diffusion Inversion. [![stars](https://badgen.net/github/stars/zsyOAOA/InvSR)](https://github.com/zsyOAOA/InvSR)
+  * [REPARO](https://github.com/VincentHancoder/REPARO): Compositional 3D Assets Generation with Differentiable 3D Layout Alignment. [![stars](https://badgen.net/github/stars/VincentHancoder/REPARO)](https://github.com/VincentHancoder/REPARO)
 
 
 
@@ -638,6 +639,8 @@ AI is used to accomplish malicious tasks and boost classic attacks.
   * [Streamv2v](https://github.com/Jeff-LiangF/streamv2v): Streaming Video-to-Video Translation with Feature Banks. [![stars](https://badgen.net/github/stars/Jeff-LiangF/streamv2v)](https://github.com/Jeff-LiangF/streamv2v)
   * [Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam): Real time face swap and one-click video deepfake with only a single image. [![stars](https://badgen.net/github/stars/hacksider/Deep-Live-Cam)](https://github.com/hacksider/Deep-Live-Cam)
   * [Sapiens](https://github.com/facebookresearch/sapiens): Foundation for Human Vision Models. [![stars](https://badgen.net/github/stars/facebookresearch/sapiens)](https://github.com/facebookresearch/sapiens)
+  * [ViVid-1-to-3](https://github.com/ubc-vision/vivid123): Novel View Synthesis with Video Diffusion Models. [![stars](https://badgen.net/github/stars/ubc-vision/vivid123)](https://github.com/ubc-vision/vivid123)
+
 
 
 ##### 🔎 Detection 🔎
@@ -679,6 +682,8 @@ AI is used to accomplish malicious tasks and boost classic attacks.
   * [MGM](https://github.com/dvlab-research/MGM): The framework supports a series of dense and MoE Large Language Models (LLMs) from 2B to 34B with image understanding, reasoning, and generation simultaneously. [![stars](https://badgen.net/github/stars/dvlab-research/MGM)](https://github.com/dvlab-research/MGM)
   * [Secret Llama](https://github.com/abi/secret-llama): Fully private LLM chatbot that runs entirely with a browser with no server needed. Supports Mistral and LLama 3. [![stars](https://badgen.net/github/stars/abi/secret-llama)](https://github.com/abi/secret-llama)
   * [Llama3](https://github.com/meta-llama/llama3): The official Meta Llama 3 GitHub site. [![stars](https://badgen.net/github/stars/meta-llama/llama3)](https://github.com/meta-llama/llama3)
+  * [Unsloth](https://github.com/unslothai/unsloth): Finetune Llama 3.3, Mistral, Phi-4, Qwen 2.5 & Gemma 2x faster with 80% less memory! [![stars](https://badgen.net/github/stars/unslothai/unsloth)](https://github.com/unslothai/unsloth)
+
 
 ##### 🔎 Detection 🔎
 
