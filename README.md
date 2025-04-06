@@ -394,6 +394,7 @@ AI is used to accomplish malicious tasks and boost classic attacks.
   * [DeepGenerator](https://github.com/13o-bbr-bbq/machine_learning_security/tree/master/Generator): Fully automatically generate injection codes for web application assessment using Genetic Algorithm and Generative Adversarial Networks.
   * [Eyeballer](https://github.com/BishopFox/eyeballer): Eyeballer is meant for large-scope network penetration tests where you need to find "interesting" targets from a huge set of web-based hosts. [![stars](https://badgen.net/github/stars/BishopFox/eyeballer)](https://github.com/BishopFox/eyeballer)
   * [Nebula](https://github.com/berylliumsec/nebula): AI-Powered Ethical Hacking Assistant. [![stars](https://badgen.net/github/stars/berylliumsec/nebula)](https://github.com/berylliumsec/nebula)
+  * [AI-OPS](https://github.com/antoninoLorenzo/AI-OPS): Penetration Testing AI Assistant based on open source LLMs. [![stars](https://badgen.net/github/stars/antoninoLorenzo/AI-OPS)](https://github.com/antoninoLorenzo/AI-OPS)
   * [Teams of LLM Agents can Exploit Zero-Day Vulnerabilities](https://arxiv.org/abs/2406.01637)
   * [Insights and Current Gaps in Open-Source LLM Vulnerability Scanners: A Comparative Analysis](https://arxiv.org/abs/2410.16527)
 
@@ -580,7 +581,7 @@ AI is used to accomplish malicious tasks and boost classic attacks.
   * [SSR](https://github.com/DaLi-Jack/SSR-code): Single-view 3D Scene Reconstruction with High-fidelity Shape and Texture. [![stars](https://badgen.net/github/stars/DaLi-Jack/SSR-code)](https://github.com/paulengstler/https://github.com/DaLi-Jack/SSR-code)
   * [InvSR](https://github.com/zsyOAOA/InvSR): Arbitrary-steps Image Super-resolution via Diffusion Inversion. [![stars](https://badgen.net/github/stars/zsyOAOA/InvSR)](https://github.com/zsyOAOA/InvSR)
   * [REPARO](https://github.com/VincentHancoder/REPARO): Compositional 3D Assets Generation with Differentiable 3D Layout Alignment. [![stars](https://badgen.net/github/stars/VincentHancoder/REPARO)](https://github.com/VincentHancoder/REPARO)
-
+  * [Gen3DSR](https://github.com/AndreeaDogaru/Gen3DSR): Generalizable 3D Scene Reconstruction via Divide and Conquer from a Single View. [![stars](https://badgen.net/github/stars/AndreeaDogaru/Gen3DSR)](https://github.com/AndreeaDogaru/Gen3DSR)
 
 
 ##### 🔎 Detection 🔎
@@ -640,8 +641,9 @@ AI is used to accomplish malicious tasks and boost classic attacks.
   * [Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam): Real time face swap and one-click video deepfake with only a single image. [![stars](https://badgen.net/github/stars/hacksider/Deep-Live-Cam)](https://github.com/hacksider/Deep-Live-Cam)
   * [Sapiens](https://github.com/facebookresearch/sapiens): Foundation for Human Vision Models. [![stars](https://badgen.net/github/stars/facebookresearch/sapiens)](https://github.com/facebookresearch/sapiens)
   * [ViVid-1-to-3](https://github.com/ubc-vision/vivid123): Novel View Synthesis with Video Diffusion Models. [![stars](https://badgen.net/github/stars/ubc-vision/vivid123)](https://github.com/ubc-vision/vivid123)
-
-
+  * [VGGT](https://github.com/facebookresearch/vggt): Visual Geometry Grounded Transformer. [![stars](https://badgen.net/github/stars/facebookresearch/vggt)](https://github.com/facebookresearch/vggt)
+  * [LayerPano3D](https://github.com/3DTopia/LayerPano3D): Layered 3D Panorama for Hyper-Immersive Scene Generation. [![stars](https://badgen.net/github/stars/3DTopia/LayerPano3D)](https://github.com/3DTopia/LayerPano3D)
+  * [RealmDreamer](https://github.com/jaidevshriram/realmdreamer): Text-Driven 3D Scene Generation with Inpainting and Depth Diffusion. [![stars](https://badgen.net/github/stars/jaidevshriram/realmdreamer)](https://github.com/jaidevshriram/realmdreamer)
 
 ##### 🔎 Detection 🔎
 
@@ -759,7 +761,7 @@ AI is used to accomplish malicious tasks and boost classic attacks.
   * [A Survey on Reinforcement Learning Security with Application to Autonomous Driving](https://arxiv.org/abs/2212.06123)
   * [How to avoid machine learning pitfalls: a guide for academic researchers](https://arxiv.org/abs/2108.02497)
   * [A curated list of AI Security & Privacy events](https://github.com/ZhengyuZhao/AI-Security-and-Privacy-Events)
-  * [NIST AI 100-2 E2023](https://csrc.nist.gov/pubs/ai/100/2/e2023/final): Adversarial Machine Learning. A Taxonomy and Terminology of Attacks and Mitigations.
+  * [NIST AI 100-2 E2025](https://doi.org/10.6028/NIST.AI.100-2e2025): Adversarial Machine Learning. A Taxonomy and Terminology of Attacks and Mitigations.
   * [🇪🇸 RootedCon 2023 - Inteligencia artificial ofensiva - ¿Cómo podemos estar  preparados?](/slides/RootedCon_2023.pdf)
   * [Security of AI-Systems: Fundamentals - Adversarial Deep Learning](https://www.bsi.bund.de/SharedDocs/Downloads/EN/BSI/KI/Security-of-AI-systems_fundamentals.pdf)
   * [Beyond the Safeguards: Exploring the Security Risks of ChatGPT](https://arxiv.org/abs/2305.08005)
