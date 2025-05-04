@@ -225,6 +225,7 @@ It is important to note that **public pre-trained models may contain backdoors**
   * [Backdoor Toolbox](https://github.com/vtu81/backdoor-toolbox): A compact toolbox for backdoor attacks and defenses. [![stars](https://badgen.net/github/stars/vtu81/backdoor-toolbox)](https://github.com/vtu81/backdoor-toolbox)
   * [LaserGuider: A Laser Based Physical Backdoor Attack against Deep Neural Networks](https://www.arxiv.org/abs/2412.03993)
   * [Energy-latency attacks via sponge poisoning](https://www.sciencedirect.com/science/article/abs/pii/S0020025525000374)
+  * [ShadowCoT: Cognitive Hijacking for Stealthy Reasoning Backdoors in LLMs](https://arxiv.org/abs/2504.05605)
 
 ##### 🏃‍♂️ Evasion 🏃‍♂️
 
@@ -342,6 +343,7 @@ The most common attacks are **white-box attacks**:
   * [Adversarial Reasoning at Jailbreaking Time](https://arxiv.org/abs/2502.01633)
   * [How we estimate the risk from prompt injection attacks on AI systems](https://security.googleblog.com/2025/01/how-we-estimate-risk-from-prompt.html)
   * [Adversarial Misuse of Generative AI](https://cloud.google.com/blog/topics/threat-intelligence/adversarial-misuse-generative-ai)
+  * [Defeating Prompt Injections by Design](https://arxiv.org/abs/2503.18813)
 
 
 #### 🛠️ Tools 🛠️
@@ -589,6 +591,8 @@ AI is used to accomplish malicious tasks and boost classic attacks.
   * [stylegan3-detector](https://github.com/NVlabs/stylegan3-detector): StyleGAN3 Synthetic Image Detection. [![stars](https://badgen.net/github/stars/NVlabs/stylegan3-detector)](https://github.com/NVlabs/stylegan3-detector)
   * [stylegan2-projecting-images](https://github.com/woctezuma/stylegan2-projecting-images): Projecting images to latent space with StyleGAN2. [![stars](https://badgen.net/github/stars/woctezuma/stylegan2-projecting-images)](https://github.com/woctezuma/stylegan2-projecting-images)
   * [FALdetector](https://github.com/PeterWang512/FALdetector): Detecting Photoshopped Faces by Scripting Photoshop. [![stars](https://badgen.net/github/stars/PeterWang512/FALdetector)](https://github.com/PeterWang512/FALdetector)
+  * [B-Free](https://github.com/grip-unina/B-Free): A Bias-Free Training Paradigm for More
+General AI-generated Image Detection. [![stars](https://badgen.net/github/stars/grip-unina/B-Free)](https://github.com/grip-unina/B-Free)
 
 #### 🎥 Video 🎥
 
