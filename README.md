@@ -399,6 +399,7 @@ AI is used to accomplish malicious tasks and boost classic attacks.
   * [AI-OPS](https://github.com/antoninoLorenzo/AI-OPS): Penetration Testing AI Assistant based on open source LLMs. [![stars](https://badgen.net/github/stars/antoninoLorenzo/AI-OPS)](https://github.com/antoninoLorenzo/AI-OPS)
   * [Teams of LLM Agents can Exploit Zero-Day Vulnerabilities](https://arxiv.org/abs/2406.01637)
   * [Insights and Current Gaps in Open-Source LLM Vulnerability Scanners: A Comparative Analysis](https://arxiv.org/abs/2410.16527)
+  * [CAI](https://github.com/aliasrobotics/cai): An Open, Bug Bounty-Ready Cybersecurity AI [![stars](https://badgen.net/github/stars/aliasrobotics/cai)](https://github.com/aliasrobotics/cai)
 
 ### 🦠 Malware 🦠
 
