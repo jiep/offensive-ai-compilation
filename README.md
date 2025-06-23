@@ -390,13 +390,16 @@ AI is used to accomplish malicious tasks and boost classic attacks.
 
 ### 🕵️‍♂️ Pentesting 🕵️‍♂️
 
+  * [Cochise](https://github.com/andreashappe/cochise/): LLM-agent performing autonomous penetration-test against Microsoft Windows Active Directory (using [GOAD](https://github.com/Orange-Cyberdefense/GOAD) as testbed).
   * [GyoiThon](https://github.com/gyoisamurai/GyoiThon): Next generation penetration test tool, intelligence gathering tool for web server. [![stars](https://badgen.net/github/stars/gyoisamurai/GyoiThon)](https://github.com/gyoisamurai/GyoiThon)
+  * [HackingBuddyGPT](https://github.com/ipa-lab/hackingBuddyGPT): LLMs x PenTesting. [![stars](https://badgen.net/github/stars/ipa-lab/hackingBuddyGPT)](https://github.com/ipa-lab/hackingBuddyGPT)
   * [Deep Exploit](https://github.com/13o-bbr-bbq/machine_learning_security/tree/master/DeepExploit): Fully automatic penetration test tool using Deep Reinforcement Learning. [![stars](https://badgen.net/github/stars/13o-bbr-bbq/machine_learning_security)](https://github.com/13o-bbr-bbq/machine_learning_security)
   * [AutoPentest-DRL](https://github.com/crond-jaist/AutoPentest-DRL): Automated penetration testing using deep reinforcement learning. [![stars](https://badgen.net/github/stars/crond-jaist/AutoPentest-DRL)](https://github.com/crond-jaist/AutoPentest-DRL)
   * [DeepGenerator](https://github.com/13o-bbr-bbq/machine_learning_security/tree/master/Generator): Fully automatically generate injection codes for web application assessment using Genetic Algorithm and Generative Adversarial Networks.
   * [Eyeballer](https://github.com/BishopFox/eyeballer): Eyeballer is meant for large-scope network penetration tests where you need to find "interesting" targets from a huge set of web-based hosts. [![stars](https://badgen.net/github/stars/BishopFox/eyeballer)](https://github.com/BishopFox/eyeballer)
   * [Nebula](https://github.com/berylliumsec/nebula): AI-Powered Ethical Hacking Assistant. [![stars](https://badgen.net/github/stars/berylliumsec/nebula)](https://github.com/berylliumsec/nebula)
   * [AI-OPS](https://github.com/antoninoLorenzo/AI-OPS): Penetration Testing AI Assistant based on open source LLMs. [![stars](https://badgen.net/github/stars/antoninoLorenzo/AI-OPS)](https://github.com/antoninoLorenzo/AI-OPS)
+  * [Can LLMs Hack Enterprise Networks?](https://arxiv.org/abs/2502.04227): Autonomous Assumed Breach Penetration-Testing Active Directory Networks
   * [Teams of LLM Agents can Exploit Zero-Day Vulnerabilities](https://arxiv.org/abs/2406.01637)
   * [Insights and Current Gaps in Open-Source LLM Vulnerability Scanners: A Comparative Analysis](https://arxiv.org/abs/2410.16527)
 
