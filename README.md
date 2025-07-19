@@ -344,6 +344,9 @@ The most common attacks are **white-box attacks**:
   * [How we estimate the risk from prompt injection attacks on AI systems](https://security.googleblog.com/2025/01/how-we-estimate-risk-from-prompt.html)
   * [Adversarial Misuse of Generative AI](https://cloud.google.com/blog/topics/threat-intelligence/adversarial-misuse-generative-ai)
   * [Defeating Prompt Injections by Design](https://arxiv.org/abs/2503.18813)
+  * [Mitigating prompt injection attacks with a layered defense strategy](https://security.googleblog.com/2025/06/mitigating-prompt-injection-attacks.html)
+  * [Logic layer Prompt Control Injection (LPCI): A Novel Security Vulnerability Class in Agentic Systems](https://arxiv.org/abs/2507.10457)
+  * [garak](https://github.com/NVIDIA/garak): LLM vulnerability scanner. [![stars](https://badgen.net/github/stars/NVIDIA/garak)](https://github.com/NVIDIA/garak)
 
 
 #### 🛠️ Tools 🛠️
@@ -822,6 +825,8 @@ General AI-generated Image Detection. [![stars](https://badgen.net/github/stars/
   * [LLMs unlock new paths to monetizing exploits](https://arxiv.org/abs/2505.02077) 
   * [Spill The Beans: Exploiting CPU Cache Side-Channels to Leak Tokens from Large Language Models](https://arxiv.org/abs/2505.00817)
   * [Enhanced automated code vulnerability repair using large language models](https://doi.org/10.1016/j.engappai.2024.109291)
+  * [Your Brain on ChatGPT: Accumulation of Cognitive Debt when Using an AI Assistant for Essay Writing Task](https://arxiv.org/abs/2506.08872)
+  * [AIRTBench: Measuring Autonomous AI Red Teaming Capabilities in Language Models](https://arxiv.org/abs/2506.14682)
 
 ## 📊 Surveys 📊
 
