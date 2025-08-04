@@ -390,8 +390,8 @@ AI is used to accomplish malicious tasks and boost classic attacks.
 
 ### 🕵️‍♂️ Pentesting 🕵️‍♂️
 
-  * [Cochise](https://github.com/andreashappe/cochise/): LLM-agent performing autonomous penetration test against Microsoft Windows Active Directory (using [GOAD](https://github.com/Orange-Cyberdefense/GOAD) as testbed).
   * [GyoiThon](https://github.com/gyoisamurai/GyoiThon): Next generation penetration test tool, intelligence gathering tool for web server. [![stars](https://badgen.net/github/stars/gyoisamurai/GyoiThon)](https://github.com/gyoisamurai/GyoiThon)
+  * [Cochise](https://github.com/andreashappe/cochise/): LLM-agent performing autonomous penetration test against Microsoft Windows Active Directory (using [GOAD](https://github.com/Orange-Cyberdefense/GOAD) as testbed).
   * [HackingBuddyGPT](https://github.com/ipa-lab/hackingBuddyGPT): LLMs x PenTesting. [![stars](https://badgen.net/github/stars/ipa-lab/hackingBuddyGPT)](https://github.com/ipa-lab/hackingBuddyGPT)
   * [Deep Exploit](https://github.com/13o-bbr-bbq/machine_learning_security/tree/master/DeepExploit): Fully automatic penetration test tool using Deep Reinforcement Learning. [![stars](https://badgen.net/github/stars/13o-bbr-bbq/machine_learning_security)](https://github.com/13o-bbr-bbq/machine_learning_security)
   * [AutoPentest-DRL](https://github.com/crond-jaist/AutoPentest-DRL): Automated penetration testing using deep reinforcement learning. [![stars](https://badgen.net/github/stars/crond-jaist/AutoPentest-DRL)](https://github.com/crond-jaist/AutoPentest-DRL)
