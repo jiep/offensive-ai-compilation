@@ -347,6 +347,7 @@ The most common attacks are **white-box attacks**:
   * [Mitigating prompt injection attacks with a layered defense strategy](https://security.googleblog.com/2025/06/mitigating-prompt-injection-attacks.html)
   * [Logic layer Prompt Control Injection (LPCI): A Novel Security Vulnerability Class in Agentic Systems](https://arxiv.org/abs/2507.10457)
   * [garak](https://github.com/NVIDIA/garak): LLM vulnerability scanner. [![stars](https://badgen.net/github/stars/NVIDIA/garak)](https://github.com/NVIDIA/garak)
+  * [Prompt injection engineering for attackers: Exploiting GitHub Copilot](https://blog.trailofbits.com/2025/08/06/prompt-injection-engineering-for-attackers-exploiting-github-copilot/)
 
 
 #### 🛠️ Tools 🛠️
@@ -425,6 +426,7 @@ AI is used to accomplish malicious tasks and boost classic attacks.
 ### 📧 Phishing 📧
 
   * [DeepDGA](https://github.com/roreagan/DeepDGA): Implementation of DeepDGA: Adversarially-Tuned Domain Generation and Detection. [![stars](https://badgen.net/github/stars/roreagan/DeepDGA)](https://github.com/roreagan/DeepDGA)
+  * [ScamAgents: How AI Agents Can Simulate Human-Level Scam Calls](https://arxiv.org/abs/2508.06457)
 
 ### 🕵 Threat Intelligence 🕵
 
@@ -831,6 +833,8 @@ General AI-generated Image Detection. [![stars](https://badgen.net/github/stars/
   * [Enhanced automated code vulnerability repair using large language models](https://doi.org/10.1016/j.engappai.2024.109291)
   * [Your Brain on ChatGPT: Accumulation of Cognitive Debt when Using an AI Assistant for Essay Writing Task](https://arxiv.org/abs/2506.08872)
   * [AIRTBench: Measuring Autonomous AI Red Teaming Capabilities in Language Models](https://arxiv.org/abs/2506.14682)
+  * [Slopsquatting](https://en.wikipedia.org/wiki/Slopsquatting)
+  * [SP 800-53 Control Overlays for Securing AI Systems Concept Paper](https://csrc.nist.gov/csrc/media/Projects/cosais/documents/NIST-Overlays-SecuringAI-concept-paper.pdf)
 
 ## 📊 Surveys 📊
 
