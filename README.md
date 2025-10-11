@@ -169,6 +169,7 @@ Three types are possible:
   * [Active Adversarial Tests](https://github.com/google-research/active-adversarial-tests): Increasing Confidence in Adversarial Robustness Evaluations. [![stars](https://badgen.net/github/stars/google-research/active-adversarial-tests)](https://github.com/google-research/active-adversarial-tests)
   * [GPT Jailbreak Status](https://github.com/tg12/gpt_jailbreak_status): Updates on the status of jailbreaking the OpenAI GPT language model. [![stars](https://badgen.net/github/stars/tg12/gpt_jailbreak_status)](https://github.com/tg12/gpt_jailbreak_status)
   * [Order of Magnitude Speedups for LLM Membership Inference](https://arxiv.org/abs/2409.14513)
+  * [What GPT-oss Leaks About OpenAI's Training Data](https://fi-le.net/oss/)
 
 ##### 💉 Poisoning 💉
 
@@ -226,6 +227,7 @@ It is important to note that **public pre-trained models may contain backdoors**
   * [LaserGuider: A Laser Based Physical Backdoor Attack against Deep Neural Networks](https://www.arxiv.org/abs/2412.03993)
   * [Energy-latency attacks via sponge poisoning](https://www.sciencedirect.com/science/article/abs/pii/S0020025525000374)
   * [ShadowCoT: Cognitive Hijacking for Stealthy Reasoning Backdoors in LLMs](https://arxiv.org/abs/2504.05605)
+  * [A small number of samples can poison LLMs of any size](https://www.anthropic.com/research/small-samples-poison)
 
 ##### 🏃‍♂️ Evasion 🏃‍♂️
 
@@ -348,6 +350,9 @@ The most common attacks are **white-box attacks**:
   * [Logic layer Prompt Control Injection (LPCI): A Novel Security Vulnerability Class in Agentic Systems](https://arxiv.org/abs/2507.10457)
   * [garak](https://github.com/NVIDIA/garak): LLM vulnerability scanner. [![stars](https://badgen.net/github/stars/NVIDIA/garak)](https://github.com/NVIDIA/garak)
   * [Prompt injection engineering for attackers: Exploiting GitHub Copilot](https://blog.trailofbits.com/2025/08/06/prompt-injection-engineering-for-attackers-exploiting-github-copilot/)
+  * [The State of Adversarial Prompts](https://blog.securitybreak.io/the-state-of-adversarial-prompts-84c364b5d860)
+  * [TransferBench: Benchmarking Ensemble-based Black-box Transfer Attacks](https://transferbench.github.io/)
+  * [Attention Tracker: Detecting Prompt Injection Attacks in LLMs](https://arxiv.org/abs/2411.00348v2)
 
 
 #### 🛠️ Tools 🛠️
