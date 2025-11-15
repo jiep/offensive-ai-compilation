@@ -353,6 +353,7 @@ The most common attacks are **white-box attacks**:
   * [The State of Adversarial Prompts](https://blog.securitybreak.io/the-state-of-adversarial-prompts-84c364b5d860)
   * [TransferBench: Benchmarking Ensemble-based Black-box Transfer Attacks](https://transferbench.github.io/)
   * [Attention Tracker: Detecting Prompt Injection Attacks in LLMs](https://arxiv.org/abs/2411.00348v2)
+  * [The Attacker Moves Second: Stronger Adaptive Attacks Bypass Defenses Against Llm Jailbreaks and Prompt Injections](https://arxiv.org/abs/2510.09023)
 
 
 #### 🛠️ Tools 🛠️
@@ -840,6 +841,7 @@ General AI-generated Image Detection. [![stars](https://badgen.net/github/stars/
   * [AIRTBench: Measuring Autonomous AI Red Teaming Capabilities in Language Models](https://arxiv.org/abs/2506.14682)
   * [Slopsquatting](https://en.wikipedia.org/wiki/Slopsquatting)
   * [SP 800-53 Control Overlays for Securing AI Systems Concept Paper](https://csrc.nist.gov/csrc/media/Projects/cosais/documents/NIST-Overlays-SecuringAI-concept-paper.pdf)
+  * [Agents Rule of Two: A Practical Approach to AI Agent Security](https://ai.meta.com/blog/practical-ai-agent-security/)
 
 ## 📊 Surveys 📊
 
