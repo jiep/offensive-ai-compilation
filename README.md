@@ -315,6 +315,7 @@ The most common attacks are **white-box attacks**:
   * [Attacks on AI Models: Prompt Injection vs supply chain poisoning](https://blog.mithrilsecurity.io/attacks-on-ai-models-prompt-injection-vs-supply-chain-poisoning/)
   * [Prompt Injection attack against LLM-integrated Applications](https://arxiv.org/pdf/2306.05499.pdf)
   * [garak](https://github.com/leondz/garak): LLM vulnerability scanner. [![stars](https://badgen.net/github/stars/leondz/garak)](https://github.com/leondz/garak)
+  * [promptfoo](https://github.com/promptfoo/promptfoo): Open-source LLM red teaming with 100+ attack types. AI Red teaming, pentesting, and vulnerability scanning for LLMs. [![stars](https://badgen.net/github/stars/promptfoo/promptfoo)](https://github.com/promptfoo/promptfoo)
   * [Simple Adversarial Transformations in PyTorch](https://davidstutz.de/simple-adversarial-transformations-in-pytorch/)
   * [ChatGPT Plugins: Data Exfiltration via Images & Cross Plugin Request Forgery](https://embracethered.com/blog/posts/2023/chatgpt-webpilot-data-exfil-via-markdown-injection/)
   * [Image Hijacks: Adversarial Images can Control Generative Models at Runtime](https://arxiv.org/abs/2309.00236)
