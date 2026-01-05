@@ -412,6 +412,7 @@ AI is used to accomplish malicious tasks and boost classic attacks.
   * [Can LLMs Hack Enterprise Networks?](https://arxiv.org/abs/2502.04227): Autonomous Assumed Breach Penetration-Testing Active Directory Networks
   * [Teams of LLM Agents can Exploit Zero-Day Vulnerabilities](https://arxiv.org/abs/2406.01637)
   * [Insights and Current Gaps in Open-Source LLM Vulnerability Scanners: A Comparative Analysis](https://arxiv.org/abs/2410.16527)
+  * [Comparing AI Agents to Cybersecurity Professionals in Real-World Penetration Testing](https://arxiv.org/abs/2512.09882)
   * [CAI](https://github.com/aliasrobotics/cai): An Open, Bug Bounty-Ready Cybersecurity AI [![stars](https://badgen.net/github/stars/aliasrobotics/cai)](https://github.com/aliasrobotics/cai)
 
 ### 🦠 Malware 🦠
@@ -599,6 +600,7 @@ AI is used to accomplish malicious tasks and boost classic attacks.
   * [InvSR](https://github.com/zsyOAOA/InvSR): Arbitrary-steps Image Super-resolution via Diffusion Inversion. [![stars](https://badgen.net/github/stars/zsyOAOA/InvSR)](https://github.com/zsyOAOA/InvSR)
   * [REPARO](https://github.com/VincentHancoder/REPARO): Compositional 3D Assets Generation with Differentiable 3D Layout Alignment. [![stars](https://badgen.net/github/stars/VincentHancoder/REPARO)](https://github.com/VincentHancoder/REPARO)
   * [Gen3DSR](https://github.com/AndreeaDogaru/Gen3DSR): Generalizable 3D Scene Reconstruction via Divide and Conquer from a Single View. [![stars](https://badgen.net/github/stars/AndreeaDogaru/Gen3DSR)](https://github.com/AndreeaDogaru/Gen3DSR)
+  * [ml-sharp](https://github.com/apple/ml-sharp): Sharp Monocular View Synthesis in Less Than a Second. [![stars](https://badgen.net/github/stars/apple/ml-sharp)](https://github.com/apple/ml-sharp)
 
 
 ##### 🔎 Detection 🔎
@@ -677,6 +679,7 @@ General AI-generated Image Detection. [![stars](https://badgen.net/github/stars/
   * [POI-Forensics](https://github.com/grip-unina/poi-forensics): Audio-Visual Person-of-Interest DeepFake Detection. [![stars](https://badgen.net/github/stars/grip-unina/poi-forensics)](https://github.com/grip-unina/poi-forensics)
   * [Standardizing Detection of Deepfakes: Why Experts Say It’s Important](https://antispoofing.org/deepfake-detection-standardization-origin-goals-and-implementation/)
   * [Want to spot a deepfake? Look for the stars in their eyes](https://ras.ac.uk/news-and-press/news/want-spot-deepfake-look-stars-their-eyes)
+  * [Fit for Purpose? Deepfake Detection in the Real World](https://arxiv.org/abs/2510.16556)
 
 #### 📄 Text 📄
 
