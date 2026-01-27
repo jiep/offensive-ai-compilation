@@ -845,6 +845,7 @@ General AI-generated Image Detection. [![stars](https://badgen.net/github/stars/
   * [Slopsquatting](https://en.wikipedia.org/wiki/Slopsquatting)
   * [SP 800-53 Control Overlays for Securing AI Systems Concept Paper](https://csrc.nist.gov/csrc/media/Projects/cosais/documents/NIST-Overlays-SecuringAI-concept-paper.pdf)
   * [Agents Rule of Two: A Practical Approach to AI Agent Security](https://ai.meta.com/blog/practical-ai-agent-security/)
+  * [Practical AI Security: Attacks, Defenses, and Applications Course](https://academy.8ksec.io/course/practical-ai-security)
 
 ## 📊 Surveys 📊
 
