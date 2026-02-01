@@ -354,7 +354,7 @@ The most common attacks are **white-box attacks**:
   * [TransferBench: Benchmarking Ensemble-based Black-box Transfer Attacks](https://transferbench.github.io/)
   * [Attention Tracker: Detecting Prompt Injection Attacks in LLMs](https://arxiv.org/abs/2411.00348v2)
   * [The Attacker Moves Second: Stronger Adaptive Attacks Bypass Defenses Against Llm Jailbreaks and Prompt Injections](https://arxiv.org/abs/2510.09023)
-
+  * [Weaponizing Calendar Invites: A Semantic Attack on Google Gemini](https://www.miggo.io/post/weaponizing-calendar-invites-a-semantic-attack-on-google-gemini)
 
 #### 🛠️ Tools 🛠️
 
@@ -845,6 +845,7 @@ General AI-generated Image Detection. [![stars](https://badgen.net/github/stars/
   * [Slopsquatting](https://en.wikipedia.org/wiki/Slopsquatting)
   * [SP 800-53 Control Overlays for Securing AI Systems Concept Paper](https://csrc.nist.gov/csrc/media/Projects/cosais/documents/NIST-Overlays-SecuringAI-concept-paper.pdf)
   * [Agents Rule of Two: A Practical Approach to AI Agent Security](https://ai.meta.com/blog/practical-ai-agent-security/)
+  * [ETSI EN 304 223 V2.1.1 (2025-12)](https://www.etsi.org/deliver/etsi_en/304200_304299/304223/02.01.01_60/en_304223v020101p.pdf): Securing Artificial Intelligence (SAI); Baseline Cyber Security Requirements for AI Models and Systems 
 
 ## 📊 Surveys 📊
 
