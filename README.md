@@ -171,6 +171,7 @@ Three types are possible:
   * [GPT Jailbreak Status](https://github.com/tg12/gpt_jailbreak_status): Updates on the status of jailbreaking the OpenAI GPT language model. [![stars](https://badgen.net/github/stars/tg12/gpt_jailbreak_status)](https://github.com/tg12/gpt_jailbreak_status)
   * [Order of Magnitude Speedups for LLM Membership Inference](https://arxiv.org/abs/2409.14513)
   * [What GPT-oss Leaks About OpenAI's Training Data](https://fi-le.net/oss/)
+  * [On the Detectability of Active Gradient Inversion Attacks in Federated Learning](https://arxiv.org/abs/2511.10502)
 
 ##### 💉 Poisoning 💉
 
@@ -422,6 +423,7 @@ AI is used to accomplish malicious tasks and boost classic attacks.
   * [Insights and Current Gaps in Open-Source LLM Vulnerability Scanners: A Comparative Analysis](https://arxiv.org/abs/2410.16527)
   * [Comparing AI Agents to Cybersecurity Professionals in Real-World Penetration Testing](https://arxiv.org/abs/2512.09882)
   * [CAI](https://github.com/aliasrobotics/cai): An Open, Bug Bounty-Ready Cybersecurity AI [![stars](https://badgen.net/github/stars/aliasrobotics/cai)](https://github.com/aliasrobotics/cai)
+  * [Shannon](https://github.com/KeygraphHQ/shannon): Shannon Lite is an autonomous, white-box AI pentester for web applications and APIs. It analyzes your source code, identifies attack vectors, and executes real exploits to prove vulnerabilities before they reach production. [![stars](https://badgen.net/github/stars/KeygraphHQ/shannon)](https://github.com/KeygraphHQ/shannon)
 
 ### 🦠 Malware 🦠
 
@@ -450,8 +452,9 @@ AI is used to accomplish malicious tasks and boost classic attacks.
 ### ⚙️ Reverse engenieering ⚙️
 
   * [We hid backdoors in ~40MB binaries and asked AI + Ghidra to find them](https://quesma.com/blog/introducing-binaryaudit/)
-  *  [GhidraMCP](MCP Server for Ghidra. [![stars](https://badgen.net/github/stars/LaurieWired/GhidraMCP)](https://github.com/LaurieWired/GhidraMCP)
-  *  [ghidra-mcp](Production-grade Ghidra MCP Server — 179 MCP tools, 147 GUI + 172 headless endpoints, Ghidra Server integration, cross-binary documentation transfer, batch operations, AI documentation workflows, and Docker deployment for AI-powered reverse engineering. [![stars](https://badgen.net/github/stars/bethington/ghidra-mcp)](https://github.com/bethington/ghidra-mcp)
+  * [Malware Reverse Engineering is no longer a human problem!](https://blog.securitybreak.io/malware-reverse-engineering-is-no-longer-a-human-problem-5441e4a0564f)
+  * [GhidraMCP](MCP Server for Ghidra. [![stars](https://badgen.net/github/stars/LaurieWired/GhidraMCP)](https://github.com/LaurieWired/GhidraMCP)
+  * [ghidra-mcp](Production-grade Ghidra MCP Server — 179 MCP tools, 147 GUI + 172 headless endpoints, Ghidra Server integration, cross-binary documentation transfer, batch operations, AI documentation workflows, and Docker deployment for AI-powered reverse engineering. [![stars](https://badgen.net/github/stars/bethington/ghidra-mcp)](https://github.com/bethington/ghidra-mcp)
 
 ### 🌀 Side channels 🌀
 
@@ -861,6 +864,7 @@ General AI-generated Image Detection. [![stars](https://badgen.net/github/stars/
   * [ETSI EN 304 223 V2.1.1 (2025-12)](https://www.etsi.org/deliver/etsi_en/304200_304299/304223/02.01.01_60/en_304223v020101p.pdf): Securing Artificial Intelligence (SAI); Baseline Cyber Security Requirements for AI Models and Systems 
   * [Evaluating AGENTS.md: Are Repository-Level Context Files Helpful for Coding Agents?](https://arxiv.org/abs/2602.11988)
   * [Handbook of Digital Face Manipulation and Detection](https://link.springer.com/book/10.1007/978-3-030-87664-7)
+  * [Security Considerations for Artificial Intelligence Agents](https://arxiv.org/abs/2603.12230)
 
 ## 📊 Surveys 📊
 
