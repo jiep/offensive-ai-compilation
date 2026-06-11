@@ -425,6 +425,7 @@ AI is used to accomplish malicious tasks and boost classic attacks.
   * [Comparing AI Agents to Cybersecurity Professionals in Real-World Penetration Testing](https://arxiv.org/abs/2512.09882)
   * [CAI](https://github.com/aliasrobotics/cai): An Open, Bug Bounty-Ready Cybersecurity AI [![stars](https://badgen.net/github/stars/aliasrobotics/cai)](https://github.com/aliasrobotics/cai)
   * [Shannon](https://github.com/KeygraphHQ/shannon): Shannon Lite is an autonomous, white-box AI pentester for web applications and APIs. It analyzes your source code, identifies attack vectors, and executes real exploits to prove vulnerabilities before they reach production. [![stars](https://badgen.net/github/stars/KeygraphHQ/shannon)](https://github.com/KeygraphHQ/shannon)
+  * [OpenHack](https://github.com/openhackai/OpenHack): AI-powered multi-agent scanner that finds SQLi, XSS, IDOR, and auth bypass in source code, then verifies each finding through sandbox execution and browser replay. On par with Claude Opus 4.6 at roughly 40x lower cost. [![stars](https://badgen.net/github/stars/openhackai/OpenHack)](https://github.com/openhackai/OpenHack)
 
 ### 🦠 Malware 🦠
 
