@@ -410,6 +410,7 @@ AI is used to accomplish malicious tasks and boost classic attacks.
 
 ### 🕵️‍♂️ Pentesting 🕵️‍♂️
 
+  * [Continuous CyberBattleSim](https://github.com/terranovafr/C-CyberBattleSim): A simulation tool for training and evaluating scalable and generalizable reinforcement learning agents for critical attack path discovery in networks. [![stars](https://badgen.net/github/stars/terranovafr/C-CyberBattleSim)](https://github.com/terranovafr/C-CyberBattleSim)
   * [GyoiThon](https://github.com/gyoisamurai/GyoiThon): Next generation penetration test tool, intelligence gathering tool for web server. [![stars](https://badgen.net/github/stars/gyoisamurai/GyoiThon)](https://github.com/gyoisamurai/GyoiThon)
   * [Cochise](https://github.com/andreashappe/cochise/): LLM-agent performing autonomous penetration test against Microsoft Windows Active Directory (using [GOAD](https://github.com/Orange-Cyberdefense/GOAD) as testbed).
   * [HackingBuddyGPT](https://github.com/ipa-lab/hackingBuddyGPT): LLMs x PenTesting. [![stars](https://badgen.net/github/stars/ipa-lab/hackingBuddyGPT)](https://github.com/ipa-lab/hackingBuddyGPT)
@@ -450,8 +451,9 @@ AI is used to accomplish malicious tasks and boost classic attacks.
 ### 🕵 Threat Intelligence 🕵
 
   * [From Sands to Mansions: Enabling Automatic Full-Life-Cycle Cyberattack Construction with LLM](https://arxiv.org/abs/2407.16928) 
+  * [CVE-LMTune](https://github.com/terranovafr/CVE-LMTune): A unified framework for fine-tuning, evaluation, and live inference of language models for automated vulnerability classification based on MITRE taxonomies. [![stars](https://badgen.net/github/stars/terranovafr/CVE-LMTune)](https://github.com/terranovafr/CVE-LMTune)
 
-### ⚙️ Reverse engenieering ⚙️
+### ⚙️ Reverse engineering ⚙️
 
   * [We hid backdoors in ~40MB binaries and asked AI + Ghidra to find them](https://quesma.com/blog/introducing-binaryaudit/)
   * [Malware Reverse Engineering is no longer a human problem!](https://blog.securitybreak.io/malware-reverse-engineering-is-no-longer-a-human-problem-5441e4a0564f)
