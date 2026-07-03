@@ -173,6 +173,8 @@ Three types are possible:
   * [What GPT-oss Leaks About OpenAI's Training Data](https://fi-le.net/oss/)
   * [On the Detectability of Active Gradient Inversion Attacks in Federated Learning](https://arxiv.org/abs/2511.10502)
   * [The Membership Inference Attack Bait-and-Switch](https://www.linkedin.com/pulse/membership-inference-attack-bait-and-switch-paul-francis-c1dwf)
+  * [How Your Credentials Are Leaked by LLM Agent Skills: An Empirical Study](https://arxiv.org/abs/2604.03070)
+  * [A Theory of Prompt Injection (and why you should study roles)](https://role-confusion.github.io/)
 
 ##### 💉 Poisoning 💉
 
@@ -365,6 +367,9 @@ The most common attacks are **white-box attacks**:
   * [GTIG AI Threat Tracker: Distillation, Experimentation, and (Continued) Integration of AI for Adversarial Use](https://cloud.google.com/blog/topics/threat-intelligence/distillation-experimentation-integration-ai-adversarial-use)
   * [How Cline Was Compromised: Prompt Injection and Dangling Commits in the Cline Supply Chain Attack](https://murraycole.com/posts/cline-compromise-prompt-injection-supply-chain-attack)
   * [Aguara: Security scanner for AI agent skills & MCP servers](https://aguarascan.com/)
+  * [Robust AI Security and Alignment: A Sisyphean Endeavor?](https://arxiv.org/abs/2512.10100)
+  * [SkillSpector](https://github.com/nvidia/skillspector): Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security risks.. [![stars](https://badgen.net/github/stars/nvidia/skillspector)](https://github.com/nvidia/skillspector)
+
 
 #### 🛠️ Tools 🛠️
 
@@ -425,6 +430,7 @@ AI is used to accomplish malicious tasks and boost classic attacks.
   * [Comparing AI Agents to Cybersecurity Professionals in Real-World Penetration Testing](https://arxiv.org/abs/2512.09882)
   * [CAI](https://github.com/aliasrobotics/cai): An Open, Bug Bounty-Ready Cybersecurity AI [![stars](https://badgen.net/github/stars/aliasrobotics/cai)](https://github.com/aliasrobotics/cai)
   * [Shannon](https://github.com/KeygraphHQ/shannon): Shannon Lite is an autonomous, white-box AI pentester for web applications and APIs. It analyzes your source code, identifies attack vectors, and executes real exploits to prove vulnerabilities before they reach production. [![stars](https://badgen.net/github/stars/KeygraphHQ/shannon)](https://github.com/KeygraphHQ/shannon)
+  * [offsec-ai](https://github.com/Htunn/offsec-ai): Python library and CLI that combines classic network reconnaissance with modern AI/LLM security testing. [![stars](https://badgen.net/github/stars/Htunn/offsec-ai)](https://github.com/Htunn/offsec-ai)
 
 ### 🦠 Malware 🦠
 
@@ -870,6 +876,8 @@ General AI-generated Image Detection. [![stars](https://badgen.net/github/stars/
   * [Security Considerations for Artificial Intelligence Agents](https://arxiv.org/abs/2603.12230)
   * [Position: AI Security Policy Should Target Systems, Not Models](https://arxiv.org/abs/2605.09504)
   * [The “AI Vulnerability Storm”: Building a “Mythos-ready” Security Program](https://labs.cloudsecurityalliance.org/mythos-ciso)
+  * [🇪🇸 Guía de buenas prácticas frente al modelo de IA ofensiva](https://www.ccn-cert.cni.es/es/informes/informes-de-buenas-practicas-bp/7469-ccn-cert-bp-36-buenas-practicas-ia-ofensiva/file.html)
+
 
 ## 📊 Surveys 📊
 
