@@ -464,8 +464,8 @@ AI is used to accomplish malicious tasks and boost classic attacks.
 
   * [We hid backdoors in ~40MB binaries and asked AI + Ghidra to find them](https://quesma.com/blog/introducing-binaryaudit/)
   * [Malware Reverse Engineering is no longer a human problem!](https://blog.securitybreak.io/malware-reverse-engineering-is-no-longer-a-human-problem-5441e4a0564f)
-  * [GhidraMCP](MCP Server for Ghidra. [![stars](https://badgen.net/github/stars/LaurieWired/GhidraMCP)](https://github.com/LaurieWired/GhidraMCP)
-  * [ghidra-mcp](Production-grade Ghidra MCP Server — 179 MCP tools, 147 GUI + 172 headless endpoints, Ghidra Server integration, cross-binary documentation transfer, batch operations, AI documentation workflows, and Docker deployment for AI-powered reverse engineering. [![stars](https://badgen.net/github/stars/bethington/ghidra-mcp)](https://github.com/bethington/ghidra-mcp)
+  * [GhidraMCP](https://github.com/LaurieWired/GhidraMCP): MCP Server for Ghidra. [![stars](https://badgen.net/github/stars/LaurieWired/GhidraMCP)](https://github.com/LaurieWired/GhidraMCP)
+  * [ghidra-mcp](https://github.com/bethington/ghidra-mcp): Production-grade Ghidra MCP Server — 179 MCP tools, 147 GUI + 172 headless endpoints, Ghidra Server integration, cross-binary documentation transfer, batch operations, AI documentation workflows, and Docker deployment for AI-powered reverse engineering. [![stars](https://badgen.net/github/stars/bethington/ghidra-mcp)](https://github.com/bethington/ghidra-mcp)
 
 ### 🌀 Side channels 🌀
 
@@ -576,7 +576,7 @@ AI is used to accomplish malicious tasks and boost classic attacks.
   * [Infinigen](https://github.com/princeton-vl/infinigen): Infinite Photorealistic Worlds using Procedural Generation. [![stars](https://badgen.net/github/stars/princeton-vl/infinigen)](https://github.com/princeton-vl/infinigen)
   * [DALL·E 3](https://openai.com/dall-e-3)
   * [StreamDiffusion](https://github.com/cumulo-autumn/StreamDiffusion): A Pipeline-Level Solution for Real-Time Interactive Generation. [![stars](https://badgen.net/github/stars/cumulo-autumn/StreamDiffusion)](https://github.com/cumulo-autumn/StreamDiffusion)
-  * [AnyDoor](https://github.com/cumulo-autumn/StreamDiffusion): Zero-shot Object-level Image Customization. [![stars](https://badgen.net/github/stars/cumulo-autumn/StreamDiffusion)](https://github.com/cumulo-autumn/StreamDiffusion)
+  * [AnyDoor](https://github.com/ali-vilab/AnyDoor): Zero-shot Object-level Image Customization. [![stars](https://badgen.net/github/stars/ali-vilab/AnyDoor)](https://github.com/ali-vilab/AnyDoor)
   * [DiT](https://github.com/facebookresearch/DiT): Scalable Diffusion Models with Transformers. [![stars](https://badgen.net/github/stars/facebookresearch/DiT)](https://github.com/facebookresearch/DiT)
   * [BrushNet](https://github.com/TencentARC/BrushNet): A Plug-and-Play Image Inpainting Model with Decomposed Dual-Branch Diffusion. [![stars](https://badgen.net/github/stars/TencentARC/BrushNet)](https://github.com/TencentARC/BrushNet)
   * [OOTDiffusion](https://github.com/levihsu/OOTDiffusion): Outfitting Fusion based Latent Diffusion for Controllable Virtual Try-on. [![stars](https://badgen.net/github/stars/levihsu/OOTDiffusion)](https://github.com/levihsu/OOTDiffusion)
@@ -615,15 +615,14 @@ AI is used to accomplish malicious tasks and boost classic attacks.
   * [End-to-end Trained CNN Encode-Decoder Networks for Image Steganography](https://arxiv.org/abs/1711.07201)
   * [Grounded-Segment-Anything](https://github.com/IDEA-Research/Grounded-Segment-Anything): Marrying Grounding DINO with Segment Anything & Stable Diffusion & Tag2Text & BLIP & Whisper & ChatBot - Automatically Detect , Segment and Generate Anything with Image, Text, and Audio Inputs. [![stars](https://badgen.net/github/stars/IDEA-Research/Grounded-Segment-Anything)](https://github.com/IDEA-Research/Grounded-Segment-Anything)
   * [AnimateDiff](https://github.com/guoyww/AnimateDiff): Animate Your Personalized Text-to-Image Diffusion Models without Specific Tuning. [![stars](https://badgen.net/github/stars/guoyww/AnimateDiff)](https://github.com/guoyww/AnimateDiff)
-  * [BasicSR](https://github.com/XPixelGroup/BasicSR): Open Source Image and Video Restoration Toolbox for Super-resolution, Denoise, Deblurring, etc. Currently, it includes EDSR, RCAN, SRResNet, SRGAN, ESRGAN, EDVR, BasicVSR, SwinIR, ECBSR, etc. Also support StyleGAN2 and DFDNet. [![stars](https://badgen.net/github/stars/XPixelGroup/BasicSR)](https://github.com/XPixelGroup/
-  BasicSR)
+  * [BasicSR](https://github.com/XPixelGroup/BasicSR): Open Source Image and Video Restoration Toolbox for Super-resolution, Denoise, Deblurring, etc. Currently, it includes EDSR, RCAN, SRResNet, SRGAN, ESRGAN, EDVR, BasicVSR, SwinIR, ECBSR, etc. Also support StyleGAN2 and DFDNet. [![stars](https://badgen.net/github/stars/XPixelGroup/BasicSR)](https://github.com/XPixelGroup/BasicSR)
   * [Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN): Real-ESRGAN aims at developing Practical Algorithms for General Image/Video Restoration. [![stars](https://badgen.net/github/stars/xinntao/Real-ESRGAN)](https://github.com/xinntao/Real-ESRGAN)
   * [ESRGAN](https://github.com/xinntao/ESRGAN): Enhanced SRGAN. Champion PIRM Challenge on Perceptual Super-Resolution. [![stars](https://badgen.net/github/stars/xinntao/ESRGAN)](https://github.com/xinntao/ESRGAN)
   * [MixNMatch](https://github.com/Yuheng-Li/MixNMatch): Multifactor Disentanglement and Encoding for Conditional Image Generation. [![stars](https://badgen.net/github/stars/Yuheng-Li/MixNMatch)](https://github.com/Yuheng-Li/MixNMatch)
   * [Clarity-upscaler](https://github.com/philz1337x/clarity-upscaler): Reimagined image upscaling for everyone. [![stars](https://badgen.net/github/stars/philz1337x/clarity-upscaler)](https://github.com/philz1337x/clarity-upscaler)
   * [One-step Diffusion with Distribution Matching Distillation](https://tianweiy.github.io/dmd/)
   * [Invisible Stitch](https://github.com/paulengstler/invisible-stitch): Generating Smooth 3D Scenes with Depth Inpainting. [![stars](https://badgen.net/github/stars/paulengstler/invisible-stitch)](https://github.com/paulengstler/invisible-stitch)
-  * [SSR](https://github.com/DaLi-Jack/SSR-code): Single-view 3D Scene Reconstruction with High-fidelity Shape and Texture. [![stars](https://badgen.net/github/stars/DaLi-Jack/SSR-code)](https://github.com/paulengstler/https://github.com/DaLi-Jack/SSR-code)
+  * [SSR](https://github.com/DaLi-Jack/SSR-code): Single-view 3D Scene Reconstruction with High-fidelity Shape and Texture. [![stars](https://badgen.net/github/stars/DaLi-Jack/SSR-code)](https://github.com/DaLi-Jack/SSR-code)
   * [InvSR](https://github.com/zsyOAOA/InvSR): Arbitrary-steps Image Super-resolution via Diffusion Inversion. [![stars](https://badgen.net/github/stars/zsyOAOA/InvSR)](https://github.com/zsyOAOA/InvSR)
   * [REPARO](https://github.com/VincentHancoder/REPARO): Compositional 3D Assets Generation with Differentiable 3D Layout Alignment. [![stars](https://badgen.net/github/stars/VincentHancoder/REPARO)](https://github.com/VincentHancoder/REPARO)
   * [Gen3DSR](https://github.com/AndreeaDogaru/Gen3DSR): Generalizable 3D Scene Reconstruction via Divide and Conquer from a Single View. [![stars](https://badgen.net/github/stars/AndreeaDogaru/Gen3DSR)](https://github.com/AndreeaDogaru/Gen3DSR)
@@ -678,7 +677,7 @@ General AI-generated Image Detection. [![stars](https://badgen.net/github/stars/
   * [MagicEdit](https://github.com/magic-research/magic-edit): High-Fidelity Temporally Coherent Video Editing. [![stars](https://badgen.net/github/stars/magic-research/magic-edit)](https://github.com/magic-research/magic-edit)
   * [Rerender_A_Video](https://github.com/williamyang1991/Rerender_A_Video): Zero-Shot Text-Guided Video-to-Video Translation. [![stars](https://badgen.net/github/stars/williamyang1991/Rerender_A_Video)](https://github.com/williamyang1991/Rerender_A_Video)
   * [DreamEditor](https://github.com/zjy526223908/DreamEditor): Text-Driven 3D Scene Editing with Neural Fields. [![stars](https://badgen.net/github/stars/zjy526223908/DreamEditor)](https://github.com/zjy526223908/DreamEditor)
-  * [DreamEditor](https://github.com/zju3dv/4K4D): Real-Time 4D View Synthesis at 4K Resolution. [![stars](https://badgen.net/github/stars/zju3dv/4K4D)](https://github.com/zju3dv/4K4D)
+  * [4K4D](https://github.com/zju3dv/4K4D): Real-Time 4D View Synthesis at 4K Resolution. [![stars](https://badgen.net/github/stars/zju3dv/4K4D)](https://github.com/zju3dv/4K4D)
   * [AnimateAnyone](https://github.com/HumanAIGC/AnimateAnyone): Consistent and Controllable Image-to-Video Synthesis for Character Animation. [![stars](https://badgen.net/github/stars/HumanAIGC/AnimateAnyone)](https://github.com/HumanAIGC/AnimateAnyone)
   * [Moore-AnimateAnyone](https://github.com/MooreThreads/Moore-AnimateAnyone): This repository reproduces AnimateAnyone. [![stars](https://badgen.net/github/stars/MooreThreads/Moore-AnimateAnyone)](https://github.com/MooreThreads/Moore-AnimateAnyone)
   * [audio2photoreal](https://github.com/facebookresearch/audio2photoreal): From Audio to Photoreal Embodiment: Synthesizing Humans in Conversations. [![stars](https://badgen.net/github/stars/facebookresearch/audio2photoreal)](https://github.com/facebookresearch/audio2photoreal)
@@ -778,7 +777,7 @@ General AI-generated Image Detection. [![stars](https://badgen.net/github/stars/
   * [GPT Researcher](https://github.com/assafelovic/gpt-researcher): GPT based autonomous agent that does online comprehensive research on any given topic. [![stars](https://badgen.net/github/stars/assafelovic/gpt-researcher)](https://github.com/assafelovic/gpt-researcher)
   * [GPT Engineer](https://github.com/AntonOsika/gpt-engineer): Specify what you want it to build, the AI asks for clarification, and then builds it. [![stars](https://badgen.net/github/stars/AntonOsika/gpt-engineer)](https://github.com/AntonOsika/gpt-engineer)
   * [localpilot](https://github.com/danielgross/localpilot): Use GitHub Copilot locally on your Macbook with one-click! [![stars](https://badgen.net/github/stars/danielgross/localpilot)](https://github.com/danielgross/localpilot)
-  * [WormGPT])(https://thehackernews.com/2023/07/wormgpt-new-ai-tool-allows.html): New AI Tool Allows Cybercriminals to Launch Sophisticated Cyber Attacks
+  * [WormGPT](https://thehackernews.com/2023/07/wormgpt-new-ai-tool-allows.html): New AI Tool Allows Cybercriminals to Launch Sophisticated Cyber Attacks
   * [PoisonGPT](https://blog.mithrilsecurity.io/poisongpt-how-we-hid-a-lobotomized-llm-on-hugging-face-to-spread-fake-news/): How we hid a lobotomized LLM on Hugging Face to spread fake news
   * [PassGPT: Password Modeling and (Guided) Generation with Large Language Models](https://javirandor.github.io/assets/pdf/passgpt2023rando.pdf)
   * [DeepPass — Finding Passwords With Deep Learning](https://posts.specterops.io/deeppass-finding-passwords-with-deep-learning-4d31c534cd00)
