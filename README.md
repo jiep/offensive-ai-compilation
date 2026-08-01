@@ -433,6 +433,8 @@ AI is used to accomplish malicious tasks and boost classic attacks.
   * [Shannon](https://github.com/KeygraphHQ/shannon): Shannon Lite is an autonomous, white-box AI pentester for web applications and APIs. It analyzes your source code, identifies attack vectors, and executes real exploits to prove vulnerabilities before they reach production. [![stars](https://badgen.net/github/stars/KeygraphHQ/shannon)](https://github.com/KeygraphHQ/shannon)
   * [OpenHack](https://github.com/openhackai/OpenHack): AI-powered multi-agent scanner that finds SQLi, XSS, IDOR, and auth bypass in source code, then verifies each finding through sandbox execution and browser replay. On par with Claude Opus 4.6 at roughly 40x lower cost. [![stars](https://badgen.net/github/stars/openhackai/OpenHack)](https://github.com/openhackai/OpenHack)
   * [offsec-ai](https://github.com/Htunn/offsec-ai): Python library and CLI that combines classic network reconnaissance with modern AI/LLM security testing. [![stars](https://badgen.net/github/stars/Htunn/offsec-ai)](https://github.com/Htunn/offsec-ai)
+  * [Co-RedTeam: Orchestrated Security Discovery and Exploitation with LLM Agents](https://arxiv.org/abs/2607.18538)
+  * [CryptanalysisBench: Can LLMs do Cryptanalysis?](https://arxiv.org/abs/2607.18538)
 
 ### 🦠 Malware 🦠
 
@@ -878,7 +880,7 @@ General AI-generated Image Detection. [![stars](https://badgen.net/github/stars/
   * [Security Considerations for Artificial Intelligence Agents](https://arxiv.org/abs/2603.12230)
   * [Position: AI Security Policy Should Target Systems, Not Models](https://arxiv.org/abs/2605.09504)
   * [The “AI Vulnerability Storm”: Building a “Mythos-ready” Security Program](https://labs.cloudsecurityalliance.org/mythos-ciso)
-  * [🇪🇸 Guía de buenas prácticas frente al modelo de IA ofensiva](https://www.ccn-cert.cni.es/es/informes/informes-de-buenas-practicas-bp/7469-ccn-cert-bp-36-buenas-practicas-ia-ofensiva/file.html)
+  * [Security Recommendations to Counter the Offensive AI Models](https://www.ccn-cert.cni.es/es/informes/informes-de-buenas-practicas-bp/7475-ccn-cert-bp-36-security-recommendations-to-counter-the-offensive-ai-models/file.html)
 
 
 ## 📊 Surveys 📊
