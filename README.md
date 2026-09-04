@@ -369,6 +369,7 @@ The most common attacks are **white-box attacks**:
   * [Aguara: Security scanner for AI agent skills & MCP servers](https://aguarascan.com/)
   * [Robust AI Security and Alignment: A Sisyphean Endeavor?](https://arxiv.org/abs/2512.10100)
   * [SkillSpector](https://github.com/nvidia/skillspector): Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security risks.. [![stars](https://badgen.net/github/stars/nvidia/skillspector)](https://github.com/nvidia/skillspector)
+  * [Defensive deception against safety-removal attacks on open-weight models](https://markrussinovich.github.io/fools-gold/)
 
 
 #### 🛠️ Tools 🛠️
@@ -418,9 +419,7 @@ AI is used to accomplish malicious tasks and boost classic attacks.
   * [Continuous CyberBattleSim](https://github.com/terranovafr/C-CyberBattleSim): A simulation tool for training and evaluating scalable and generalizable reinforcement learning agents for critical attack path discovery in networks. [![stars](https://badgen.net/github/stars/terranovafr/C-CyberBattleSim)](https://github.com/terranovafr/C-CyberBattleSim)
   * [GyoiThon](https://github.com/gyoisamurai/GyoiThon): Next generation penetration test tool, intelligence gathering tool for web server. [![stars](https://badgen.net/github/stars/gyoisamurai/GyoiThon)](https://github.com/gyoisamurai/GyoiThon)
   * [Cochise](https://github.com/andreashappe/cochise/): LLM-agent performing autonomous penetration test against Microsoft Windows Active Directory (using [GOAD](https://github.com/Orange-Cyberdefense/GOAD) as testbed).
-  * [HALO (GEMMA-by-GOOGLE)](https://github.com/XenoCoreGiger31/GEMMA-by-GOOGLE): Fully local, autonomous AI penetration-testing agent  a local Gemma model drives a Flask MCP server (29 tools) through recon, attack, and reporting.
   * [HackingBuddyGPT](https://github.com/ipa-lab/hackingBuddyGPT): LLMs x PenTesting. [![stars](https://badgen.net/github/stars/ipa-lab/hackingBuddyGPT)](https://github.com/ipa-lab/hackingBuddyGPT)
-  * [BugTraceAI](https://github.com/BugTraceAI/BugTraceAI): Open-source multi-agent platform for authorized web application security testing with validation, evidence capture, and reporting.
   * [Deep Exploit](https://github.com/13o-bbr-bbq/machine_learning_security/tree/master/DeepExploit): Fully automatic penetration test tool using Deep Reinforcement Learning. [![stars](https://badgen.net/github/stars/13o-bbr-bbq/machine_learning_security)](https://github.com/13o-bbr-bbq/machine_learning_security)
   * [AutoPentest-DRL](https://github.com/crond-jaist/AutoPentest-DRL): Automated penetration testing using deep reinforcement learning. [![stars](https://badgen.net/github/stars/crond-jaist/AutoPentest-DRL)](https://github.com/crond-jaist/AutoPentest-DRL)
   * [DeepGenerator](https://github.com/13o-bbr-bbq/machine_learning_security/tree/master/Generator): Fully automatically generate injection codes for web application assessment using Genetic Algorithm and Generative Adversarial Networks.
@@ -436,6 +435,8 @@ AI is used to accomplish malicious tasks and boost classic attacks.
   * [OpenHack](https://github.com/openhackai/OpenHack): AI-powered multi-agent scanner that finds SQLi, XSS, IDOR, and auth bypass in source code, then verifies each finding through sandbox execution and browser replay. On par with Claude Opus 4.6 at roughly 40x lower cost. [![stars](https://badgen.net/github/stars/openhackai/OpenHack)](https://github.com/openhackai/OpenHack)
   * [Dark-Moon](https://github.com/ASCIT31/Dark-Moon): Autonomous AI penetration testing platform where Markdown methodology playbooks orchestrate 80+ offensive tools via MCP across web, cloud, Active Directory, Kubernetes and API targets. [![stars](https://badgen.net/github/stars/ASCIT31/Dark-Moon)](https://github.com/ASCIT31/Dark-Moon)
   * [offsec-ai](https://github.com/Htunn/offsec-ai): Python library and CLI that combines classic network reconnaissance with modern AI/LLM security testing. [![stars](https://badgen.net/github/stars/Htunn/offsec-ai)](https://github.com/Htunn/offsec-ai)
+  * [HALO (GEMMA-by-GOOGLE)](https://github.com/XenoCoreGiger31/GEMMA-by-GOOGLE): Fully local, autonomous AI penetration-testing agent  a local Gemma model drives a Flask MCP server (29 tools) through recon, attack, and reporting. [![stars](https://badgen.net/github/stars/XenoCoreGiger31/GEMMA-by-GOOGLE](https://github.com/XenoCoreGiger31/GEMMA-by-GOOGLE)
+  * [BugTraceAI](https://github.com/BugTraceAI/BugTraceAI): Open-source multi-agent platform for authorized web application security testing with validation, evidence capture, and reporting. [![stars](https://badgen.net/github/stars/BugTraceAI/BugTraceAI](https://github.com/BugTraceAI/BugTraceAI)
   * [Co-RedTeam: Orchestrated Security Discovery and Exploitation with LLM Agents](https://arxiv.org/abs/2607.18538)
   * [CryptanalysisBench: Can LLMs do Cryptanalysis?](https://arxiv.org/abs/2607.18538)
 
