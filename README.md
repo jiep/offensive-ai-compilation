@@ -465,6 +465,7 @@ AI is used to accomplish malicious tasks and boost classic attacks.
 
   * [From Sands to Mansions: Enabling Automatic Full-Life-Cycle Cyberattack Construction with LLM](https://arxiv.org/abs/2407.16928) 
   * [CVE-LMTune](https://github.com/terranovafr/CVE-LMTune): A unified framework for fine-tuning, evaluation, and live inference of language models for automated vulnerability classification based on MITRE taxonomies. [![stars](https://badgen.net/github/stars/terranovafr/CVE-LMTune)](https://github.com/terranovafr/CVE-LMTune)
+  * [Orca AI Incident Archive](https://github.com/Continuum-AI-Corp/Orca-AI-Incident-Archive): Open, sourced database of real-world AI agent security incidents, with 51 records of agents used offensively (e.g. AI-orchestrated espionage, LLM-driven ransomware); every record states whether real-world harm was confirmed. [![stars](https://badgen.net/github/stars/Continuum-AI-Corp/Orca-AI-Incident-Archive)](https://github.com/Continuum-AI-Corp/Orca-AI-Incident-Archive)
 
 ### ⚙️ Reverse engineering ⚙️
 
