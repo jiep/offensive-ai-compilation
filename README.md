@@ -748,6 +748,7 @@ General AI-generated Image Detection. [![stars](https://badgen.net/github/stars/
   * [Detecting Fake Text](https://github.com/HendrikStrobelt/detecting-fake-text): Giant Language Model Test Room. [![stars](https://badgen.net/github/stars/HendrikStrobelt/detecting-fake-text)](https://github.com/HendrikStrobelt/detecting-fake-text)
   * [Grover](https://github.com/rowanz/grover): Code for Defending Against Neural Fake News. [![stars](https://badgen.net/github/stars/rowanz/grover)](https://github.com/rowanz/grover)
   * [Rebuff.ai](https://github.com/protectai/rebuff):  Prompt Injection Detector. [![stars](https://badgen.net/github/stars/protectai/rebuff)](https://github.com/protectai/rebuff)
+  * [SlopTotal](https://github.com/pablocaeg/sloptotal): Self-hosted AI-generated text detector that combines 23 detectors (neural classifiers, statistical tests and linguistic heuristics) into one calibrated score. [![stars](https://badgen.net/github/stars/pablocaeg/sloptotal)](https://github.com/pablocaeg/sloptotal)
   * [New AI classifier for indicating AI-written text](https://openai.com/blog/new-ai-classifier-for-indicating-ai-written-text/)
   * [Discover the 4 Magical Methods to Detect AI-Generated Text (including ChatGPT)](https://medium.com/@itamargolan/uncover-the-four-enchanted-ways-to-identify-ai-generated-text-including-chatgpts-4764847fd609)
   * [GPTZero](https://gptzero.me)
