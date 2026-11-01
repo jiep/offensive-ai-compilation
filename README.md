@@ -439,6 +439,7 @@ AI is used to accomplish malicious tasks and boost classic attacks.
   * [BugTraceAI](https://github.com/BugTraceAI/BugTraceAI): Open-source multi-agent platform for authorized web application security testing with validation, evidence capture, and reporting. [![stars](https://badgen.net/github/stars/BugTraceAI/BugTraceAI](https://github.com/BugTraceAI/BugTraceAI)
   * [Co-RedTeam: Orchestrated Security Discovery and Exploitation with LLM Agents](https://arxiv.org/abs/2607.18538)
   * [CryptanalysisBench: Can LLMs do Cryptanalysis?](https://arxiv.org/abs/2607.18538)
+  * [ExploitGym](https://github.com/sunblaze-ucb/exploitgym): ExploitGym is a large-scale, realistic benchmark built from real-world vulnerabilities designed to evaluate AI agents' ability to develop exploits. [![stars](https://badgen.net/github/stars/sunblaze-ucb/exploitgym)](https://github.com/sunblaze-ucb/exploitgym)
 
 ### 🦠 Malware 🦠
 
@@ -887,6 +888,7 @@ General AI-generated Image Detection. [![stars](https://badgen.net/github/stars/
   * [Position: AI Security Policy Should Target Systems, Not Models](https://arxiv.org/abs/2605.09504)
   * [The “AI Vulnerability Storm”: Building a “Mythos-ready” Security Program](https://labs.cloudsecurityalliance.org/mythos-ciso)
   * [Security Recommendations to Counter the Offensive AI Models](https://www.ccn-cert.cni.es/es/informes/informes-de-buenas-practicas-bp/7475-ccn-cert-bp-36-security-recommendations-to-counter-the-offensive-ai-models/file.html)
+  * [CyberGym](https://github.com/sunblaze-ucb/exploitgym): Evaluating AI Agents' Real-World Cybersecurity Capabilities at Scale. [![stars](https://badgen.net/github/stars/sunblaze-ucb/exploitgym)](https://github.com/sunblaze-ucb/exploitgym)
 
 
 ## 📊 Surveys 📊
