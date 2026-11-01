@@ -473,6 +473,7 @@ AI is used to accomplish malicious tasks and boost classic attacks.
   * [Malware Reverse Engineering is no longer a human problem!](https://blog.securitybreak.io/malware-reverse-engineering-is-no-longer-a-human-problem-5441e4a0564f)
   * [GhidraMCP](https://github.com/LaurieWired/GhidraMCP): MCP Server for Ghidra. [![stars](https://badgen.net/github/stars/LaurieWired/GhidraMCP)](https://github.com/LaurieWired/GhidraMCP)
   * [ghidra-mcp](https://github.com/bethington/ghidra-mcp): Production-grade Ghidra MCP Server — 179 MCP tools, 147 GUI + 172 headless endpoints, Ghidra Server integration, cross-binary documentation transfer, batch operations, AI documentation workflows, and Docker deployment for AI-powered reverse engineering. [![stars](https://badgen.net/github/stars/bethington/ghidra-mcp)](https://github.com/bethington/ghidra-mcp)
+  * [REA (Reverse Engineer Anything)](https://github.com/morluto/rea): Local CLI/MCP server for evidence-backed analysis of shipped native, managed, and JavaScript/Electron applications with AI agents. Deep native analysis requires separately installed Hopper, Ghidra, or IDA. [![stars](https://badgen.net/github/stars/morluto/rea)](https://github.com/morluto/rea)
 
 ### 🌀 Side channels 🌀
 
