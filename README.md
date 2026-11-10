@@ -370,6 +370,7 @@ The most common attacks are **white-box attacks**:
   * [Robust AI Security and Alignment: A Sisyphean Endeavor?](https://arxiv.org/abs/2512.10100)
   * [SkillSpector](https://github.com/nvidia/skillspector): Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security risks.. [![stars](https://badgen.net/github/stars/nvidia/skillspector)](https://github.com/nvidia/skillspector)
   * [Defensive deception against safety-removal attacks on open-weight models](https://markrussinovich.github.io/fools-gold/)
+  * [Argus](https://github.com/gy15901580825/Argus): Red-team testing for AI agents through chat endpoints, browsers, MCP tools and mock payments, with findings mapped to OWASP LLM Top 10, MITRE ATLAS and NIST AI RMF. [![stars](https://badgen.net/github/stars/gy15901580825/Argus)](https://github.com/gy15901580825/Argus)
 
 
 #### 🛠️ Tools 🛠️
