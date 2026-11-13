@@ -440,6 +440,7 @@ AI is used to accomplish malicious tasks and boost classic attacks.
   * [Co-RedTeam: Orchestrated Security Discovery and Exploitation with LLM Agents](https://arxiv.org/abs/2607.18538)
   * [CryptanalysisBench: Can LLMs do Cryptanalysis?](https://arxiv.org/abs/2607.18538)
   * [ExploitGym](https://github.com/sunblaze-ucb/exploitgym): ExploitGym is a large-scale, realistic benchmark built from real-world vulnerabilities designed to evaluate AI agents' ability to develop exploits. [![stars](https://badgen.net/github/stars/sunblaze-ucb/exploitgym)](https://github.com/sunblaze-ucb/exploitgym)
+  * [Xalgorix](https://github.com/xalgorix/xalgorix): Autonomous, black-box AI pentester for web applications and APIs. It exploits what it finds, then re-tests each finding with an independent verifier before reporting it. [![stars](https://badgen.net/github/stars/xalgorix/xalgorix)](https://github.com/xalgorix/xalgorix)
 
 ### 🦠 Malware 🦠
 
